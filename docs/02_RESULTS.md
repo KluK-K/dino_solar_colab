@@ -70,11 +70,4 @@ Full-budget SCDD LoRA recovers **95.2%** of accepted crack positives while flagg
 
 See the [source/cost companion](../paper/source_and_cost_figures.pdf), [supplement](../paper/supplementary_record.pdf) and [complete tables](../results/README.md). Development numbers are not confirmation outcomes.
 
-## Questions for Johnathan
-
-1. Is recognition/localization/operating-point disagreement the clearest contribution?
-2. Is the matched UCF result a useful focused positive result when its SCDD transfer failure is shown alongside it?
-3. Which limitation most constrains interpretation: acquisition/annotation differences, optimization exposure or physical grouping?
-4. What one future experiment would distinguish those explanations?
-
 All 6,212 original comparisons remain available. Reader figures summarize the original central article controls; they add no model, threshold, population, contrast or favorable-image selection.
