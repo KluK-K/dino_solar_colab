@@ -20,7 +20,7 @@
 | Declared comparisons | 6,212 / 6,212 |
 | Reporting | 16,140 fitted pairs; 2,480 native subgroups; 3,686 absolute cells; 29 overlapping themes |
 | Saved-output replay | Same host/environment/implementation; no new inference |
-| Current article | Revision 61; 12 main + 19 supplement pages reviewed |
+| Current article | Revision 63; 14 main + 21 supplement pages reviewed; workflow and fixed-case heatmaps integrated |
 | Formal submission | Author details and journal-specific finalization deferred |
 
 The catalogue has 317 three-seed families and 110 deterministic full-budget singletons. Inference views can share a trained model; 1,061 views are not 1,061 new trainings.

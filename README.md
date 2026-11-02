@@ -11,9 +11,11 @@ A concise research handoff for Johnathan. **Start with the findings, then inspec
 | 2 minutes | This page | Question, main findings, status |
 | 5–10 minutes | [Results and figures](docs/02_RESULTS.md) | Recognition, localization and transfer failures |
 | 10 minutes | [Method and training](docs/03_METHOD_AND_TRAINING.md) | What was trained, losses, budgets, controls and code |
-| Full review | [12-page article](paper/main_article.pdf) + [19-page supplement](paper/supplementary_record.pdf) | Complete narrative and supporting definitions |
+| Full review | [14-page article](paper/main_article.pdf) + [21-page supplement](paper/supplementary_record.pdf) | Complete narrative, real fixed-case maps and detailed architecture |
 
 Need the abbreviations? Read the [data and metric glossary](docs/01_DATA_AND_TERMS.md).
+
+**Visuals in the current paper:** model workflow on page 5, [six-case heatmap comparison](figures/fixed_confirmation_heatmaps.png) on page 11, detailed layers on supplement S20–S21. [Paper guide](paper/README.md).
 
 ## Main findings
 
@@ -51,4 +53,4 @@ See [experiment flow](docs/04_EXPERIMENT_FLOW.md) and [all training records](tra
 
 **Local audit:** run python3 tools/verify_package.py. It checks bytes, links and coverage without importing research models or running training/inference. See [reproduction limits](docs/05_REPRODUCTION_AND_LIMITS.md).
 
-Scientific snapshot: 29 October 2026, article revision 61. Collaboration packaging: 2 November 2026. Historical records remain in the [original private handoff](https://github.com/KluK-K/dino-solar/tree/a42e2a4fcb5960d1468a1365e391eb5cc31ed539).
+Scientific results snapshot: 29 October 2026. Current article revision 63 adds visual integration on 2 November; results and scientific choices are unchanged. The exact revision61 reference bundle is preserved. Historical records remain in the [original private handoff](https://github.com/KluK-K/dino-solar/tree/a42e2a4fcb5960d1468a1365e391eb5cc31ed539).

@@ -6,9 +6,9 @@
 
 The encoder is **DINOv3 ViT-S/16**: 12 transformer blocks, 384-dimensional features. A whole grayscale EL image is letterboxed to 336×336, copied into three channels and normalized using the pretrained convention. The patch grid is 21×21; register tokens do not become image positions.
 
-![Implemented architecture](../figures/dinov3_layer_architecture.png)
+![Implemented model workflow](../figures/implemented_model_workflow.png)
 
-The schematic is traced from existing code. Tensor volumes are schematic, not raw EL pixels or prediction examples.
+The schematic is traced from existing code. The [original detailed layer drawing](../figures/dinov3_layer_architecture.png) and [expanded decoder](../figures/decoder_layers_detail.png) are also embedded on supplement S20–S21. Schematics do not contain raw EL pixels or prediction examples.
 
 Two outputs:
 

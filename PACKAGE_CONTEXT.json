@@ -2,7 +2,7 @@
   "created_for": "Johnathan research review",
   "package_created_date": "2026-11-02",
   "scientific_snapshot_date": "2026-10-29",
-  "manuscript_revision": 61,
+  "manuscript_revision": 63,
   "scientific_content_complete": true,
   "journal_submission_ready": false,
   "default_reader_action": "read and audit; no training/scoring/replay/automation",
@@ -14,15 +14,15 @@
   "copies": [
     {
       "path": "paper/main_article.pdf",
-      "sha256": "ffd8442241fd7f181af203606dca076b0c709047b260401e89d088aa6bd1a48c",
-      "bytes": 429203,
-      "origin": "elpv_research/artifacts/publication_20261017/completed_delivery_bundles_v3/revision61_2026-10-29T05-17-23.472469+00-00/article/main_article.pdf"
+      "sha256": "747669b3de54a318c138b6effe2679907970ea8405688dc751ae63a2e130b0b3",
+      "bytes": 1872117,
+      "origin": "elpv_research/output/pdf/article_v04_revision63_a0540cfe7234/main_article.pdf"
     },
     {
       "path": "paper/supplementary_record.pdf",
-      "sha256": "e029e1512f05fadec19e20718c698d11d81431ee50bd4fdbfabd8d8fd9e4bdc9",
-      "bytes": 116358,
-      "origin": "elpv_research/artifacts/publication_20261017/completed_delivery_bundles_v3/revision61_2026-10-29T05-17-23.472469+00-00/article/supplementary_record.pdf"
+      "sha256": "2d668b847ed2f29f9957d9af486388118d3a5cb79290ddc5d4feb5a9b3725753",
+      "bytes": 270104,
+      "origin": "elpv_research/output/pdf/article_v04_revision63_a0540cfe7234/supplementary_record.pdf"
     },
     {
       "path": "figures/dinov3_layer_architecture.png",
@@ -101,6 +101,55 @@
       "sha256": "6e8531842621e7151141c7b99ef72ff8379ea53e5724c167d48a949da99afe15",
       "bytes": 400186,
       "origin": "elpv_research/artifacts/publication_20261017/completed_delivery_bundles_v3/revision61_2026-10-29T05-17-23.472469+00-00/figures/complete_source_figure_companion.pdf"
+    },
+    {
+      "path": "figures/fixed_confirmation_heatmaps.png",
+      "sha256": "7b4b243af7e57343d8ae7857515950dead763011ee591b3867682796b1b518d3",
+      "bytes": 1133713,
+      "origin": "elpv_research/artifacts/publication_20261017/article_visual_integration_v1/20261102/fixed_confirmation_heatmaps.png"
+    },
+    {
+      "path": "figures/fixed_confirmation_heatmaps.pdf",
+      "sha256": "954a6bc6f32287aa730da3c789e6156349a2aa989c83e7aeab34026bbd5a7df1",
+      "bytes": 694142,
+      "origin": "elpv_research/artifacts/publication_20261017/article_visual_integration_v1/20261102/fixed_confirmation_heatmaps.pdf"
+    },
+    {
+      "path": "figures/implemented_model_workflow.png",
+      "sha256": "10e77d523565a5479708243bc1aa54a2b20c7d0248f6edeba40e06e107bca07e",
+      "bytes": 199304,
+      "origin": "elpv_research/artifacts/publication_20261017/article_visual_integration_v1/20261102/implemented_model_workflow.png"
+    },
+    {
+      "path": "figures/implemented_model_workflow.pdf",
+      "sha256": "979d87988cf6282064ab1fb6ec410b03be0e1822f171eb7d384b2dd802ec885a",
+      "bytes": 35347,
+      "origin": "elpv_research/artifacts/publication_20261017/article_visual_integration_v1/20261102/implemented_model_workflow.pdf"
+    },
+    {
+      "path": "figures/implemented_model_workflow.svg",
+      "sha256": "5e5b2efdfed13140c32992d1923cc41f32239eae85630ffb6e9fa40fb1492603",
+      "bytes": 23503,
+      "origin": "elpv_research/artifacts/publication_20261017/article_visual_integration_v1/20261102/implemented_model_workflow.svg"
     }
-  ]
+  ],
+  "current_main_pages": 14,
+  "current_supplement_pages": 21,
+  "original_reference_bundle_revision": 61,
+  "selected_fixed_case_illustration_shared_with_owner_authorization": true,
+  "selected_figure_scope": {
+    "cases": 6,
+    "systems": 4,
+    "illustrative_seed": 11,
+    "all_cases_fixed_before_predictive_scoring": true,
+    "shared_pixel_softmax_scale": [
+      0,
+      1
+    ],
+    "per_image_normalization": false,
+    "separate_prediction_arrays_or_masks_included": false,
+    "image_classifier_GradCAM": false
+  },
+  "raw_dataset_files_or_separate_prediction_arrays_included": false,
+  "selected_figure_private_only": true
 }

@@ -60,7 +60,15 @@ Full-budget SCDD LoRA recovers **95.2%** of accepted crack positives while flagg
 
 **Interpretation:** This does not demonstrate a useful autonomous inspection policy. The population is constructed rather than an estimate of field prevalence. PVEL has no verified capture-family CI or mask-Dice claim.
 
-## 4. Supporting evidence
+## 4. Real saved crack maps
+
+![All six fixed SCDD cases and four central systems](../figures/fixed_confirmation_heatmaps.png)
+
+All six cases were fixed before scoring. The original internal full-budget CNN, frozen DINO, LoRA and reference systems are shown at the first declared seed, 11. Input fields, annotation and saved maps retain a common 0–1 scale with no per-image normalization. R/N labels use each model's source image threshold. These are pixel-head softmax maps, not Grad-CAM or calibrated attribution of the image classifier. Weak responses, structural false alarms and all fixed positive/negative cases remain visible.
+
+The owner authorized this flattened illustration and the current PDFs for private sharing. Separate raw images, masks and prediction arrays are not distributed. See [the paper](../paper/main_article.pdf), page 11.
+
+## 5. Supporting evidence
 
 - **Internal SCDD confirmation:** higher LoRA AUROC at all four budgets; Dice improves at 5%, falls at 10%/100%, and is close at 20%. The 5% gain also increases normal-structure FPR.
 - **Normal-reference mechanisms:** mixed effects; equal decoder slots do not identify a matching-specific cause.

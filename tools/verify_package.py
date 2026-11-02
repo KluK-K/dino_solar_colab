@@ -59,10 +59,25 @@ def main():
     context = json.loads((ROOT / "PACKAGE_CONTEXT.json").read_text())
     assert context["course_final_project_included"] is False
     assert context["journal_submission_ready"] is False
+    assert context["manuscript_revision"] == 63
+    assert context["original_reference_bundle_revision"] == 61
+    assert context["current_main_pages"] == 14 and context["current_supplement_pages"] == 21
+    assert context["selected_fixed_case_illustration_shared_with_owner_authorization"]
+    assert not context["raw_dataset_files_or_separate_prediction_arrays_included"]
     assert digest(BUNDLE / "MANIFEST.json") == context["source_bundle_manifest_sha256"]
     for record in context["copies"]:
         path = ROOT / record["path"]
         assert path.stat().st_size == record["bytes"] and digest(path) == record["sha256"], record["path"]
+    visual = json.loads((ROOT / "paper/VISUAL_UPDATE_CONTEXT.json").read_text())
+    assert visual["owner_permission"] == "允许同步这张展示图和新版 PDF"
+    assert visual["selected_figure"]["cases"] == 6 and visual["selected_figure"]["systems"] == 4
+    assert visual["selected_figure"]["illustrative_seed"] == 11
+    assert visual["selected_figure"]["all_cases_fixed_before_predictive_scoring"]
+    assert visual["selected_figure"]["shared_pixel_softmax_scale"] == [0, 1]
+    assert not visual["selected_figure"]["per_image_normalization"]
+    assert not visual["selected_figure"]["separate_prediction_arrays_or_masks_included"]
+    assert not visual["new_training_inference_or_statistical_replay"]
+    assert visual["all92_scientific_bindings_unchanged"]
 
     check = subprocess.run([sys.executable, str(BUNDLE / "verify_package.py")],
                            cwd=BUNDLE, capture_output=True, text=True)
@@ -97,7 +112,7 @@ def main():
 
     links = 0
     front = [ROOT / "README.md", ROOT / "RIGHTS_AND_SCOPE.md"] + list((ROOT / "docs").glob("*.md"))
-    front += [ROOT / d / "README.md" for d in ["results", "training", "figures", "reference"]]
+    front += [ROOT / d / "README.md" for d in ["results", "training", "figures", "reference", "paper"]]
     for path in front:
         content = path.read_text()
         assert not re.search(r"<!-- (?:HELD|MATCHED|PVEL)_TABLE -->", content), "Unfilled table"
@@ -119,7 +134,10 @@ def main():
         "reader_subset_rows": {"held_source": 12, "matched_UCF20": 40, "PVEL": 18},
         "original_numeric_fields_unchanged": True,
         "model_import_training_inference_download_or_scientific_replay": False,
-        "raw_learned_owner_inventory_payloads_included": False,
+        "authorized_six_case_flattened_illustration_included": True,
+        "raw_dataset_weights_optimizer_arrays_or_owner_inventories_included": False,
+        "current_article_revision": 63,
+        "current_PDF_pages": {"main": 14, "supplement": 21},
         "journal_submission_ready": False
     }, indent=2))
 

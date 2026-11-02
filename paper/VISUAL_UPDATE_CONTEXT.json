@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-02",
+  "manuscript_revision": 63,
+  "scientific_values_changed": false,
+  "main_pages": 14,
+  "supplement_pages": 21,
+  "main_model_workflow_page": 5,
+  "main_fixed_case_figure_page": 11,
+  "supplement_detailed_architecture_pages": [
+    20,
+    21
+  ],
+  "selected_figure": {
+    "cases": 6,
+    "systems": 4,
+    "illustrative_seed": 11,
+    "all_cases_fixed_before_predictive_scoring": true,
+    "shared_pixel_softmax_scale": [
+      0,
+      1
+    ],
+    "per_image_normalization": false,
+    "separate_prediction_arrays_or_masks_included": false,
+    "image_classifier_GradCAM": false
+  },
+  "owner_permission": "允许同步这张展示图和新版 PDF",
+  "scope": "Selected flattened figure and current PDFs, private review only; no blanket dataset licence or public-release permission.",
+  "creation_vs_sharing": "The PDF was created as an owner-local review copy; the owner subsequently authorized sharing this selected illustration and these PDFs in this private repository.",
+  "page_QA": {
+    "individual_changed_pages_inspected": 15,
+    "exact_RGB_prior_page_reuse": 20,
+    "total": 35
+  },
+  "native_same_snapshot_compile": "success",
+  "all92_scientific_bindings_unchanged": true,
+  "original_registry_and_analysis_unchanged": true,
+  "new_training_inference_or_statistical_replay": false,
+  "original_article61_reference_bundle_unchanged": true
+}

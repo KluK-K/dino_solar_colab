@@ -22,7 +22,7 @@ Historical 171 original and separate 164 fresh-environment checks are same-host 
 
 ## Full reproduction needs additional authorized inputs
 
-The original host is a 32 GiB Apple M2 Max/MPS. This review package excludes raw EL pixels/masks/labels, weights, optimizer/RNG, normal memories, prediction arrays/maps and owner-only identity inventories.
+The original host is a 32 GiB Apple M2 Max/MPS. The owner has authorized one flattened six-case figure and the current article PDFs for private review. Dataset files, separate masks/label collections, weights, optimizer/RNG, normal memories, per-image prediction arrays/maps and owner-only identity inventories remain excluded.
 
 Full reproduction needs appropriate permissions, exact required inputs, initializers, checkpoints, memories, policies and bindings. Missing inputs cannot be replaced with random weights; oracles and absolute-path guards must not be bypassed. This is not a ready-to-run cloud/Google Colab training notebook.
 
