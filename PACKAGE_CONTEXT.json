@@ -1,0 +1,106 @@
+{
+  "created_for": "Johnathan research review",
+  "package_created_date": "2026-11-02",
+  "scientific_snapshot_date": "2026-10-29",
+  "manuscript_revision": 61,
+  "scientific_content_complete": true,
+  "journal_submission_ready": false,
+  "default_reader_action": "read and audit; no training/scoring/replay/automation",
+  "course_final_project_included": false,
+  "later_course_event_note": "The research snapshot did not use the 656 course holdout images. A separate course-only RBF-SVM evaluation was later authorized and completed on 1 November; no DINOv3 evaluation of that holdout occurred. Historical manuscript wording remains a dated snapshot.",
+  "prior_private_repository": "https://github.com/KluK-K/dino-solar",
+  "prior_private_repository_commit": "a42e2a4fcb5960d1468a1365e391eb5cc31ed539",
+  "source_bundle_manifest_sha256": "891d51f457db4cf8d86f5adf32e33e9d1dffa7c64714880250ea463e9218c117",
+  "copies": [
+    {
+      "path": "paper/main_article.pdf",
+      "sha256": "ffd8442241fd7f181af203606dca076b0c709047b260401e89d088aa6bd1a48c",
+      "bytes": 429203,
+      "origin": "elpv_research/artifacts/publication_20261017/completed_delivery_bundles_v3/revision61_2026-10-29T05-17-23.472469+00-00/article/main_article.pdf"
+    },
+    {
+      "path": "paper/supplementary_record.pdf",
+      "sha256": "e029e1512f05fadec19e20718c698d11d81431ee50bd4fdbfabd8d8fd9e4bdc9",
+      "bytes": 116358,
+      "origin": "elpv_research/artifacts/publication_20261017/completed_delivery_bundles_v3/revision61_2026-10-29T05-17-23.472469+00-00/article/supplementary_record.pdf"
+    },
+    {
+      "path": "figures/dinov3_layer_architecture.png",
+      "sha256": "74e96a39d9599b55a78823368a751532440175d6860c609a94623eb86aa70ac0",
+      "bytes": 491710,
+      "origin": "dino-solar/figures/layers/dinov3_layer_architecture.png"
+    },
+    {
+      "path": "figures/dinov3_layer_architecture.pdf",
+      "sha256": "6a8ec29749eb42352fb23c293843ba2d8a453fe91b9987572f9973147487a458",
+      "bytes": 50051,
+      "origin": "dino-solar/figures/layers/dinov3_layer_architecture.pdf"
+    },
+    {
+      "path": "figures/dinov3_layer_architecture.svg",
+      "sha256": "4bc601787fec9c528fe6045778bae1559ef9b6546a46d187f41ddfd6c2425bd2",
+      "bytes": 84134,
+      "origin": "dino-solar/figures/layers/dinov3_layer_architecture.svg"
+    },
+    {
+      "path": "figures/decoder_layers_detail.png",
+      "sha256": "195df5c156613b0fa584c80fae2dda964fa0b287720954b7d31613ef13ecad4c",
+      "bytes": 365158,
+      "origin": "dino-solar/figures/layers/decoder_layers_detail.png"
+    },
+    {
+      "path": "figures/decoder_layers_detail.pdf",
+      "sha256": "9220f3eb6e87680c12cd614861a304dc346f5a8137b7dc8b0665b3b0a043571e",
+      "bytes": 41745,
+      "origin": "dino-solar/figures/layers/decoder_layers_detail.pdf"
+    },
+    {
+      "path": "figures/decoder_layers_detail.svg",
+      "sha256": "12dbf0e403d65ba67173fae95377553ce16b6d45c0fe51f198ba23e6f949df12",
+      "bytes": 34599,
+      "origin": "dino-solar/figures/layers/decoder_layers_detail.svg"
+    },
+    {
+      "path": "figures/study_design.png",
+      "sha256": "00f553efbc361775b336b8727c29777a339a42b446111e1c8117ef870592294b",
+      "bytes": 267846,
+      "origin": "elpv_research/artifacts/publication_20261017/completed_delivery_bundles_v3/revision61_2026-10-29T05-17-23.472469+00-00/figures/design/study_design.png"
+    },
+    {
+      "path": "figures/study_design.pdf",
+      "sha256": "9095ef620504ebfb5d31bf5332dce71624f547fe13df3a92e386bad9a85ec446",
+      "bytes": 34024,
+      "origin": "elpv_research/artifacts/publication_20261017/completed_delivery_bundles_v3/revision61_2026-10-29T05-17-23.472469+00-00/figures/design/study_design.pdf"
+    },
+    {
+      "path": "figures/study_design.svg",
+      "sha256": "688c9695b50c366212143c6e702bc8aa7509b072cee34f0f7322e3fa0e66825e",
+      "bytes": 12724,
+      "origin": "elpv_research/artifacts/publication_20261017/completed_delivery_bundles_v3/revision61_2026-10-29T05-17-23.472469+00-00/figures/design/study_design.svg"
+    },
+    {
+      "path": "training/all1061_source_recipe_records_sanitized.csv",
+      "sha256": "4e1b45fa85ea48c73d6f98057a2f0a9b13f2c530a5ecefa79d620c11e7d157e0",
+      "bytes": 466233,
+      "origin": "dino-solar/evidence/updates/20261028_article55_source_recipes/tables/all1061_source_recipe_records_sanitized.csv"
+    },
+    {
+      "path": "training/all427_source_recipe_families_sanitized.csv",
+      "sha256": "60043c291278ff714a500191439932d1451be36dd87664054288f3ee1b092da0",
+      "bytes": 305817,
+      "origin": "dino-solar/evidence/updates/20261028_article55_source_recipes/tables/all427_source_recipe_families_sanitized.csv"
+    },
+    {
+      "path": "training/source_schedule_summary_sanitized.json",
+      "sha256": "bf74a0b38861e34be08fc9ff770e53d4627f78b97bb62da2d8a418d1ca8a05a6",
+      "bytes": 2452,
+      "origin": "dino-solar/evidence/updates/20261028_article55_source_recipes/tables/source_schedule_summary_sanitized.json"
+    },
+    {
+      "path": "paper/source_and_cost_figures.pdf",
+      "sha256": "6e8531842621e7151141c7b99ef72ff8379ea53e5724c167d48a949da99afe15",
+      "bytes": 400186,
+      "origin": "elpv_research/artifacts/publication_20261017/completed_delivery_bundles_v3/revision61_2026-10-29T05-17-23.472469+00-00/figures/complete_source_figure_companion.pdf"
+    }
+  ]
+}

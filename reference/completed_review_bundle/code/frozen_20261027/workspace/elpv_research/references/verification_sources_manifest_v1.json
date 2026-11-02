@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "repository": "abj247/PV-S3",
+      "commit": "e062f81d602aea4cbae45c13ec85cfe79f95aa7e",
+      "url": "https://raw.githubusercontent.com/abj247/PV-S3/e062f81d602aea4cbae45c13ec85cfe79f95aa7e/main/Utils/losses.py",
+      "destination": "references/publication_20261017/PV-S3_upstream_code/main/Utils/losses.py",
+      "sha256": "9492a93dd570a01286689ae97094faf9c732959cd85bac3d10fbc7917a9b68bb",
+      "license_observation": "No explicit code license verified in pinned author tree; local numerical-oracle acquisition, no redistribution grant."
+    },
+    {
+      "repository": "yyliu01/PS-MT",
+      "commit": "058cdc3bd8fe5faa83dbc798cfb4c136b74207fd",
+      "url": "https://raw.githubusercontent.com/yyliu01/PS-MT/058cdc3bd8fe5faa83dbc798cfb4c136b74207fd/VocCode/Model/Deeplabv3_plus/encoder_decoder.py",
+      "destination": "references/publication_20261017/PS-MT_upstream_code/VocCode/Model/Deeplabv3_plus/encoder_decoder.py",
+      "sha256": "662a435cf49f9275235d88d2e4b12a8513a80b3fc9783d988a3d5e66664700ee",
+      "license_observation": "MIT; retain original copyright/license with copied architecture code."
+    },
+    {
+      "repository": "yyliu01/PS-MT",
+      "commit": "058cdc3bd8fe5faa83dbc798cfb4c136b74207fd",
+      "url": "https://raw.githubusercontent.com/yyliu01/PS-MT/058cdc3bd8fe5faa83dbc798cfb4c136b74207fd/VocCode/Model/Deeplabv3_plus/Backbones/resnet.py",
+      "destination": "references/publication_20261017/PS-MT_upstream_code/VocCode/Model/Deeplabv3_plus/Backbones/resnet.py",
+      "sha256": "c1844ce3a1090c79f229a2fc73e0fce1cb1e57350f2faec13f6a6e889e5f006b",
+      "license_observation": "MIT; retain original copyright/license with copied architecture code."
+    },
+    {
+      "repository": "yyliu01/PS-MT",
+      "commit": "058cdc3bd8fe5faa83dbc798cfb4c136b74207fd",
+      "url": "https://raw.githubusercontent.com/yyliu01/PS-MT/058cdc3bd8fe5faa83dbc798cfb4c136b74207fd/LICENSE.md",
+      "destination": "references/publication_20261017/PS-MT_upstream_code/LICENSE.md",
+      "sha256": "4b1838713c9d872e20fe699ed2e309fdd2e92cedceebba1e9f96c21775b879db",
+      "license_observation": "MIT; retain original copyright/license with copied architecture code."
+    }
+  ],
+  "scope": "Four original-author source/notice files needed by existing published-method numerical-oracle checks. Explicit local acquisition with exact SHA verification. No test skipped, source executed, model/image/mask acquired or redistribution permission granted."
+}

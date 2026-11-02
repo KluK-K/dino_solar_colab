@@ -1,0 +1,5050 @@
+{
+  "panels": [
+    {
+      "group": "image",
+      "metric": "latency",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "image__dinov3_frozen_seed11",
+          "seed": 11,
+          "family": "image__dinov3_frozen",
+          "value": 22.909292028527016
+        },
+        {
+          "model_id": "image__dinov3_frozen_seed22",
+          "seed": 22,
+          "family": "image__dinov3_frozen",
+          "value": 22.70490518025523
+        },
+        {
+          "model_id": "image__dinov3_frozen_seed33",
+          "seed": 33,
+          "family": "image__dinov3_frozen",
+          "value": 14.699638433133563
+        },
+        {
+          "model_id": "image__dinov3_lora_seed11",
+          "seed": 11,
+          "family": "image__dinov3_lora",
+          "value": 23.23916193994659
+        },
+        {
+          "model_id": "image__dinov3_lora_seed22",
+          "seed": 22,
+          "family": "image__dinov3_lora",
+          "value": 14.440315640252878
+        },
+        {
+          "model_id": "image__dinov3_lora_seed33",
+          "seed": 33,
+          "family": "image__dinov3_lora",
+          "value": 13.864109345029858
+        },
+        {
+          "model_id": "image__dinov3_full_seed11",
+          "seed": 11,
+          "family": "image__dinov3_full",
+          "value": 13.982846413571865
+        },
+        {
+          "model_id": "image__dinov3_full_seed22",
+          "seed": 22,
+          "family": "image__dinov3_full",
+          "value": 14.220641860260796
+        },
+        {
+          "model_id": "image__dinov3_full_seed33",
+          "seed": 33,
+          "family": "image__dinov3_full",
+          "value": 14.382138304369912
+        },
+        {
+          "model_id": "image__resnet18_full_seed11",
+          "seed": 11,
+          "family": "image__resnet18_full",
+          "value": 10.381970287266153
+        },
+        {
+          "model_id": "image__resnet18_full_seed22",
+          "seed": 22,
+          "family": "image__resnet18_full",
+          "value": 13.199053519668105
+        },
+        {
+          "model_id": "image__resnet18_full_seed33",
+          "seed": 33,
+          "family": "image__resnet18_full",
+          "value": 13.930859197424645
+        },
+        {
+          "model_id": "image__resnet50_full_seed11",
+          "seed": 11,
+          "family": "image__resnet50_full",
+          "value": 13.199583539059995
+        },
+        {
+          "model_id": "image__resnet50_full_seed22",
+          "seed": 22,
+          "family": "image__resnet50_full",
+          "value": 13.542569450705054
+        },
+        {
+          "model_id": "image__resnet50_full_seed33",
+          "seed": 33,
+          "family": "image__resnet50_full",
+          "value": 14.022800108242748
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed11",
+          "seed": 11,
+          "family": "image__efficientnet_b0_full",
+          "value": 17.23763423021936
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed22",
+          "seed": 22,
+          "family": "image__efficientnet_b0_full",
+          "value": 14.189903132161099
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed33",
+          "seed": 33,
+          "family": "image__efficientnet_b0_full",
+          "value": 17.142583320230415
+        }
+      ]
+    },
+    {
+      "group": "image",
+      "metric": "latency",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "image__dinov3_frozen_seed11",
+          "seed": 11,
+          "family": "image__dinov3_frozen",
+          "value": 12.101728627670482
+        },
+        {
+          "model_id": "image__dinov3_frozen_seed22",
+          "seed": 22,
+          "family": "image__dinov3_frozen",
+          "value": 11.543266497754049
+        },
+        {
+          "model_id": "image__dinov3_frozen_seed33",
+          "seed": 33,
+          "family": "image__dinov3_frozen",
+          "value": 11.75096057994859
+        },
+        {
+          "model_id": "image__dinov3_lora_seed11",
+          "seed": 11,
+          "family": "image__dinov3_lora",
+          "value": 12.283584749740031
+        },
+        {
+          "model_id": "image__dinov3_lora_seed22",
+          "seed": 22,
+          "family": "image__dinov3_lora",
+          "value": 10.630614322575706
+        },
+        {
+          "model_id": "image__dinov3_lora_seed33",
+          "seed": 33,
+          "family": "image__dinov3_lora",
+          "value": 11.126005464230804
+        },
+        {
+          "model_id": "image__dinov3_full_seed11",
+          "seed": 11,
+          "family": "image__dinov3_full",
+          "value": 11.115201224872784
+        },
+        {
+          "model_id": "image__dinov3_full_seed22",
+          "seed": 22,
+          "family": "image__dinov3_full",
+          "value": 10.322578822493426
+        },
+        {
+          "model_id": "image__dinov3_full_seed33",
+          "seed": 33,
+          "family": "image__dinov3_full",
+          "value": 10.50829428096867
+        },
+        {
+          "model_id": "image__resnet18_full_seed11",
+          "seed": 11,
+          "family": "image__resnet18_full",
+          "value": 5.977908936740454
+        },
+        {
+          "model_id": "image__resnet18_full_seed22",
+          "seed": 22,
+          "family": "image__resnet18_full",
+          "value": 8.218430797237787
+        },
+        {
+          "model_id": "image__resnet18_full_seed33",
+          "seed": 33,
+          "family": "image__resnet18_full",
+          "value": 8.197502383001765
+        },
+        {
+          "model_id": "image__resnet50_full_seed11",
+          "seed": 11,
+          "family": "image__resnet50_full",
+          "value": 8.614514022402231
+        },
+        {
+          "model_id": "image__resnet50_full_seed22",
+          "seed": 22,
+          "family": "image__resnet50_full",
+          "value": 8.725881520154596
+        },
+        {
+          "model_id": "image__resnet50_full_seed33",
+          "seed": 33,
+          "family": "image__resnet50_full",
+          "value": 8.945813036372519
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed11",
+          "seed": 11,
+          "family": "image__efficientnet_b0_full",
+          "value": 8.871049254713448
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed22",
+          "seed": 22,
+          "family": "image__efficientnet_b0_full",
+          "value": 6.664489323612929
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed33",
+          "seed": 33,
+          "family": "image__efficientnet_b0_full",
+          "value": 8.81174228225763
+        }
+      ]
+    },
+    {
+      "group": "image",
+      "metric": "latency",
+      "cohort": "ucf",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "image__dinov3_frozen_seed11",
+          "seed": 11,
+          "family": "image__dinov3_frozen",
+          "value": 15.971891647529636
+        },
+        {
+          "model_id": "image__dinov3_frozen_seed22",
+          "seed": 22,
+          "family": "image__dinov3_frozen",
+          "value": 16.208844748325646
+        },
+        {
+          "model_id": "image__dinov3_frozen_seed33",
+          "seed": 33,
+          "family": "image__dinov3_frozen",
+          "value": 26.144723147478736
+        },
+        {
+          "model_id": "image__dinov3_lora_seed11",
+          "seed": 11,
+          "family": "image__dinov3_lora",
+          "value": 16.083567516423415
+        },
+        {
+          "model_id": "image__dinov3_lora_seed22",
+          "seed": 22,
+          "family": "image__dinov3_lora",
+          "value": 10.642761737649698
+        },
+        {
+          "model_id": "image__dinov3_lora_seed33",
+          "seed": 33,
+          "family": "image__dinov3_lora",
+          "value": 26.54801298387695
+        },
+        {
+          "model_id": "image__dinov3_full_seed11",
+          "seed": 11,
+          "family": "image__dinov3_full",
+          "value": 26.617581498007787
+        },
+        {
+          "model_id": "image__dinov3_full_seed22",
+          "seed": 22,
+          "family": "image__dinov3_full",
+          "value": 10.845434695460595
+        },
+        {
+          "model_id": "image__dinov3_full_seed33",
+          "seed": 33,
+          "family": "image__dinov3_full",
+          "value": 11.122231785381256
+        },
+        {
+          "model_id": "image__resnet18_full_seed11",
+          "seed": 11,
+          "family": "image__resnet18_full",
+          "value": 6.89733253878563
+        },
+        {
+          "model_id": "image__resnet18_full_seed22",
+          "seed": 22,
+          "family": "image__resnet18_full",
+          "value": 9.043997411919369
+        },
+        {
+          "model_id": "image__resnet18_full_seed33",
+          "seed": 33,
+          "family": "image__resnet18_full",
+          "value": 8.73672924881671
+        },
+        {
+          "model_id": "image__resnet50_full_seed11",
+          "seed": 11,
+          "family": "image__resnet50_full",
+          "value": 9.276512019921007
+        },
+        {
+          "model_id": "image__resnet50_full_seed22",
+          "seed": 22,
+          "family": "image__resnet50_full",
+          "value": 9.868424333805262
+        },
+        {
+          "model_id": "image__resnet50_full_seed33",
+          "seed": 33,
+          "family": "image__resnet50_full",
+          "value": 10.091677203579525
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed11",
+          "seed": 11,
+          "family": "image__efficientnet_b0_full",
+          "value": 12.80597713234466
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed22",
+          "seed": 22,
+          "family": "image__efficientnet_b0_full",
+          "value": 10.807223481039495
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed33",
+          "seed": 33,
+          "family": "image__efficientnet_b0_full",
+          "value": 12.673105880466485
+        }
+      ]
+    },
+    {
+      "group": "image",
+      "metric": "latency",
+      "cohort": "ucf",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "image__dinov3_frozen_seed11",
+          "seed": 11,
+          "family": "image__dinov3_frozen",
+          "value": 9.69860997256758
+        },
+        {
+          "model_id": "image__dinov3_frozen_seed22",
+          "seed": 22,
+          "family": "image__dinov3_frozen",
+          "value": 9.142430906920412
+        },
+        {
+          "model_id": "image__dinov3_frozen_seed33",
+          "seed": 33,
+          "family": "image__dinov3_frozen",
+          "value": 7.224013081340249
+        },
+        {
+          "model_id": "image__dinov3_lora_seed11",
+          "seed": 11,
+          "family": "image__dinov3_lora",
+          "value": 9.971119368145633
+        },
+        {
+          "model_id": "image__dinov3_lora_seed22",
+          "seed": 22,
+          "family": "image__dinov3_lora",
+          "value": 7.203368217207838
+        },
+        {
+          "model_id": "image__dinov3_lora_seed33",
+          "seed": 33,
+          "family": "image__dinov3_lora",
+          "value": 7.493121218109547
+        },
+        {
+          "model_id": "image__dinov3_full_seed11",
+          "seed": 11,
+          "family": "image__dinov3_full",
+          "value": 6.783202417779627
+        },
+        {
+          "model_id": "image__dinov3_full_seed22",
+          "seed": 22,
+          "family": "image__dinov3_full",
+          "value": 7.40427324429241
+        },
+        {
+          "model_id": "image__dinov3_full_seed33",
+          "seed": 33,
+          "family": "image__dinov3_full",
+          "value": 7.43041483219713
+        },
+        {
+          "model_id": "image__resnet18_full_seed11",
+          "seed": 11,
+          "family": "image__resnet18_full",
+          "value": 2.7014201539460307
+        },
+        {
+          "model_id": "image__resnet18_full_seed22",
+          "seed": 22,
+          "family": "image__resnet18_full",
+          "value": 3.3919577557203726
+        },
+        {
+          "model_id": "image__resnet18_full_seed33",
+          "seed": 33,
+          "family": "image__resnet18_full",
+          "value": 3.8540190903383285
+        },
+        {
+          "model_id": "image__resnet50_full_seed11",
+          "seed": 11,
+          "family": "image__resnet50_full",
+          "value": 5.397068406996685
+        },
+        {
+          "model_id": "image__resnet50_full_seed22",
+          "seed": 22,
+          "family": "image__resnet50_full",
+          "value": 5.524277806736875
+        },
+        {
+          "model_id": "image__resnet50_full_seed33",
+          "seed": 33,
+          "family": "image__resnet50_full",
+          "value": 5.499862489658733
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed11",
+          "seed": 11,
+          "family": "image__efficientnet_b0_full",
+          "value": 3.8395311087803092
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed22",
+          "seed": 22,
+          "family": "image__efficientnet_b0_full",
+          "value": 3.3204439854206043
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed33",
+          "seed": 33,
+          "family": "image__efficientnet_b0_full",
+          "value": 4.01242054717312
+        }
+      ]
+    },
+    {
+      "group": "image",
+      "metric": "rss",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "image__dinov3_frozen_seed11",
+          "seed": 11,
+          "family": "image__dinov3_frozen",
+          "value": 532.21875
+        },
+        {
+          "model_id": "image__dinov3_frozen_seed22",
+          "seed": 22,
+          "family": "image__dinov3_frozen",
+          "value": 533.65625
+        },
+        {
+          "model_id": "image__dinov3_frozen_seed33",
+          "seed": 33,
+          "family": "image__dinov3_frozen",
+          "value": 535.1875
+        },
+        {
+          "model_id": "image__dinov3_lora_seed11",
+          "seed": 11,
+          "family": "image__dinov3_lora",
+          "value": 543.34375
+        },
+        {
+          "model_id": "image__dinov3_lora_seed22",
+          "seed": 22,
+          "family": "image__dinov3_lora",
+          "value": 540.90625
+        },
+        {
+          "model_id": "image__dinov3_lora_seed33",
+          "seed": 33,
+          "family": "image__dinov3_lora",
+          "value": 539.953125
+        },
+        {
+          "model_id": "image__dinov3_full_seed11",
+          "seed": 11,
+          "family": "image__dinov3_full",
+          "value": 617.625
+        },
+        {
+          "model_id": "image__dinov3_full_seed22",
+          "seed": 22,
+          "family": "image__dinov3_full",
+          "value": 605.5625
+        },
+        {
+          "model_id": "image__dinov3_full_seed33",
+          "seed": 33,
+          "family": "image__dinov3_full",
+          "value": 606.390625
+        },
+        {
+          "model_id": "image__resnet18_full_seed11",
+          "seed": 11,
+          "family": "image__resnet18_full",
+          "value": 594.21875
+        },
+        {
+          "model_id": "image__resnet18_full_seed22",
+          "seed": 22,
+          "family": "image__resnet18_full",
+          "value": 589.609375
+        },
+        {
+          "model_id": "image__resnet18_full_seed33",
+          "seed": 33,
+          "family": "image__resnet18_full",
+          "value": 592.53125
+        },
+        {
+          "model_id": "image__resnet50_full_seed11",
+          "seed": 11,
+          "family": "image__resnet50_full",
+          "value": 722.515625
+        },
+        {
+          "model_id": "image__resnet50_full_seed22",
+          "seed": 22,
+          "family": "image__resnet50_full",
+          "value": 720.59375
+        },
+        {
+          "model_id": "image__resnet50_full_seed33",
+          "seed": 33,
+          "family": "image__resnet50_full",
+          "value": 720.5625
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed11",
+          "seed": 11,
+          "family": "image__efficientnet_b0_full",
+          "value": 620.546875
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed22",
+          "seed": 22,
+          "family": "image__efficientnet_b0_full",
+          "value": 615.9375
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed33",
+          "seed": 33,
+          "family": "image__efficientnet_b0_full",
+          "value": 607.09375
+        }
+      ]
+    },
+    {
+      "group": "image",
+      "metric": "rss",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "image__dinov3_frozen_seed11",
+          "seed": 11,
+          "family": "image__dinov3_frozen",
+          "value": 532.21875
+        },
+        {
+          "model_id": "image__dinov3_frozen_seed22",
+          "seed": 22,
+          "family": "image__dinov3_frozen",
+          "value": 533.65625
+        },
+        {
+          "model_id": "image__dinov3_frozen_seed33",
+          "seed": 33,
+          "family": "image__dinov3_frozen",
+          "value": 535.1875
+        },
+        {
+          "model_id": "image__dinov3_lora_seed11",
+          "seed": 11,
+          "family": "image__dinov3_lora",
+          "value": 567.609375
+        },
+        {
+          "model_id": "image__dinov3_lora_seed22",
+          "seed": 22,
+          "family": "image__dinov3_lora",
+          "value": 552.875
+        },
+        {
+          "model_id": "image__dinov3_lora_seed33",
+          "seed": 33,
+          "family": "image__dinov3_lora",
+          "value": 568.65625
+        },
+        {
+          "model_id": "image__dinov3_full_seed11",
+          "seed": 11,
+          "family": "image__dinov3_full",
+          "value": 618.0625
+        },
+        {
+          "model_id": "image__dinov3_full_seed22",
+          "seed": 22,
+          "family": "image__dinov3_full",
+          "value": 605.5625
+        },
+        {
+          "model_id": "image__dinov3_full_seed33",
+          "seed": 33,
+          "family": "image__dinov3_full",
+          "value": 606.390625
+        },
+        {
+          "model_id": "image__resnet18_full_seed11",
+          "seed": 11,
+          "family": "image__resnet18_full",
+          "value": 594.21875
+        },
+        {
+          "model_id": "image__resnet18_full_seed22",
+          "seed": 22,
+          "family": "image__resnet18_full",
+          "value": 589.609375
+        },
+        {
+          "model_id": "image__resnet18_full_seed33",
+          "seed": 33,
+          "family": "image__resnet18_full",
+          "value": 592.53125
+        },
+        {
+          "model_id": "image__resnet50_full_seed11",
+          "seed": 11,
+          "family": "image__resnet50_full",
+          "value": 753.140625
+        },
+        {
+          "model_id": "image__resnet50_full_seed22",
+          "seed": 22,
+          "family": "image__resnet50_full",
+          "value": 720.59375
+        },
+        {
+          "model_id": "image__resnet50_full_seed33",
+          "seed": 33,
+          "family": "image__resnet50_full",
+          "value": 720.5625
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed11",
+          "seed": 11,
+          "family": "image__efficientnet_b0_full",
+          "value": 780.921875
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed22",
+          "seed": 22,
+          "family": "image__efficientnet_b0_full",
+          "value": 736.359375
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed33",
+          "seed": 33,
+          "family": "image__efficientnet_b0_full",
+          "value": 714.984375
+        }
+      ]
+    },
+    {
+      "group": "image",
+      "metric": "rss",
+      "cohort": "ucf",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "image__dinov3_frozen_seed11",
+          "seed": 11,
+          "family": "image__dinov3_frozen",
+          "value": 532.21875
+        },
+        {
+          "model_id": "image__dinov3_frozen_seed22",
+          "seed": 22,
+          "family": "image__dinov3_frozen",
+          "value": 533.65625
+        },
+        {
+          "model_id": "image__dinov3_frozen_seed33",
+          "seed": 33,
+          "family": "image__dinov3_frozen",
+          "value": 535.1875
+        },
+        {
+          "model_id": "image__dinov3_lora_seed11",
+          "seed": 11,
+          "family": "image__dinov3_lora",
+          "value": 574.140625
+        },
+        {
+          "model_id": "image__dinov3_lora_seed22",
+          "seed": 22,
+          "family": "image__dinov3_lora",
+          "value": 552.875
+        },
+        {
+          "model_id": "image__dinov3_lora_seed33",
+          "seed": 33,
+          "family": "image__dinov3_lora",
+          "value": 568.65625
+        },
+        {
+          "model_id": "image__dinov3_full_seed11",
+          "seed": 11,
+          "family": "image__dinov3_full",
+          "value": 618.0625
+        },
+        {
+          "model_id": "image__dinov3_full_seed22",
+          "seed": 22,
+          "family": "image__dinov3_full",
+          "value": 605.5625
+        },
+        {
+          "model_id": "image__dinov3_full_seed33",
+          "seed": 33,
+          "family": "image__dinov3_full",
+          "value": 606.390625
+        },
+        {
+          "model_id": "image__resnet18_full_seed11",
+          "seed": 11,
+          "family": "image__resnet18_full",
+          "value": 594.21875
+        },
+        {
+          "model_id": "image__resnet18_full_seed22",
+          "seed": 22,
+          "family": "image__resnet18_full",
+          "value": 589.609375
+        },
+        {
+          "model_id": "image__resnet18_full_seed33",
+          "seed": 33,
+          "family": "image__resnet18_full",
+          "value": 592.53125
+        },
+        {
+          "model_id": "image__resnet50_full_seed11",
+          "seed": 11,
+          "family": "image__resnet50_full",
+          "value": 755.03125
+        },
+        {
+          "model_id": "image__resnet50_full_seed22",
+          "seed": 22,
+          "family": "image__resnet50_full",
+          "value": 720.59375
+        },
+        {
+          "model_id": "image__resnet50_full_seed33",
+          "seed": 33,
+          "family": "image__resnet50_full",
+          "value": 720.5625
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed11",
+          "seed": 11,
+          "family": "image__efficientnet_b0_full",
+          "value": 780.921875
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed22",
+          "seed": 22,
+          "family": "image__efficientnet_b0_full",
+          "value": 736.359375
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed33",
+          "seed": 33,
+          "family": "image__efficientnet_b0_full",
+          "value": 714.984375
+        }
+      ]
+    },
+    {
+      "group": "image",
+      "metric": "rss",
+      "cohort": "ucf",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "image__dinov3_frozen_seed11",
+          "seed": 11,
+          "family": "image__dinov3_frozen",
+          "value": 532.21875
+        },
+        {
+          "model_id": "image__dinov3_frozen_seed22",
+          "seed": 22,
+          "family": "image__dinov3_frozen",
+          "value": 533.65625
+        },
+        {
+          "model_id": "image__dinov3_frozen_seed33",
+          "seed": 33,
+          "family": "image__dinov3_frozen",
+          "value": 535.1875
+        },
+        {
+          "model_id": "image__dinov3_lora_seed11",
+          "seed": 11,
+          "family": "image__dinov3_lora",
+          "value": 574.140625
+        },
+        {
+          "model_id": "image__dinov3_lora_seed22",
+          "seed": 22,
+          "family": "image__dinov3_lora",
+          "value": 552.875
+        },
+        {
+          "model_id": "image__dinov3_lora_seed33",
+          "seed": 33,
+          "family": "image__dinov3_lora",
+          "value": 568.65625
+        },
+        {
+          "model_id": "image__dinov3_full_seed11",
+          "seed": 11,
+          "family": "image__dinov3_full",
+          "value": 618.0625
+        },
+        {
+          "model_id": "image__dinov3_full_seed22",
+          "seed": 22,
+          "family": "image__dinov3_full",
+          "value": 605.5625
+        },
+        {
+          "model_id": "image__dinov3_full_seed33",
+          "seed": 33,
+          "family": "image__dinov3_full",
+          "value": 606.390625
+        },
+        {
+          "model_id": "image__resnet18_full_seed11",
+          "seed": 11,
+          "family": "image__resnet18_full",
+          "value": 604.328125
+        },
+        {
+          "model_id": "image__resnet18_full_seed22",
+          "seed": 22,
+          "family": "image__resnet18_full",
+          "value": 589.609375
+        },
+        {
+          "model_id": "image__resnet18_full_seed33",
+          "seed": 33,
+          "family": "image__resnet18_full",
+          "value": 597.5625
+        },
+        {
+          "model_id": "image__resnet50_full_seed11",
+          "seed": 11,
+          "family": "image__resnet50_full",
+          "value": 796.609375
+        },
+        {
+          "model_id": "image__resnet50_full_seed22",
+          "seed": 22,
+          "family": "image__resnet50_full",
+          "value": 720.59375
+        },
+        {
+          "model_id": "image__resnet50_full_seed33",
+          "seed": 33,
+          "family": "image__resnet50_full",
+          "value": 720.5625
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed11",
+          "seed": 11,
+          "family": "image__efficientnet_b0_full",
+          "value": 780.921875
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed22",
+          "seed": 22,
+          "family": "image__efficientnet_b0_full",
+          "value": 736.359375
+        },
+        {
+          "model_id": "image__efficientnet_b0_full_seed33",
+          "seed": 33,
+          "family": "image__efficientnet_b0_full",
+          "value": 714.984375
+        }
+      ]
+    },
+    {
+      "group": "dense",
+      "metric": "latency",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "dense__deeplabv3plus_full_seed11",
+          "seed": 11,
+          "family": "dense__deeplabv3plus_full",
+          "value": 24.1868385575457
+        },
+        {
+          "model_id": "dense__deeplabv3plus_full_seed22",
+          "seed": 22,
+          "family": "dense__deeplabv3plus_full",
+          "value": 29.12414102600171
+        },
+        {
+          "model_id": "dense__deeplabv3plus_full_seed33",
+          "seed": 33,
+          "family": "dense__deeplabv3plus_full",
+          "value": 27.922948570975084
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 39.91163176938127
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 26.638068852447336
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 24.768644226768036
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_lora",
+          "value": 26.288728856553252
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_lora",
+          "value": 41.784951828176055
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_lora",
+          "value": 27.101862549442174
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_full",
+          "value": 25.580911821502653
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_full",
+          "value": 25.195950477057668
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_full",
+          "value": 39.50004804046278
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_reference",
+          "value": 49.27770254411801
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_reference",
+          "value": 31.980685311955984
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_reference",
+          "value": 29.584911458878818
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 36.89883059378915
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 29.11326484462814
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 45.161920206945
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 44.58983723363412
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 47.161046910415436
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 50.38455546570894
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 44.64589290591514
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 43.80517437234203
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 44.80299523877686
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 44.28132230805981
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 36.792129737210914
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 31.4472640832711
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 43.921077988134364
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 44.52051732760783
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 44.450784083508864
+        }
+      ]
+    },
+    {
+      "group": "dense",
+      "metric": "latency",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "dense__deeplabv3plus_full_seed11",
+          "seed": 11,
+          "family": "dense__deeplabv3plus_full",
+          "value": 16.17603942266323
+        },
+        {
+          "model_id": "dense__deeplabv3plus_full_seed22",
+          "seed": 22,
+          "family": "dense__deeplabv3plus_full",
+          "value": 19.313278846161445
+        },
+        {
+          "model_id": "dense__deeplabv3plus_full_seed33",
+          "seed": 33,
+          "family": "dense__deeplabv3plus_full",
+          "value": 19.514723054061715
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 21.094608620774967
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 18.20202291866186
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 19.85649715053008
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_lora",
+          "value": 18.94114602442056
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_lora",
+          "value": 20.448193132500577
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_lora",
+          "value": 18.046241804182614
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_full",
+          "value": 18.138447060034828
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_full",
+          "value": 18.256017801609218
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_full",
+          "value": 20.743136753877387
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_reference",
+          "value": 24.94425355109182
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_reference",
+          "value": 20.513769945639194
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_reference",
+          "value": 21.475094738694974
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 23.169418098405004
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 21.4916101605114
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 24.21487974297478
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 23.888641615475176
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 21.515039666728292
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 22.185612299434435
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 23.96558535065067
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 23.148209406487496
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 24.05205448396886
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 23.790886276733247
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 21.282632005377078
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 21.75156814059471
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 21.86272448682335
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 24.177238481793225
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 26.869366930511134
+        }
+      ]
+    },
+    {
+      "group": "dense",
+      "metric": "latency",
+      "cohort": "ucf",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "dense__deeplabv3plus_full_seed11",
+          "seed": 11,
+          "family": "dense__deeplabv3plus_full",
+          "value": 21.900218421441696
+        },
+        {
+          "model_id": "dense__deeplabv3plus_full_seed22",
+          "seed": 22,
+          "family": "dense__deeplabv3plus_full",
+          "value": 24.178614150624462
+        },
+        {
+          "model_id": "dense__deeplabv3plus_full_seed33",
+          "seed": 33,
+          "family": "dense__deeplabv3plus_full",
+          "value": 23.59934775321203
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 35.129312121006116
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 23.770100092190468
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 24.187943640403276
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_lora",
+          "value": 23.461753488951473
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_lora",
+          "value": 34.047710170514534
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_lora",
+          "value": 23.49010391788947
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_full",
+          "value": 21.665321998731343
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_full",
+          "value": 21.620778986902604
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_full",
+          "value": 34.41216324152815
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_reference",
+          "value": 55.43650620519509
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_reference",
+          "value": 25.974441678154953
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_reference",
+          "value": 25.647253041740424
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 28.652855618531966
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 25.725489648513843
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 41.11913963827456
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 40.844492659210985
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 56.0298821775156
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 28.22058088102833
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 40.192966971568076
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 40.559194737850405
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 40.5910899586499
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 39.74241172288393
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 51.035021419290366
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 26.65739190916336
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 56.114380910104614
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 40.391011633043895
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 25.29511977756006
+        }
+      ]
+    },
+    {
+      "group": "dense",
+      "metric": "latency",
+      "cohort": "ucf",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "dense__deeplabv3plus_full_seed11",
+          "seed": 11,
+          "family": "dense__deeplabv3plus_full",
+          "value": 12.464169481076128
+        },
+        {
+          "model_id": "dense__deeplabv3plus_full_seed22",
+          "seed": 22,
+          "family": "dense__deeplabv3plus_full",
+          "value": 16.98158062496331
+        },
+        {
+          "model_id": "dense__deeplabv3plus_full_seed33",
+          "seed": 33,
+          "family": "dense__deeplabv3plus_full",
+          "value": 16.64337160845482
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 18.515236440742775
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 14.743474617513806
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 14.569079566227142
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_lora",
+          "value": 15.089950012584586
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_lora",
+          "value": 17.4643327574094
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_lora",
+          "value": 14.75496725341695
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_full",
+          "value": 14.209989341907203
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_full",
+          "value": 14.957282563866396
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_full",
+          "value": 18.526633428734577
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_reference",
+          "value": 18.74288497925844
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_reference",
+          "value": 17.879949605937096
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_reference",
+          "value": 19.62766782759667
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 20.20895687354252
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 17.73888235640994
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 21.167230903885738
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 21.178979567945177
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 17.818379072948943
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 17.932280813083917
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 21.096894681605317
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 21.06798352392087
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 21.201879647560418
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 20.98535688669789
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 19.59046666174694
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 18.701316176935336
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 17.909332752487686
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 21.192505226882044
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 17.74205329318986
+        }
+      ]
+    },
+    {
+      "group": "dense",
+      "metric": "rss",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "dense__deeplabv3plus_full_seed11",
+          "seed": 11,
+          "family": "dense__deeplabv3plus_full",
+          "value": 837.609375
+        },
+        {
+          "model_id": "dense__deeplabv3plus_full_seed22",
+          "seed": 22,
+          "family": "dense__deeplabv3plus_full",
+          "value": 806.390625
+        },
+        {
+          "model_id": "dense__deeplabv3plus_full_seed33",
+          "seed": 33,
+          "family": "dense__deeplabv3plus_full",
+          "value": 815.25
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 611.234375
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 613.15625
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 616.765625
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_lora",
+          "value": 616.609375
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_lora",
+          "value": 601.34375
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_lora",
+          "value": 608.34375
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_full",
+          "value": 679.203125
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_full",
+          "value": 680.328125
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_full",
+          "value": 669.40625
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_reference",
+          "value": 1054.15625
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_reference",
+          "value": 1167.703125
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_reference",
+          "value": 1836.53125
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 1065.078125
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 1479.1875
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 1208.65625
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 1405.859375
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 2150.234375
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 1315.5
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 1474.921875
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 956.46875
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 1194.65625
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 1376.359375
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 1272.15625
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 1481.765625
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 1202.5625
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 1688.921875
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 1626.265625
+        }
+      ]
+    },
+    {
+      "group": "dense",
+      "metric": "rss",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "dense__deeplabv3plus_full_seed11",
+          "seed": 11,
+          "family": "dense__deeplabv3plus_full",
+          "value": 984.15625
+        },
+        {
+          "model_id": "dense__deeplabv3plus_full_seed22",
+          "seed": 22,
+          "family": "dense__deeplabv3plus_full",
+          "value": 806.390625
+        },
+        {
+          "model_id": "dense__deeplabv3plus_full_seed33",
+          "seed": 33,
+          "family": "dense__deeplabv3plus_full",
+          "value": 815.25
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 611.234375
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 613.15625
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 616.765625
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_lora",
+          "value": 616.609375
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_lora",
+          "value": 601.34375
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_lora",
+          "value": 608.34375
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_full",
+          "value": 679.203125
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_full",
+          "value": 710.859375
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_full",
+          "value": 754.4375
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_reference",
+          "value": 1054.15625
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_reference",
+          "value": 1167.703125
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_reference",
+          "value": 1836.53125
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 1065.078125
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 1479.1875
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 1208.65625
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 1405.859375
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 2150.234375
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 1315.5
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 1474.921875
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 956.46875
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 1194.65625
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 1376.359375
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 1272.15625
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 1481.765625
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 1202.5625
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 1688.921875
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 1626.265625
+        }
+      ]
+    },
+    {
+      "group": "dense",
+      "metric": "rss",
+      "cohort": "ucf",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "dense__deeplabv3plus_full_seed11",
+          "seed": 11,
+          "family": "dense__deeplabv3plus_full",
+          "value": 984.15625
+        },
+        {
+          "model_id": "dense__deeplabv3plus_full_seed22",
+          "seed": 22,
+          "family": "dense__deeplabv3plus_full",
+          "value": 806.390625
+        },
+        {
+          "model_id": "dense__deeplabv3plus_full_seed33",
+          "seed": 33,
+          "family": "dense__deeplabv3plus_full",
+          "value": 815.25
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 611.234375
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 613.15625
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 616.765625
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_lora",
+          "value": 616.609375
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_lora",
+          "value": 601.34375
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_lora",
+          "value": 608.34375
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_full",
+          "value": 679.203125
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_full",
+          "value": 710.859375
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_full",
+          "value": 754.4375
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_reference",
+          "value": 1077.578125
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_reference",
+          "value": 1634.796875
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_reference",
+          "value": 1836.53125
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 1292.78125
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 1702.234375
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 1457.296875
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 1472.203125
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 2150.234375
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 1315.5
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 1474.921875
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 1265.859375
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 1456.59375
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 1376.359375
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 1272.15625
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 1481.765625
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 1468.359375
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 1688.921875
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 1626.265625
+        }
+      ]
+    },
+    {
+      "group": "dense",
+      "metric": "rss",
+      "cohort": "ucf",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "dense__deeplabv3plus_full_seed11",
+          "seed": 11,
+          "family": "dense__deeplabv3plus_full",
+          "value": 984.15625
+        },
+        {
+          "model_id": "dense__deeplabv3plus_full_seed22",
+          "seed": 22,
+          "family": "dense__deeplabv3plus_full",
+          "value": 806.390625
+        },
+        {
+          "model_id": "dense__deeplabv3plus_full_seed33",
+          "seed": 33,
+          "family": "dense__deeplabv3plus_full",
+          "value": 815.25
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 611.234375
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 613.15625
+        },
+        {
+          "model_id": "dense__dinov3_dense_frozen_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_frozen",
+          "value": 616.765625
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_lora",
+          "value": 616.609375
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_lora",
+          "value": 601.34375
+        },
+        {
+          "model_id": "dense__dinov3_dense_lora_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_lora",
+          "value": 608.34375
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_full",
+          "value": 679.203125
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_full",
+          "value": 710.859375
+        },
+        {
+          "model_id": "dense__dinov3_dense_full_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_full",
+          "value": 754.4375
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_reference",
+          "value": 1167.578125
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_reference",
+          "value": 1634.796875
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_reference",
+          "value": 1836.53125
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 1292.78125
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 1702.234375
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_no_position",
+          "value": 1457.296875
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 1472.203125
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 2150.234375
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_mean_evidence",
+          "value": 1315.5
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 1474.921875
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 1265.859375
+        },
+        {
+          "model_id": "dense__dinov3_dense_reference_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_dense_reference_b20",
+          "value": 1456.59375
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 1376.359375
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 1272.15625
+        },
+        {
+          "model_id": "dense__dinov3_reference_no_position_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_no_position_b20",
+          "value": 1481.765625
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed11",
+          "seed": 11,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 1468.359375
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed22",
+          "seed": 22,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 1688.921875
+        },
+        {
+          "model_id": "dense__dinov3_reference_mean_evidence_b20_seed33",
+          "seed": 33,
+          "family": "dense__dinov3_reference_mean_evidence_b20",
+          "value": 1626.265625
+        }
+      ]
+    },
+    {
+      "group": "mechanism",
+      "metric": "latency",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 18.208873697670647
+        },
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 27.97723338578395
+        },
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 28.458207536573678
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 30.819578244194304
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 25.94097587346309
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 39.765374407310176
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 44.99442411913003
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 45.30770736122955
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 47.12571391896835
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_global_normal_distance",
+          "value": 38.72252610761492
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 44.81311819842483
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 41.54551032853666
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 44.55718509202818
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 29.19237014633256
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 27.504535488773698
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 26.47583532953725
+        }
+      ]
+    },
+    {
+      "group": "mechanism",
+      "metric": "latency",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 12.6926683306036
+        },
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 14.454681389139928
+        },
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 14.468433515850636
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 19.528264494909987
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 18.32900582109591
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 21.14811182045975
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 23.910053060429856
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 23.90660873569145
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 21.718985637904613
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_global_normal_distance",
+          "value": 32.49856991231696
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 24.15088448869834
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 20.343080596823214
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 23.856947289387087
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 19.539180798774474
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 22.127099221099986
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 20.735759861857506
+        }
+      ]
+    },
+    {
+      "group": "mechanism",
+      "metric": "latency",
+      "cohort": "ucf",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 14.71194740449793
+        },
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 32.925663289592364
+        },
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 33.10104515620096
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 48.529792633340804
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 21.639642275350038
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 35.33662345401163
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 41.061184110206575
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 40.75398184683954
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 56.28755979001696
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_global_normal_distance",
+          "value": 41.62793692883624
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 54.8372472630987
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 23.856303101232232
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 40.87436762530096
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 36.13905202770649
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 30.367982082697022
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 40.02759423442618
+        }
+      ]
+    },
+    {
+      "group": "mechanism",
+      "metric": "latency",
+      "cohort": "ucf",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 9.904527998810936
+        },
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 11.68556792477449
+        },
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 11.515816665514437
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 13.705123746009587
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 14.87287025313911
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 18.53603517939878
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 21.452754363417625
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 21.18606065497409
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 17.955098349362785
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_global_normal_distance",
+          "value": 32.26383526343852
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 18.183814145646295
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 18.870704451597533
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 21.06677005987961
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 17.211373252685853
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 17.81365068434456
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 16.428368699975138
+        }
+      ]
+    },
+    {
+      "group": "mechanism",
+      "metric": "rss",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 577.921875
+        },
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 577.03125
+        },
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 570.890625
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 604.96875
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 601.5625
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 613.28125
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 1207.015625
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 1591.703125
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 1902.984375
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_global_normal_distance",
+          "value": 1233.53125
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 1191.953125
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 1068.171875
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 1063.5
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 729.78125
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 751.28125
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 752.375
+        }
+      ]
+    },
+    {
+      "group": "mechanism",
+      "metric": "rss",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 653.609375
+        },
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 624.046875
+        },
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 634.75
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 604.96875
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 601.5625
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 613.28125
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 1207.015625
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 1591.703125
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 1902.984375
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_global_normal_distance",
+          "value": 1233.53125
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 1191.953125
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 1068.171875
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 1063.5
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 729.78125
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 800.203125
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 752.375
+        }
+      ]
+    },
+    {
+      "group": "mechanism",
+      "metric": "rss",
+      "cohort": "ucf",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 701.0625
+        },
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 624.046875
+        },
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 672.0
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 604.96875
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 601.5625
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 613.28125
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 1514.4375
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 1591.703125
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 1902.984375
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_global_normal_distance",
+          "value": 1233.53125
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 1191.953125
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 1293.5
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 1381.0625
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 729.78125
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 800.203125
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 752.375
+        }
+      ]
+    },
+    {
+      "group": "mechanism",
+      "metric": "rss",
+      "cohort": "ucf",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 720.09375
+        },
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 624.046875
+        },
+        {
+          "model_id": "mechanism__dinov3_patch_mlp_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_patch_mlp",
+          "value": 672.0
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 604.96875
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 601.5625
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_no_reference_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_no_reference",
+          "value": 613.28125
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 1514.4375
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 1591.703125
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_reference",
+          "value": 1902.984375
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_global_normal_distance",
+          "value": 1233.53125
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 1191.953125
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 1293.5
+        },
+        {
+          "model_id": "mechanism__dinov3_postlora_reference_b20_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_postlora_reference_b20",
+          "value": 1381.0625
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed11",
+          "seed": 11,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 729.78125
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed22",
+          "seed": 22,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 800.203125
+        },
+        {
+          "model_id": "mechanism__dinov3_global_normal_distance_b20_seed33",
+          "seed": 33,
+          "family": "mechanism__dinov3_global_normal_distance_b20",
+          "value": 752.375
+        }
+      ]
+    },
+    {
+      "group": "published",
+      "metric": "latency",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "published__supervised_b20_seed11",
+          "seed": 11,
+          "family": "published__supervised_b20",
+          "value": 27.59857440866169
+        },
+        {
+          "model_id": "published__supervised_b20_seed22",
+          "seed": 22,
+          "family": "published__supervised_b20",
+          "value": 27.887623729263872
+        },
+        {
+          "model_id": "published__supervised_b20_seed33",
+          "seed": 33,
+          "family": "published__supervised_b20",
+          "value": 27.681987063343666
+        },
+        {
+          "model_id": "published__supervised_b100_seed11",
+          "seed": 11,
+          "family": "published__supervised_b100",
+          "value": 29.36449501613033
+        },
+        {
+          "model_id": "published__supervised_b100_seed22",
+          "seed": 22,
+          "family": "published__supervised_b100",
+          "value": 23.52374050357615
+        },
+        {
+          "model_id": "published__supervised_b100_seed33",
+          "seed": 33,
+          "family": "published__supervised_b100",
+          "value": 27.871134741353853
+        },
+        {
+          "model_id": "published__ssl_primary_seed11",
+          "seed": 11,
+          "family": "published__ssl_primary",
+          "value": 24.277163469803085
+        },
+        {
+          "model_id": "published__ssl_primary_seed22",
+          "seed": 22,
+          "family": "published__ssl_primary",
+          "value": 26.590829179821235
+        },
+        {
+          "model_id": "published__ssl_primary_seed33",
+          "seed": 33,
+          "family": "published__ssl_primary",
+          "value": 27.714843063103167
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed11",
+          "seed": 11,
+          "family": "published__ssl_ensemble",
+          "value": 40.88095713810109
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed22",
+          "seed": 22,
+          "family": "published__ssl_ensemble",
+          "value": 36.57825143564694
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed33",
+          "seed": 33,
+          "family": "published__ssl_ensemble",
+          "value": 45.3703397695251
+        }
+      ]
+    },
+    {
+      "group": "published",
+      "metric": "latency",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "published__supervised_b20_seed11",
+          "seed": 11,
+          "family": "published__supervised_b20",
+          "value": 20.302927943392316
+        },
+        {
+          "model_id": "published__supervised_b20_seed22",
+          "seed": 22,
+          "family": "published__supervised_b20",
+          "value": 29.13557704235626
+        },
+        {
+          "model_id": "published__supervised_b20_seed33",
+          "seed": 33,
+          "family": "published__supervised_b20",
+          "value": 20.300903849760097
+        },
+        {
+          "model_id": "published__supervised_b100_seed11",
+          "seed": 11,
+          "family": "published__supervised_b100",
+          "value": 20.448588797997715
+        },
+        {
+          "model_id": "published__supervised_b100_seed22",
+          "seed": 22,
+          "family": "published__supervised_b100",
+          "value": 16.984487063864357
+        },
+        {
+          "model_id": "published__supervised_b100_seed33",
+          "seed": 33,
+          "family": "published__supervised_b100",
+          "value": 20.40105009719496
+        },
+        {
+          "model_id": "published__ssl_primary_seed11",
+          "seed": 11,
+          "family": "published__ssl_primary",
+          "value": 16.671514954481623
+        },
+        {
+          "model_id": "published__ssl_primary_seed22",
+          "seed": 22,
+          "family": "published__ssl_primary",
+          "value": 20.506696219017407
+        },
+        {
+          "model_id": "published__ssl_primary_seed33",
+          "seed": 33,
+          "family": "published__ssl_primary",
+          "value": 20.33708108379439
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed11",
+          "seed": 11,
+          "family": "published__ssl_ensemble",
+          "value": 26.63087429534485
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed22",
+          "seed": 22,
+          "family": "published__ssl_ensemble",
+          "value": 25.521722923369914
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed33",
+          "seed": 33,
+          "family": "published__ssl_ensemble",
+          "value": 35.8007665036347
+        }
+      ]
+    },
+    {
+      "group": "published",
+      "metric": "latency",
+      "cohort": "ucf",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "published__supervised_b20_seed11",
+          "seed": 11,
+          "family": "published__supervised_b20",
+          "value": 24.29603121979812
+        },
+        {
+          "model_id": "published__supervised_b20_seed22",
+          "seed": 22,
+          "family": "published__supervised_b20",
+          "value": 44.09876703880295
+        },
+        {
+          "model_id": "published__supervised_b20_seed33",
+          "seed": 33,
+          "family": "published__supervised_b20",
+          "value": 24.243836745424844
+        },
+        {
+          "model_id": "published__supervised_b100_seed11",
+          "seed": 11,
+          "family": "published__supervised_b100",
+          "value": 22.853086420421512
+        },
+        {
+          "model_id": "published__supervised_b100_seed22",
+          "seed": 22,
+          "family": "published__supervised_b100",
+          "value": 40.84061392323049
+        },
+        {
+          "model_id": "published__supervised_b100_seed33",
+          "seed": 33,
+          "family": "published__supervised_b100",
+          "value": 24.4653859267791
+        },
+        {
+          "model_id": "published__ssl_primary_seed11",
+          "seed": 11,
+          "family": "published__ssl_primary",
+          "value": 21.426621596545502
+        },
+        {
+          "model_id": "published__ssl_primary_seed22",
+          "seed": 22,
+          "family": "published__ssl_primary",
+          "value": 26.41666668283125
+        },
+        {
+          "model_id": "published__ssl_primary_seed33",
+          "seed": 33,
+          "family": "published__ssl_primary",
+          "value": 23.76688325203695
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed11",
+          "seed": 11,
+          "family": "published__ssl_ensemble",
+          "value": 35.669637591101576
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed22",
+          "seed": 22,
+          "family": "published__ssl_ensemble",
+          "value": 36.2107656901529
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed33",
+          "seed": 33,
+          "family": "published__ssl_ensemble",
+          "value": 43.8460678111242
+        }
+      ]
+    },
+    {
+      "group": "published",
+      "metric": "latency",
+      "cohort": "ucf",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "published__supervised_b20_seed11",
+          "seed": 11,
+          "family": "published__supervised_b20",
+          "value": 18.09829893402842
+        },
+        {
+          "model_id": "published__supervised_b20_seed22",
+          "seed": 22,
+          "family": "published__supervised_b20",
+          "value": 17.885682645773645
+        },
+        {
+          "model_id": "published__supervised_b20_seed33",
+          "seed": 33,
+          "family": "published__supervised_b20",
+          "value": 18.012237797361298
+        },
+        {
+          "model_id": "published__supervised_b100_seed11",
+          "seed": 11,
+          "family": "published__supervised_b100",
+          "value": 17.52605892089737
+        },
+        {
+          "model_id": "published__supervised_b100_seed22",
+          "seed": 22,
+          "family": "published__supervised_b100",
+          "value": 13.929781011782241
+        },
+        {
+          "model_id": "published__supervised_b100_seed33",
+          "seed": 33,
+          "family": "published__supervised_b100",
+          "value": 18.5974984505582
+        },
+        {
+          "model_id": "published__ssl_primary_seed11",
+          "seed": 11,
+          "family": "published__ssl_primary",
+          "value": 13.79305038731112
+        },
+        {
+          "model_id": "published__ssl_primary_seed22",
+          "seed": 22,
+          "family": "published__ssl_primary",
+          "value": 16.891361618696084
+        },
+        {
+          "model_id": "published__ssl_primary_seed33",
+          "seed": 33,
+          "family": "published__ssl_primary",
+          "value": 17.818839731084744
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed11",
+          "seed": 11,
+          "family": "published__ssl_ensemble",
+          "value": 24.500419085758715
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed22",
+          "seed": 22,
+          "family": "published__ssl_ensemble",
+          "value": 23.059984014997646
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed33",
+          "seed": 33,
+          "family": "published__ssl_ensemble",
+          "value": 33.894974331718025
+        }
+      ]
+    },
+    {
+      "group": "published",
+      "metric": "rss",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "published__supervised_b20_seed11",
+          "seed": 11,
+          "family": "published__supervised_b20",
+          "value": 1304.484375
+        },
+        {
+          "model_id": "published__supervised_b20_seed22",
+          "seed": 22,
+          "family": "published__supervised_b20",
+          "value": 1305.0
+        },
+        {
+          "model_id": "published__supervised_b20_seed33",
+          "seed": 33,
+          "family": "published__supervised_b20",
+          "value": 1303.953125
+        },
+        {
+          "model_id": "published__supervised_b100_seed11",
+          "seed": 11,
+          "family": "published__supervised_b100",
+          "value": 1313.5
+        },
+        {
+          "model_id": "published__supervised_b100_seed22",
+          "seed": 22,
+          "family": "published__supervised_b100",
+          "value": 1314.015625
+        },
+        {
+          "model_id": "published__supervised_b100_seed33",
+          "seed": 33,
+          "family": "published__supervised_b100",
+          "value": 1336.796875
+        },
+        {
+          "model_id": "published__ssl_primary_seed11",
+          "seed": 11,
+          "family": "published__ssl_primary",
+          "value": 2226.0
+        },
+        {
+          "model_id": "published__ssl_primary_seed22",
+          "seed": 22,
+          "family": "published__ssl_primary",
+          "value": 2250.71875
+        },
+        {
+          "model_id": "published__ssl_primary_seed33",
+          "seed": 33,
+          "family": "published__ssl_primary",
+          "value": 2235.515625
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed11",
+          "seed": 11,
+          "family": "published__ssl_ensemble",
+          "value": 2093.484375
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed22",
+          "seed": 22,
+          "family": "published__ssl_ensemble",
+          "value": 2251.859375
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed33",
+          "seed": 33,
+          "family": "published__ssl_ensemble",
+          "value": 2237.09375
+        }
+      ]
+    },
+    {
+      "group": "published",
+      "metric": "rss",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "published__supervised_b20_seed11",
+          "seed": 11,
+          "family": "published__supervised_b20",
+          "value": 1304.484375
+        },
+        {
+          "model_id": "published__supervised_b20_seed22",
+          "seed": 22,
+          "family": "published__supervised_b20",
+          "value": 1305.0
+        },
+        {
+          "model_id": "published__supervised_b20_seed33",
+          "seed": 33,
+          "family": "published__supervised_b20",
+          "value": 1303.953125
+        },
+        {
+          "model_id": "published__supervised_b100_seed11",
+          "seed": 11,
+          "family": "published__supervised_b100",
+          "value": 1313.5
+        },
+        {
+          "model_id": "published__supervised_b100_seed22",
+          "seed": 22,
+          "family": "published__supervised_b100",
+          "value": 1314.015625
+        },
+        {
+          "model_id": "published__supervised_b100_seed33",
+          "seed": 33,
+          "family": "published__supervised_b100",
+          "value": 1336.796875
+        },
+        {
+          "model_id": "published__ssl_primary_seed11",
+          "seed": 11,
+          "family": "published__ssl_primary",
+          "value": 2226.0
+        },
+        {
+          "model_id": "published__ssl_primary_seed22",
+          "seed": 22,
+          "family": "published__ssl_primary",
+          "value": 2250.71875
+        },
+        {
+          "model_id": "published__ssl_primary_seed33",
+          "seed": 33,
+          "family": "published__ssl_primary",
+          "value": 2235.515625
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed11",
+          "seed": 11,
+          "family": "published__ssl_ensemble",
+          "value": 2093.484375
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed22",
+          "seed": 22,
+          "family": "published__ssl_ensemble",
+          "value": 2251.859375
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed33",
+          "seed": 33,
+          "family": "published__ssl_ensemble",
+          "value": 2237.09375
+        }
+      ]
+    },
+    {
+      "group": "published",
+      "metric": "rss",
+      "cohort": "ucf",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "published__supervised_b20_seed11",
+          "seed": 11,
+          "family": "published__supervised_b20",
+          "value": 1304.484375
+        },
+        {
+          "model_id": "published__supervised_b20_seed22",
+          "seed": 22,
+          "family": "published__supervised_b20",
+          "value": 1305.0
+        },
+        {
+          "model_id": "published__supervised_b20_seed33",
+          "seed": 33,
+          "family": "published__supervised_b20",
+          "value": 1303.953125
+        },
+        {
+          "model_id": "published__supervised_b100_seed11",
+          "seed": 11,
+          "family": "published__supervised_b100",
+          "value": 1313.5
+        },
+        {
+          "model_id": "published__supervised_b100_seed22",
+          "seed": 22,
+          "family": "published__supervised_b100",
+          "value": 1314.015625
+        },
+        {
+          "model_id": "published__supervised_b100_seed33",
+          "seed": 33,
+          "family": "published__supervised_b100",
+          "value": 1336.796875
+        },
+        {
+          "model_id": "published__ssl_primary_seed11",
+          "seed": 11,
+          "family": "published__ssl_primary",
+          "value": 2226.0
+        },
+        {
+          "model_id": "published__ssl_primary_seed22",
+          "seed": 22,
+          "family": "published__ssl_primary",
+          "value": 2250.71875
+        },
+        {
+          "model_id": "published__ssl_primary_seed33",
+          "seed": 33,
+          "family": "published__ssl_primary",
+          "value": 2235.515625
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed11",
+          "seed": 11,
+          "family": "published__ssl_ensemble",
+          "value": 2093.484375
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed22",
+          "seed": 22,
+          "family": "published__ssl_ensemble",
+          "value": 2251.859375
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed33",
+          "seed": 33,
+          "family": "published__ssl_ensemble",
+          "value": 2237.09375
+        }
+      ]
+    },
+    {
+      "group": "published",
+      "metric": "rss",
+      "cohort": "ucf",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "published__supervised_b20_seed11",
+          "seed": 11,
+          "family": "published__supervised_b20",
+          "value": 1304.484375
+        },
+        {
+          "model_id": "published__supervised_b20_seed22",
+          "seed": 22,
+          "family": "published__supervised_b20",
+          "value": 1305.0
+        },
+        {
+          "model_id": "published__supervised_b20_seed33",
+          "seed": 33,
+          "family": "published__supervised_b20",
+          "value": 1303.953125
+        },
+        {
+          "model_id": "published__supervised_b100_seed11",
+          "seed": 11,
+          "family": "published__supervised_b100",
+          "value": 1313.5
+        },
+        {
+          "model_id": "published__supervised_b100_seed22",
+          "seed": 22,
+          "family": "published__supervised_b100",
+          "value": 1314.015625
+        },
+        {
+          "model_id": "published__supervised_b100_seed33",
+          "seed": 33,
+          "family": "published__supervised_b100",
+          "value": 1336.796875
+        },
+        {
+          "model_id": "published__ssl_primary_seed11",
+          "seed": 11,
+          "family": "published__ssl_primary",
+          "value": 2226.0
+        },
+        {
+          "model_id": "published__ssl_primary_seed22",
+          "seed": 22,
+          "family": "published__ssl_primary",
+          "value": 2250.71875
+        },
+        {
+          "model_id": "published__ssl_primary_seed33",
+          "seed": 33,
+          "family": "published__ssl_primary",
+          "value": 2235.515625
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed11",
+          "seed": 11,
+          "family": "published__ssl_ensemble",
+          "value": 2093.484375
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed22",
+          "seed": 22,
+          "family": "published__ssl_ensemble",
+          "value": 2251.859375
+        },
+        {
+          "model_id": "published__ssl_ensemble_seed33",
+          "seed": 33,
+          "family": "published__ssl_ensemble",
+          "value": 2237.09375
+        }
+      ]
+    },
+    {
+      "group": "representation",
+      "metric": "latency",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "representation__dinov3_small_224_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_cls_logistic",
+          "value": 20.77025687919022
+        },
+        {
+          "model_id": "representation__dinov3_small_224_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_patch_mean_logistic",
+          "value": 17.15713126539781
+        },
+        {
+          "model_id": "representation__dinov3_small_224_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_concat_logistic",
+          "value": 17.450065527806466
+        },
+        {
+          "model_id": "representation__dinov3_small_336_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_cls_logistic",
+          "value": 18.26396638904287
+        },
+        {
+          "model_id": "representation__dinov3_small_336_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_patch_mean_logistic",
+          "value": 18.619114196092486
+        },
+        {
+          "model_id": "representation__dinov3_small_336_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_concat_logistic",
+          "value": 19.153139351646914
+        },
+        {
+          "model_id": "representation__dinov3_small_448_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_cls_logistic",
+          "value": 24.19777373395903
+        },
+        {
+          "model_id": "representation__dinov3_small_448_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_patch_mean_logistic",
+          "value": 29.745925816858552
+        },
+        {
+          "model_id": "representation__dinov3_small_448_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_concat_logistic",
+          "value": 31.30948222229029
+        },
+        {
+          "model_id": "representation__dinov3_base_336_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_cls_logistic",
+          "value": 29.87233669154792
+        },
+        {
+          "model_id": "representation__dinov3_base_336_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_patch_mean_logistic",
+          "value": 28.173364090608523
+        },
+        {
+          "model_id": "representation__dinov3_base_336_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_concat_logistic",
+          "value": 33.66658770534982
+        },
+        {
+          "model_id": "representation__resnet18_336_global_logistic_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_logistic",
+          "value": 12.380950144913971
+        },
+        {
+          "model_id": "representation__resnet18_336_global_linear_svm_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_linear_svm",
+          "value": 14.085067762459953
+        },
+        {
+          "model_id": "representation__resnet18_336_global_rbf_svm_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_rbf_svm",
+          "value": 14.025193610576185
+        }
+      ]
+    },
+    {
+      "group": "representation",
+      "metric": "latency",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "representation__dinov3_small_224_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_cls_logistic",
+          "value": 9.550204291605414
+        },
+        {
+          "model_id": "representation__dinov3_small_224_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_patch_mean_logistic",
+          "value": 8.5336483797414
+        },
+        {
+          "model_id": "representation__dinov3_small_224_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_concat_logistic",
+          "value": 8.225228750223872
+        },
+        {
+          "model_id": "representation__dinov3_small_336_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_cls_logistic",
+          "value": 12.320553665009573
+        },
+        {
+          "model_id": "representation__dinov3_small_336_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_patch_mean_logistic",
+          "value": 12.005077279637172
+        },
+        {
+          "model_id": "representation__dinov3_small_336_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_concat_logistic",
+          "value": 12.53114791422488
+        },
+        {
+          "model_id": "representation__dinov3_small_448_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_cls_logistic",
+          "value": 17.62711798156641
+        },
+        {
+          "model_id": "representation__dinov3_small_448_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_patch_mean_logistic",
+          "value": 23.05248564379847
+        },
+        {
+          "model_id": "representation__dinov3_small_448_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_concat_logistic",
+          "value": 22.976443722069348
+        },
+        {
+          "model_id": "representation__dinov3_base_336_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_cls_logistic",
+          "value": 21.145659782777827
+        },
+        {
+          "model_id": "representation__dinov3_base_336_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_patch_mean_logistic",
+          "value": 20.458155148463625
+        },
+        {
+          "model_id": "representation__dinov3_base_336_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_concat_logistic",
+          "value": 27.723199906135427
+        },
+        {
+          "model_id": "representation__resnet18_336_global_logistic_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_logistic",
+          "value": 7.118674032283984
+        },
+        {
+          "model_id": "representation__resnet18_336_global_linear_svm_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_linear_svm",
+          "value": 7.967032279893543
+        },
+        {
+          "model_id": "representation__resnet18_336_global_rbf_svm_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_rbf_svm",
+          "value": 8.35953384539659
+        }
+      ]
+    },
+    {
+      "group": "representation",
+      "metric": "latency",
+      "cohort": "ucf",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "representation__dinov3_small_224_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_cls_logistic",
+          "value": 17.830551465496765
+        },
+        {
+          "model_id": "representation__dinov3_small_224_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_patch_mean_logistic",
+          "value": 13.839679551419131
+        },
+        {
+          "model_id": "representation__dinov3_small_224_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_concat_logistic",
+          "value": 13.265115514852454
+        },
+        {
+          "model_id": "representation__dinov3_small_336_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_cls_logistic",
+          "value": 31.040450376675054
+        },
+        {
+          "model_id": "representation__dinov3_small_336_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_patch_mean_logistic",
+          "value": 30.339134761218936
+        },
+        {
+          "model_id": "representation__dinov3_small_336_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_concat_logistic",
+          "value": 15.051157956639695
+        },
+        {
+          "model_id": "representation__dinov3_small_448_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_cls_logistic",
+          "value": 44.15300445966856
+        },
+        {
+          "model_id": "representation__dinov3_small_448_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_patch_mean_logistic",
+          "value": 24.78892758846023
+        },
+        {
+          "model_id": "representation__dinov3_small_448_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_concat_logistic",
+          "value": 25.463602414657903
+        },
+        {
+          "model_id": "representation__dinov3_base_336_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_cls_logistic",
+          "value": 26.148510747047705
+        },
+        {
+          "model_id": "representation__dinov3_base_336_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_patch_mean_logistic",
+          "value": 24.606416944067842
+        },
+        {
+          "model_id": "representation__dinov3_base_336_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_concat_logistic",
+          "value": 29.91289323423231
+        },
+        {
+          "model_id": "representation__resnet18_336_global_logistic_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_logistic",
+          "value": 8.042637663785108
+        },
+        {
+          "model_id": "representation__resnet18_336_global_linear_svm_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_linear_svm",
+          "value": 10.352144410378884
+        },
+        {
+          "model_id": "representation__resnet18_336_global_rbf_svm_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_rbf_svm",
+          "value": 8.831171499738513
+        }
+      ]
+    },
+    {
+      "group": "representation",
+      "metric": "latency",
+      "cohort": "ucf",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "representation__dinov3_small_224_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_cls_logistic",
+          "value": 5.500357950561095
+        },
+        {
+          "model_id": "representation__dinov3_small_224_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_patch_mean_logistic",
+          "value": 4.879582845497617
+        },
+        {
+          "model_id": "representation__dinov3_small_224_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_concat_logistic",
+          "value": 5.005395254878284
+        },
+        {
+          "model_id": "representation__dinov3_small_336_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_cls_logistic",
+          "value": 11.26025194616252
+        },
+        {
+          "model_id": "representation__dinov3_small_336_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_patch_mean_logistic",
+          "value": 8.424252710240177
+        },
+        {
+          "model_id": "representation__dinov3_small_336_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_concat_logistic",
+          "value": 8.105898363147537
+        },
+        {
+          "model_id": "representation__dinov3_small_448_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_cls_logistic",
+          "value": 14.2385556221788
+        },
+        {
+          "model_id": "representation__dinov3_small_448_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_patch_mean_logistic",
+          "value": 20.269201646645573
+        },
+        {
+          "model_id": "representation__dinov3_small_448_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_concat_logistic",
+          "value": 20.812108035762467
+        },
+        {
+          "model_id": "representation__dinov3_base_336_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_cls_logistic",
+          "value": 17.409104265835744
+        },
+        {
+          "model_id": "representation__dinov3_base_336_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_patch_mean_logistic",
+          "value": 16.673698360208682
+        },
+        {
+          "model_id": "representation__dinov3_base_336_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_concat_logistic",
+          "value": 25.505502218770424
+        },
+        {
+          "model_id": "representation__resnet18_336_global_logistic_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_logistic",
+          "value": 3.609911921477422
+        },
+        {
+          "model_id": "representation__resnet18_336_global_linear_svm_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_linear_svm",
+          "value": 3.667354362821856
+        },
+        {
+          "model_id": "representation__resnet18_336_global_rbf_svm_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_rbf_svm",
+          "value": 3.8756242379286263
+        }
+      ]
+    },
+    {
+      "group": "representation",
+      "metric": "rss",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "representation__dinov3_small_224_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_cls_logistic",
+          "value": 547.46875
+        },
+        {
+          "model_id": "representation__dinov3_small_224_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_patch_mean_logistic",
+          "value": 548.640625
+        },
+        {
+          "model_id": "representation__dinov3_small_224_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_concat_logistic",
+          "value": 549.3125
+        },
+        {
+          "model_id": "representation__dinov3_small_336_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_cls_logistic",
+          "value": 553.8125
+        },
+        {
+          "model_id": "representation__dinov3_small_336_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_patch_mean_logistic",
+          "value": 554.0625
+        },
+        {
+          "model_id": "representation__dinov3_small_336_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_concat_logistic",
+          "value": 555.578125
+        },
+        {
+          "model_id": "representation__dinov3_small_448_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_cls_logistic",
+          "value": 552.609375
+        },
+        {
+          "model_id": "representation__dinov3_small_448_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_patch_mean_logistic",
+          "value": 554.15625
+        },
+        {
+          "model_id": "representation__dinov3_small_448_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_concat_logistic",
+          "value": 554.8125
+        },
+        {
+          "model_id": "representation__dinov3_base_336_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_cls_logistic",
+          "value": 537.734375
+        },
+        {
+          "model_id": "representation__dinov3_base_336_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_patch_mean_logistic",
+          "value": 559.59375
+        },
+        {
+          "model_id": "representation__dinov3_base_336_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_concat_logistic",
+          "value": 564.390625
+        },
+        {
+          "model_id": "representation__resnet18_336_global_logistic_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_logistic",
+          "value": 600.890625
+        },
+        {
+          "model_id": "representation__resnet18_336_global_linear_svm_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_linear_svm",
+          "value": 602.78125
+        },
+        {
+          "model_id": "representation__resnet18_336_global_rbf_svm_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_rbf_svm",
+          "value": 615.703125
+        }
+      ]
+    },
+    {
+      "group": "representation",
+      "metric": "rss",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "representation__dinov3_small_224_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_cls_logistic",
+          "value": 592.203125
+        },
+        {
+          "model_id": "representation__dinov3_small_224_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_patch_mean_logistic",
+          "value": 586.46875
+        },
+        {
+          "model_id": "representation__dinov3_small_224_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_concat_logistic",
+          "value": 596.0625
+        },
+        {
+          "model_id": "representation__dinov3_small_336_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_cls_logistic",
+          "value": 612.515625
+        },
+        {
+          "model_id": "representation__dinov3_small_336_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_patch_mean_logistic",
+          "value": 617.625
+        },
+        {
+          "model_id": "representation__dinov3_small_336_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_concat_logistic",
+          "value": 588.03125
+        },
+        {
+          "model_id": "representation__dinov3_small_448_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_cls_logistic",
+          "value": 629.53125
+        },
+        {
+          "model_id": "representation__dinov3_small_448_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_patch_mean_logistic",
+          "value": 609.65625
+        },
+        {
+          "model_id": "representation__dinov3_small_448_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_concat_logistic",
+          "value": 554.8125
+        },
+        {
+          "model_id": "representation__dinov3_base_336_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_cls_logistic",
+          "value": 537.734375
+        },
+        {
+          "model_id": "representation__dinov3_base_336_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_patch_mean_logistic",
+          "value": 587.765625
+        },
+        {
+          "model_id": "representation__dinov3_base_336_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_concat_logistic",
+          "value": 583.09375
+        },
+        {
+          "model_id": "representation__resnet18_336_global_logistic_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_logistic",
+          "value": 600.890625
+        },
+        {
+          "model_id": "representation__resnet18_336_global_linear_svm_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_linear_svm",
+          "value": 602.78125
+        },
+        {
+          "model_id": "representation__resnet18_336_global_rbf_svm_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_rbf_svm",
+          "value": 677.59375
+        }
+      ]
+    },
+    {
+      "group": "representation",
+      "metric": "rss",
+      "cohort": "ucf",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "representation__dinov3_small_224_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_cls_logistic",
+          "value": 592.703125
+        },
+        {
+          "model_id": "representation__dinov3_small_224_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_patch_mean_logistic",
+          "value": 590.59375
+        },
+        {
+          "model_id": "representation__dinov3_small_224_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_concat_logistic",
+          "value": 596.0625
+        },
+        {
+          "model_id": "representation__dinov3_small_336_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_cls_logistic",
+          "value": 612.515625
+        },
+        {
+          "model_id": "representation__dinov3_small_336_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_patch_mean_logistic",
+          "value": 630.84375
+        },
+        {
+          "model_id": "representation__dinov3_small_336_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_concat_logistic",
+          "value": 588.03125
+        },
+        {
+          "model_id": "representation__dinov3_small_448_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_cls_logistic",
+          "value": 637.78125
+        },
+        {
+          "model_id": "representation__dinov3_small_448_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_patch_mean_logistic",
+          "value": 609.65625
+        },
+        {
+          "model_id": "representation__dinov3_small_448_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_concat_logistic",
+          "value": 554.8125
+        },
+        {
+          "model_id": "representation__dinov3_base_336_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_cls_logistic",
+          "value": 537.734375
+        },
+        {
+          "model_id": "representation__dinov3_base_336_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_patch_mean_logistic",
+          "value": 587.765625
+        },
+        {
+          "model_id": "representation__dinov3_base_336_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_concat_logistic",
+          "value": 583.09375
+        },
+        {
+          "model_id": "representation__resnet18_336_global_logistic_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_logistic",
+          "value": 600.890625
+        },
+        {
+          "model_id": "representation__resnet18_336_global_linear_svm_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_linear_svm",
+          "value": 602.78125
+        },
+        {
+          "model_id": "representation__resnet18_336_global_rbf_svm_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_rbf_svm",
+          "value": 679.46875
+        }
+      ]
+    },
+    {
+      "group": "representation",
+      "metric": "rss",
+      "cohort": "ucf",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "representation__dinov3_small_224_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_cls_logistic",
+          "value": 592.703125
+        },
+        {
+          "model_id": "representation__dinov3_small_224_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_patch_mean_logistic",
+          "value": 590.59375
+        },
+        {
+          "model_id": "representation__dinov3_small_224_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_224_concat_logistic",
+          "value": 596.0625
+        },
+        {
+          "model_id": "representation__dinov3_small_336_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_cls_logistic",
+          "value": 612.515625
+        },
+        {
+          "model_id": "representation__dinov3_small_336_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_patch_mean_logistic",
+          "value": 647.90625
+        },
+        {
+          "model_id": "representation__dinov3_small_336_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_336_concat_logistic",
+          "value": 588.03125
+        },
+        {
+          "model_id": "representation__dinov3_small_448_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_cls_logistic",
+          "value": 649.21875
+        },
+        {
+          "model_id": "representation__dinov3_small_448_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_patch_mean_logistic",
+          "value": 609.65625
+        },
+        {
+          "model_id": "representation__dinov3_small_448_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_small_448_concat_logistic",
+          "value": 554.8125
+        },
+        {
+          "model_id": "representation__dinov3_base_336_cls_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_cls_logistic",
+          "value": 537.734375
+        },
+        {
+          "model_id": "representation__dinov3_base_336_patch_mean_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_patch_mean_logistic",
+          "value": 587.765625
+        },
+        {
+          "model_id": "representation__dinov3_base_336_concat_logistic_seed11",
+          "seed": 11,
+          "family": "representation__dinov3_base_336_concat_logistic",
+          "value": 583.09375
+        },
+        {
+          "model_id": "representation__resnet18_336_global_logistic_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_logistic",
+          "value": 600.890625
+        },
+        {
+          "model_id": "representation__resnet18_336_global_linear_svm_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_linear_svm",
+          "value": 602.78125
+        },
+        {
+          "model_id": "representation__resnet18_336_global_rbf_svm_seed11",
+          "seed": 11,
+          "family": "representation__resnet18_336_global_rbf_svm",
+          "value": 697.078125
+        }
+      ]
+    },
+    {
+      "group": "classical",
+      "metric": "latency",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "classical__hog_stats_logistic_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_logistic",
+          "value": 17.736320256486408
+        },
+        {
+          "model_id": "classical__hog_stats_linear_svm_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_linear_svm",
+          "value": 17.338617883909208
+        },
+        {
+          "model_id": "classical__hog_stats_rbf_svm_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_rbf_svm",
+          "value": 24.988726024221407
+        },
+        {
+          "model_id": "classical__dinov3_cls_logistic_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_logistic",
+          "value": 25.771297111130846
+        },
+        {
+          "model_id": "classical__dinov3_cls_linear_svm_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_linear_svm",
+          "value": 25.125761991340212
+        },
+        {
+          "model_id": "classical__dinov3_cls_rbf_svm_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_rbf_svm",
+          "value": 25.41359329590855
+        }
+      ]
+    },
+    {
+      "group": "classical",
+      "metric": "latency",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "classical__hog_stats_logistic_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_logistic",
+          "value": 16.013982309760827
+        },
+        {
+          "model_id": "classical__hog_stats_linear_svm_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_linear_svm",
+          "value": 15.776165458572727
+        },
+        {
+          "model_id": "classical__hog_stats_rbf_svm_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_rbf_svm",
+          "value": 22.69551365840596
+        },
+        {
+          "model_id": "classical__dinov3_cls_logistic_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_logistic",
+          "value": 12.48945690627791
+        },
+        {
+          "model_id": "classical__dinov3_cls_linear_svm_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_linear_svm",
+          "value": 12.23448398416899
+        },
+        {
+          "model_id": "classical__dinov3_cls_rbf_svm_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_rbf_svm",
+          "value": 12.572030506980342
+        }
+      ]
+    },
+    {
+      "group": "classical",
+      "metric": "latency",
+      "cohort": "ucf",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "classical__hog_stats_logistic_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_logistic",
+          "value": 6.832725194629369
+        },
+        {
+          "model_id": "classical__hog_stats_linear_svm_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_linear_svm",
+          "value": 7.126715689421046
+        },
+        {
+          "model_id": "classical__hog_stats_rbf_svm_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_rbf_svm",
+          "value": 12.632963390002937
+        },
+        {
+          "model_id": "classical__dinov3_cls_logistic_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_logistic",
+          "value": 18.684843667176402
+        },
+        {
+          "model_id": "classical__dinov3_cls_linear_svm_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_linear_svm",
+          "value": 29.04683924009374
+        },
+        {
+          "model_id": "classical__dinov3_cls_rbf_svm_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_rbf_svm",
+          "value": 29.508212517383832
+        }
+      ]
+    },
+    {
+      "group": "classical",
+      "metric": "latency",
+      "cohort": "ucf",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "classical__hog_stats_logistic_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_logistic",
+          "value": 5.848522182164151
+        },
+        {
+          "model_id": "classical__hog_stats_linear_svm_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_linear_svm",
+          "value": 5.686462119893106
+        },
+        {
+          "model_id": "classical__hog_stats_rbf_svm_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_rbf_svm",
+          "value": 10.143154649453802
+        },
+        {
+          "model_id": "classical__dinov3_cls_logistic_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_logistic",
+          "value": 9.88323381549657
+        },
+        {
+          "model_id": "classical__dinov3_cls_linear_svm_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_linear_svm",
+          "value": 14.283392145190128
+        },
+        {
+          "model_id": "classical__dinov3_cls_rbf_svm_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_rbf_svm",
+          "value": 16.209023253624004
+        }
+      ]
+    },
+    {
+      "group": "classical",
+      "metric": "rss",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "classical__hog_stats_logistic_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_logistic",
+          "value": 346.125
+        },
+        {
+          "model_id": "classical__hog_stats_linear_svm_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_linear_svm",
+          "value": 353.90625
+        },
+        {
+          "model_id": "classical__hog_stats_rbf_svm_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_rbf_svm",
+          "value": 394.984375
+        },
+        {
+          "model_id": "classical__dinov3_cls_logistic_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_logistic",
+          "value": 543.6875
+        },
+        {
+          "model_id": "classical__dinov3_cls_linear_svm_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_linear_svm",
+          "value": 534.9375
+        },
+        {
+          "model_id": "classical__dinov3_cls_rbf_svm_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_rbf_svm",
+          "value": 543.109375
+        }
+      ]
+    },
+    {
+      "group": "classical",
+      "metric": "rss",
+      "cohort": "scdd_publication_v1",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "classical__hog_stats_logistic_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_logistic",
+          "value": 366.6875
+        },
+        {
+          "model_id": "classical__hog_stats_linear_svm_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_linear_svm",
+          "value": 376.390625
+        },
+        {
+          "model_id": "classical__hog_stats_rbf_svm_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_rbf_svm",
+          "value": 411.5625
+        },
+        {
+          "model_id": "classical__dinov3_cls_logistic_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_logistic",
+          "value": 543.6875
+        },
+        {
+          "model_id": "classical__dinov3_cls_linear_svm_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_linear_svm",
+          "value": 557.5625
+        },
+        {
+          "model_id": "classical__dinov3_cls_rbf_svm_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_rbf_svm",
+          "value": 573.59375
+        }
+      ]
+    },
+    {
+      "group": "classical",
+      "metric": "rss",
+      "cohort": "ucf",
+      "batch_size": 1,
+      "points": [
+        {
+          "model_id": "classical__hog_stats_logistic_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_logistic",
+          "value": 366.6875
+        },
+        {
+          "model_id": "classical__hog_stats_linear_svm_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_linear_svm",
+          "value": 432.078125
+        },
+        {
+          "model_id": "classical__hog_stats_rbf_svm_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_rbf_svm",
+          "value": 467.140625
+        },
+        {
+          "model_id": "classical__dinov3_cls_logistic_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_logistic",
+          "value": 543.6875
+        },
+        {
+          "model_id": "classical__dinov3_cls_linear_svm_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_linear_svm",
+          "value": 557.5625
+        },
+        {
+          "model_id": "classical__dinov3_cls_rbf_svm_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_rbf_svm",
+          "value": 584.265625
+        }
+      ]
+    },
+    {
+      "group": "classical",
+      "metric": "rss",
+      "cohort": "ucf",
+      "batch_size": 8,
+      "points": [
+        {
+          "model_id": "classical__hog_stats_logistic_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_logistic",
+          "value": 366.6875
+        },
+        {
+          "model_id": "classical__hog_stats_linear_svm_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_linear_svm",
+          "value": 441.9375
+        },
+        {
+          "model_id": "classical__hog_stats_rbf_svm_seed11",
+          "seed": 11,
+          "family": "classical__hog_stats_rbf_svm",
+          "value": 467.140625
+        },
+        {
+          "model_id": "classical__dinov3_cls_logistic_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_logistic",
+          "value": 543.6875
+        },
+        {
+          "model_id": "classical__dinov3_cls_linear_svm_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_linear_svm",
+          "value": 557.5625
+        },
+        {
+          "model_id": "classical__dinov3_cls_rbf_svm_seed11",
+          "seed": 11,
+          "family": "classical__dinov3_cls_rbf_svm",
+          "value": 587.71875
+        }
+      ]
+    }
+  ],
+  "case_points_per_metric": 388,
+  "total_plotted_case_points": 776,
+  "latency_units": "ms/image",
+  "RSS_units": "MiB = 2^20 bytes",
+  "PNG_PDF_SVG_visual_QA": false,
+  "native_article_integration": false
+}

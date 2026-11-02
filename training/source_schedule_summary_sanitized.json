@@ -1,0 +1,75 @@
+{
+  "groups": [
+    {
+      "group": "Neural image fits",
+      "catalogued_model_view_records": 216,
+      "actual_updates_per_round": [
+        50
+      ],
+      "completed_round_range": [
+        7,
+        40
+      ],
+      "optimizer_update_range": [
+        350,
+        2000
+      ],
+      "no_independent_replication_or_total_training_cost_count": true
+    },
+    {
+      "group": "Joint dense, patch and fresh-head fits",
+      "catalogued_model_view_records": 273,
+      "actual_updates_per_round": [
+        50
+      ],
+      "completed_round_range": [
+        7,
+        40
+      ],
+      "optimizer_update_range": [
+        350,
+        2000
+      ],
+      "no_independent_replication_or_total_training_cost_count": true
+    },
+    {
+      "group": "Full supervised/semi-supervised ports",
+      "catalogued_model_view_records": 66,
+      "actual_updates_per_round": [
+        124,
+        125,
+        128,
+        176,
+        215
+      ],
+      "completed_round_range": [
+        8,
+        40
+      ],
+      "optimizer_update_range": [
+        1000,
+        8600
+      ],
+      "no_independent_replication_or_total_training_cost_count": true
+    },
+    {
+      "group": "Distance and classical predictors",
+      "catalogued_model_view_records": 506,
+      "actual_updates_per_round": [],
+      "completed_round_range": null,
+      "optimizer_update_range": null,
+      "no_independent_replication_or_total_training_cost_count": true
+    }
+  ],
+  "published_protocol_policy": "max(50,ceil(all source-training pool images/2)) updates per round; uses the full source pool size, not only the labeled subset.",
+  "all_neural_maximum_rounds": 40,
+  "patience": 6,
+  "no_elapsed_time_or_wallclock_ranking": true,
+  "no_source_or_target_predictive_values_used": true,
+  "scopes": [
+    "1061catalogued model/view records,1043distinct original source-run metadata files; neither number is an independent-fit total or the entire upstream HPO grid.",
+    "Teacher1/ensemble views share training. Post-LoRA fresh-head rows omit the already trained parent stage from their own update count; do not treat them as a one-stage compute comparison.",
+    "Recorded label-image unions remove study-HPO overlap, but omit unknown pretraining membership and do not measure annotation time or mask-equivalent labor.",
+    "All original pause-contaminated raw timers remain preserved; no active-compute estimate or adjusted elapsed total is produced."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "at": "2026-10-29T05:06:21.483860+00:00",
+  "state": "complete_same_host_saved_output_analysis_repeatability",
+  "replay_pid": 95071,
+  "command": [
+    "/Users/lukuan/Desktop/ECE 4608/elpv_research/.venv/bin/python",
+    "-u",
+    "run_confirmation_workflow.py",
+    "analyze"
+  ],
+  "returncode": 0,
+  "all1683_jobs_and6212_contrasts_compared_by_unchanged_analyzer": true,
+  "original_analysis_after_replay": {
+    "path": "artifacts/publication_20261017/final_confirmation_v1/primary_analysis.json",
+    "sha256": "382f595f14a6be6213dd8b0c65b6df4e4edf7d40725ba00afafb48ab496326a9"
+  },
+  "original_analysis_bytes_unchanged": true,
+  "stdout": {
+    "path": "artifacts/publication_20261017/saved_statistical_replay_v1/original_analysis_4d30aed026c4/replay_stdout.log",
+    "sha256": "a1080161d3f718e31b392897168dac8051015b4093b75112d4f61d0f5c40def2"
+  },
+  "stderr": {
+    "path": "artifacts/publication_20261017/saved_statistical_replay_v1/original_analysis_4d30aed026c4/replay_stderr.log",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "all_original_scientific_bindings_unchanged": true,
+  "new_model_inference_or_training": false,
+  "scope": "Same host/environment and unchanged analysis implementation on the same saved outcomes. Not independent implementation, OS isolation, cross-device or fresh-training performance reproduction.",
+  "submission_ready": false
+}

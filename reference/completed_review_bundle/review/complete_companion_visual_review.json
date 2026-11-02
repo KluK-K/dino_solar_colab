@@ -1,0 +1,803 @@
+{
+  "at": "2026-10-29T02:51:33.597226+00:00",
+  "raster_preparation": {
+    "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/raster_and_bounds_verification.json",
+    "sha256": "ec0891707923236756cfa343d48d2b6ba99c96d308d19343c3212e7bd8cee48b"
+  },
+  "all380_actual_PDF_pages_overview_reviewed": true,
+  "all43_overview_contact_sheets_actually_viewed": [
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-001-009.png",
+        "sha256": "9c0c5c56a63c530c7cc3215b82ff01c2d559941c8cf1205a82afa826d4dc0d89"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-010-018.png",
+        "sha256": "3d0e17df51702bad0379112e67e3bb1f0a2050c45e17a8c57b6818d173075559"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-019-027.png",
+        "sha256": "e6920231decfc1ea00cae95f862eedb973625cf9fd6b4ef73d6c0a1224e4403a"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-028-036.png",
+        "sha256": "29cae0b335527af9bfe0fb3fd6c2ede2d43b3af8bc38266f0ec344af93b43c71"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-037-045.png",
+        "sha256": "1aa92f7d55f4a1e45f7128820a4df558d67c4b8f4395d35916671bd625cefb3d"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-046-054.png",
+        "sha256": "2e96ad38b6908472af881d629166b7c234a08e57c54be7d6203b5d2c2d7d5954"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-055-063.png",
+        "sha256": "0ad6800cec6a1ae2c03fd668a315e67d3fadb833caa6874ca573a55dc3fccd15"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-064-072.png",
+        "sha256": "ecdda06e07fb69805d40dd8b76fe10220ab5c24160ef3aeec97a4de018f3591f"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-073-081.png",
+        "sha256": "3341833858d3368f7f2e7df8a58654a8e9bc947d2f3984c7bf980244ec1976d2"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-082-090.png",
+        "sha256": "b5195673c1f7cc6ca3f46b0efb6f06aa6e9a8f6f14c3750650d8f351b8221ac0"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-091-099.png",
+        "sha256": "f4dfc98b8e090a50e49dd9694bb003bd2cd553bc806b3d2578a7a6669d7acef2"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-100-108.png",
+        "sha256": "e72ccaeeb4f3566784e5f311f6aa1804df16cef9b5cd1daea0b77455f0d35b8d"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-109-117.png",
+        "sha256": "652d2f2e5469f808e4e1440b5635249da740698fd4e035c54cef3b777f4666ae"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-118-126.png",
+        "sha256": "4d72c191587fdbeb9ca6307d5dff0c9e305497e2dbbc3433a69a313d2c6aa4c2"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-127-135.png",
+        "sha256": "43483b49cd4cb13a25812a71ec6632a01a6e3fc748596d77ccf2707ec71750af"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-136-144.png",
+        "sha256": "77525c6b6b3597b711ecf4ca8c1a562cc960a198537bc89e7aa3a27952498696"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-145-153.png",
+        "sha256": "b0762d0e84b0269681cb804a00bc53332dfce81e73623238cb037e6d1db9340a"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-154-162.png",
+        "sha256": "9a600cdfa0da46567183e397268ecb41892dd51a8dff6c5f80c0ddfafe42bba5"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-163-171.png",
+        "sha256": "e63564517cbb6fe254d23ea14c7845636bd61854ef65b06edfbbfbe5e2e3a3f3"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-172-180.png",
+        "sha256": "85e0703a4e25244e94999a0beaae21d30649504521f8510493dc69a897dc91d8"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-181-189.png",
+        "sha256": "066625d56068fd997283c98335bedcbdee26d315b077a912f0e2942f01622d68"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-190-198.png",
+        "sha256": "2ee84f14644eedff3e392123588a42ef57516cfe6686a77e04a7a65b06fb1cf0"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-199-207.png",
+        "sha256": "349dc04be5f2189fef2c09a0cc5e2f9fad8454d5a4b045a2962eb9dfea9c1c7e"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-208-216.png",
+        "sha256": "30ed9d7cb11a7329bd93c8583fc624204f37875f2b15f7d92bef7b32ab3f5cdd"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-217-225.png",
+        "sha256": "4e6f1a6bbc4697239db4fdeaba3e57a399cf261cada8ee360eb9b61c64082e28"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-226-234.png",
+        "sha256": "96daf4ef41356628257cf36dbb30330dea403c5ffacba266b712bcfa32b9dfb2"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-235-243.png",
+        "sha256": "b56c4a4d4463c460a507b5ae5101f98922e811a8c537e1769380736256322a01"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-244-252.png",
+        "sha256": "595a5b88d95696ca4985d554242cca11a744c2f2aa5966f8238ae6912db066bf"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-253-261.png",
+        "sha256": "ea843a1bf78d4473895430a5cbe9ba87953b9acb89852c763ae6b7626ee9c481"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-262-270.png",
+        "sha256": "1af0f30d36ab09f06b1260f306530857c14129c54ea733b30239b7b26ab6325a"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-271-279.png",
+        "sha256": "d09e09e4fef01a2c1fce9d60e0aeceecc7e27dcffbdabea1f0becc0562a73b8b"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-280-288.png",
+        "sha256": "68a6dd549416a1317fa9ccb34765f84c8d28057ce4ae3e27ae8be7b7e40f7563"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-289-297.png",
+        "sha256": "b608f99cceb89e9078e438360ee8b40319fe769c01e70abba7bc789bdf43c81c"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-298-306.png",
+        "sha256": "79023f307a1f9c867488d5c9f75f58a77027d822a887e47dce992c815cab2ebe"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313,
+        314,
+        315
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-307-315.png",
+        "sha256": "f443fb27848a9898f7f170124074ce7a5b385a55a65a826643d8c6323317b403"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-316-324.png",
+        "sha256": "b95936fe6316bfd6ac3b7fa2a20167ee3c66efc41a5996222491145aa184d557"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-325-333.png",
+        "sha256": "c1d37b687d362f25c53f8f613e94aa212754bcbe57b10f43e3d7f2b22c270533"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-334-342.png",
+        "sha256": "692ed058db4588e4f5b509609b0cdc7a5ecab86243a8b15522cc3ec1f28246a7"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-343-351.png",
+        "sha256": "a0db51e0eb87ad95db7656689655fa1588526f411336e466e8237a0c9341c020"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        352,
+        353,
+        354,
+        355,
+        356,
+        357,
+        358,
+        359,
+        360
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-352-360.png",
+        "sha256": "343e95760978584411a6bde304cf753a7f91a8a22be8fc0b3dfd8c489e41dbeb"
+      }
+    },
+    {
+      "book": "all6212_registered_contrasts",
+      "pages": [
+        361,
+        362,
+        363,
+        364,
+        365,
+        366
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6212_registered_contrasts/overview-361-366.png",
+        "sha256": "1380080357085dea027a2eadbc4e98cfeda9ff23367c4869f727ccaf04d9441c"
+      }
+    },
+    {
+      "book": "all6_dense_control_matrices",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all6_dense_control_matrices/overview-001-006.png",
+        "sha256": "6bc6c246261d2d8367ccc0a5fb1b8eb0da5c2f9f1bdde34610f17f2320ab4671"
+      }
+    },
+    {
+      "book": "all_calibration_native_population_and_joint_diagnostics",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "raster": {
+        "path": "artifacts/publication_20261017/complete_companion_visual_QA_v1/2026-10-29T02-38-05.145252+00-00/all_calibration_native_population_and_joint_diagnostics/overview-001-008.png",
+        "sha256": "361435769941c0d25461a1d3bd9c79131ff9eb7aa729cdcb18eb74b901913f2f"
+      }
+    }
+  ],
+  "individual_actual_PDF_rasters_directly_reviewed": {
+    "all6_dense_control_matrices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "all6212_registered_contrasts": [
+      38,
+      151,
+      256
+    ]
+  },
+  "additional_earlier_detail_reviews": "Original four diagnostics and joined panels01/02, and repaired joined03/04, were inspected as actual PDF rasterizations; assembled book pages retain their exact source content streams.",
+  "findings": [
+    "All380 pages inspected in43 overview sheets for whole-page composition; no missing forest panel, title or legend identified.",
+    "All six matrix pages inspected individually: row codes, colorbars, endpoint direction and common scope remain visible.",
+    "Individual atlas pages38/151/256 cover short/fuller rows and no-interval PVEL layouts; full original recipe labels fit.",
+    "Clipped original joint-panel titles/footers were repaired in the versioned layout reporter, with original CSV bytes unchanged."
+  ],
+  "every_forest_fine_label_individually_read": false,
+  "review_scope": "Every page has overview review; six matrices and declared representative forest templates have individual detail review. This is not a claim that every label on all366 forests has been individually read.",
+  "scientific_data_or_choices_changed": false,
+  "submission_ready": false
+}

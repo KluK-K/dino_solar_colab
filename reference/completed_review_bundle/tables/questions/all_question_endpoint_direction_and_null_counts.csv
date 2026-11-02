@@ -1,0 +1,931 @@
+question,cohort,stratum,endpoint,declared,estimated,not_estimable,literal_mean_positive,literal_mean_negative,literal_mean_zero,all_fitted_pairs_positive,all_fitted_pairs_negative,all_fitted_pairs_zero,mixed_fitted_pair_directions,interval_entirely_positive,interval_entirely_negative,interval_contains_zero,no_interval
+Original image-only LoRA versus frozen/full/CNN systems,scdd_publication_v1,ARTS,AUROC,10,10,0,9,1,0,7,0,0,3,7,0,3,0
+Original image-only LoRA versus frozen/full/CNN systems,scdd_publication_v1,ARTS,average_precision,10,10,0,10,0,0,9,0,0,1,7,0,3,0
+Original image-only LoRA versus frozen/full/CNN systems,scdd_publication_v1,ARTS,recall_at_source_threshold,10,10,0,6,4,0,2,1,0,7,2,2,6,0
+Original image-only LoRA versus frozen/full/CNN systems,scdd_publication_v1,ARTS,review_rate_at_source_threshold,10,10,0,3,7,0,1,2,0,7,1,4,5,0
+Original image-only LoRA versus frozen/full/CNN systems,scdd_publication_v1,ARTS,false_positive_rate_at_source_threshold,10,10,0,2,8,0,1,4,0,5,1,7,2,0
+Same-classifier frozen DINO versus HOG/statistics feature control,scdd_publication_v1,ARTS,AUROC,6,6,0,5,1,0,4,1,0,1,1,0,5,0
+Same-classifier frozen DINO versus HOG/statistics feature control,scdd_publication_v1,ARTS,average_precision,6,6,0,2,4,0,2,4,0,0,1,0,5,0
+Same-classifier frozen DINO versus HOG/statistics feature control,scdd_publication_v1,ARTS,recall_at_source_threshold,6,6,0,1,4,1,1,4,1,0,0,3,3,0
+Same-classifier frozen DINO versus HOG/statistics feature control,scdd_publication_v1,ARTS,review_rate_at_source_threshold,6,6,0,1,5,0,1,5,0,0,0,5,1,0
+Same-classifier frozen DINO versus HOG/statistics feature control,scdd_publication_v1,ARTS,false_positive_rate_at_source_threshold,6,6,0,1,5,0,0,5,0,1,0,5,1,0
+Original image-only LoRA versus classical control; different tuning budgets,scdd_publication_v1,ARTS,AUROC,6,6,0,6,0,0,6,0,0,0,2,0,4,0
+Original image-only LoRA versus classical control; different tuning budgets,scdd_publication_v1,ARTS,average_precision,6,6,0,6,0,0,4,0,0,2,2,0,4,0
+Original image-only LoRA versus classical control; different tuning budgets,scdd_publication_v1,ARTS,recall_at_source_threshold,6,6,0,1,5,0,1,3,0,2,0,3,3,0
+Original image-only LoRA versus classical control; different tuning budgets,scdd_publication_v1,ARTS,review_rate_at_source_threshold,6,6,0,0,6,0,0,5,0,1,0,5,1,0
+Original image-only LoRA versus classical control; different tuning budgets,scdd_publication_v1,ARTS,false_positive_rate_at_source_threshold,6,6,0,0,6,0,0,6,0,0,0,6,0,0
+Original neural adaptation versus frozen DINO/classical classifier,scdd_publication_v1,ARTS,AUROC,6,6,0,6,0,0,5,0,0,1,3,0,3,0
+Original neural adaptation versus frozen DINO/classical classifier,scdd_publication_v1,ARTS,average_precision,6,6,0,6,0,0,6,0,0,0,4,0,2,0
+Original neural adaptation versus frozen DINO/classical classifier,scdd_publication_v1,ARTS,recall_at_source_threshold,6,6,0,3,3,0,3,1,0,2,2,1,3,0
+Original neural adaptation versus frozen DINO/classical classifier,scdd_publication_v1,ARTS,review_rate_at_source_threshold,6,6,0,3,3,0,2,3,0,1,2,3,1,0
+Original neural adaptation versus frozen DINO/classical classifier,scdd_publication_v1,ARTS,false_positive_rate_at_source_threshold,6,6,0,3,3,0,0,3,0,3,1,3,2,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,scdd_publication_v1,ARTS,AUROC,18,18,0,18,0,0,11,0,0,7,7,0,11,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,scdd_publication_v1,ARTS,average_precision,18,18,0,18,0,0,9,0,0,9,10,0,8,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,scdd_publication_v1,ARTS,recall_at_source_threshold,18,18,0,1,17,0,0,9,0,9,0,12,6,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,scdd_publication_v1,ARTS,review_rate_at_source_threshold,18,18,0,1,17,0,0,14,0,4,0,17,1,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,scdd_publication_v1,ARTS,false_positive_rate_at_source_threshold,18,18,0,1,17,0,0,17,0,1,0,16,2,0
+Processing-scale control; no recovered physical-detail claim,scdd_publication_v1,ARTS,AUROC,12,12,0,5,7,0,4,2,0,6,0,0,12,0
+Processing-scale control; no recovered physical-detail claim,scdd_publication_v1,ARTS,average_precision,12,12,0,6,6,0,3,3,0,6,0,0,12,0
+Processing-scale control; no recovered physical-detail claim,scdd_publication_v1,ARTS,recall_at_source_threshold,12,12,0,2,9,1,1,6,1,4,1,2,9,0
+Processing-scale control; no recovered physical-detail claim,scdd_publication_v1,ARTS,review_rate_at_source_threshold,12,12,0,1,11,0,0,7,0,5,1,3,8,0
+Processing-scale control; no recovered physical-detail claim,scdd_publication_v1,ARTS,false_positive_rate_at_source_threshold,12,12,0,1,11,0,0,6,0,6,1,3,8,0
+CLS versus patch-mean/concatenation at the same processing size,scdd_publication_v1,ARTS,AUROC,12,12,0,2,10,0,1,7,0,4,0,2,10,0
+CLS versus patch-mean/concatenation at the same processing size,scdd_publication_v1,ARTS,average_precision,12,12,0,2,10,0,1,7,0,4,0,5,7,0
+CLS versus patch-mean/concatenation at the same processing size,scdd_publication_v1,ARTS,recall_at_source_threshold,12,12,0,5,4,3,3,2,3,4,2,0,10,0
+CLS versus patch-mean/concatenation at the same processing size,scdd_publication_v1,ARTS,review_rate_at_source_threshold,12,12,0,9,3,0,6,2,0,4,4,2,6,0
+CLS versus patch-mean/concatenation at the same processing size,scdd_publication_v1,ARTS,false_positive_rate_at_source_threshold,12,12,0,8,3,1,6,1,1,4,5,0,7,0
+Frozen larger-encoder complete-system control,scdd_publication_v1,ARTS,AUROC,6,6,0,6,0,0,3,0,0,3,5,0,1,0
+Frozen larger-encoder complete-system control,scdd_publication_v1,ARTS,average_precision,6,6,0,6,0,0,3,0,0,3,4,0,2,0
+Frozen larger-encoder complete-system control,scdd_publication_v1,ARTS,recall_at_source_threshold,6,6,0,3,3,0,0,3,0,3,0,1,5,0
+Frozen larger-encoder complete-system control,scdd_publication_v1,ARTS,review_rate_at_source_threshold,6,6,0,0,6,0,0,3,0,3,0,4,2,0
+Frozen larger-encoder complete-system control,scdd_publication_v1,ARTS,false_positive_rate_at_source_threshold,6,6,0,0,6,0,0,3,0,3,0,6,0,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,scdd_publication_v1,ARTS,AUROC,6,6,0,6,0,0,4,0,0,2,1,0,5,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,scdd_publication_v1,ARTS,average_precision,6,6,0,3,3,0,2,2,0,2,0,0,6,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,scdd_publication_v1,ARTS,recall_at_source_threshold,6,6,0,6,0,0,3,0,0,3,1,0,5,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,scdd_publication_v1,ARTS,review_rate_at_source_threshold,6,6,0,5,1,0,2,1,0,3,2,0,4,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,scdd_publication_v1,ARTS,false_positive_rate_at_source_threshold,6,6,0,3,3,0,0,3,0,3,2,0,4,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,scdd_publication_v1,ARTS,AUROC,4,4,0,4,0,0,4,0,0,0,2,0,2,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,scdd_publication_v1,ARTS,average_precision,4,4,0,4,0,0,4,0,0,0,2,0,2,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,scdd_publication_v1,ARTS,recall_at_source_threshold,4,4,0,3,1,0,3,1,0,0,2,0,2,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,scdd_publication_v1,ARTS,review_rate_at_source_threshold,4,4,0,2,2,0,1,2,0,1,1,1,2,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,scdd_publication_v1,ARTS,false_positive_rate_at_source_threshold,4,4,0,1,3,0,1,2,0,1,1,2,1,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,ARTS,AUROC,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,ARTS,average_precision,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,ARTS,recall_at_source_threshold,6,6,0,5,0,1,4,0,1,1,4,0,2,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,ARTS,review_rate_at_source_threshold,6,6,0,4,2,0,2,0,0,4,2,0,4,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,ARTS,false_positive_rate_at_source_threshold,6,6,0,3,3,0,1,0,0,5,1,1,4,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,ARTS,positive_image_Dice,6,6,0,3,3,0,1,0,0,5,2,0,4,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,ARTS,positive_image_IoU,6,6,0,3,3,0,2,0,0,4,2,0,4,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,ARTS,normal_structure_pixel_FPR,6,6,0,3,3,0,1,2,0,3,0,1,5,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,ARTS,AUROC,2,2,0,2,0,0,2,0,0,0,0,0,2,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,ARTS,average_precision,2,2,0,2,0,0,1,0,0,1,0,0,2,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,ARTS,recall_at_source_threshold,2,2,0,0,2,0,0,0,0,2,0,0,2,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,ARTS,review_rate_at_source_threshold,2,2,0,0,2,0,0,0,0,2,0,1,1,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,ARTS,false_positive_rate_at_source_threshold,2,2,0,0,2,0,0,0,0,2,0,0,2,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,ARTS,positive_image_Dice,2,2,0,2,0,0,0,0,0,2,0,0,2,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,ARTS,positive_image_IoU,2,2,0,2,0,0,0,0,0,2,0,0,2,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,ARTS,normal_structure_pixel_FPR,2,2,0,1,1,0,1,0,0,1,0,0,2,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,ARTS,AUROC,2,2,0,0,2,0,0,1,0,1,0,0,2,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,ARTS,average_precision,2,2,0,0,2,0,0,0,0,2,0,0,2,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,ARTS,recall_at_source_threshold,2,2,0,0,2,0,0,0,0,2,0,1,1,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,ARTS,review_rate_at_source_threshold,2,2,0,0,2,0,0,0,0,2,0,1,1,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,ARTS,false_positive_rate_at_source_threshold,2,2,0,0,2,0,0,0,0,2,0,1,1,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,ARTS,positive_image_Dice,2,2,0,0,2,0,0,2,0,0,0,2,0,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,ARTS,positive_image_IoU,2,2,0,0,2,0,0,2,0,0,0,2,0,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,ARTS,normal_structure_pixel_FPR,2,2,0,2,0,0,0,0,0,2,1,0,1,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,ARTS,AUROC,2,2,0,0,2,0,0,2,0,0,0,2,0,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,ARTS,average_precision,2,2,0,0,2,0,0,2,0,0,0,2,0,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,ARTS,recall_at_source_threshold,2,2,0,0,2,0,0,2,0,0,0,2,0,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,ARTS,review_rate_at_source_threshold,2,2,0,0,2,0,0,1,0,1,0,1,1,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,ARTS,false_positive_rate_at_source_threshold,2,2,0,1,1,0,0,0,0,2,0,1,1,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,ARTS,positive_image_Dice,2,2,0,0,2,0,0,2,0,0,0,2,0,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,ARTS,positive_image_IoU,2,2,0,0,2,0,0,2,0,0,0,2,0,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,ARTS,normal_structure_pixel_FPR,2,2,0,2,0,0,0,0,0,2,1,0,1,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,ARTS,AUROC,4,4,0,0,4,0,0,4,0,0,0,0,4,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,ARTS,average_precision,4,4,0,0,4,0,0,4,0,0,0,0,4,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,ARTS,recall_at_source_threshold,4,4,0,4,0,0,4,0,0,0,3,0,1,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,ARTS,review_rate_at_source_threshold,4,4,0,4,0,0,4,0,0,0,4,0,0,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,ARTS,false_positive_rate_at_source_threshold,4,4,0,4,0,0,4,0,0,0,4,0,0,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,ARTS,positive_image_Dice,4,4,0,0,4,0,0,4,0,0,0,4,0,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,ARTS,positive_image_IoU,4,4,0,0,4,0,0,4,0,0,0,4,0,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,ARTS,normal_structure_pixel_FPR,4,4,0,4,0,0,4,0,0,0,4,0,0,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,ARTS,AUROC,2,2,0,2,0,0,0,0,0,2,0,0,2,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,ARTS,average_precision,2,2,0,1,1,0,0,1,0,1,0,0,2,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,ARTS,recall_at_source_threshold,2,2,0,1,0,1,0,0,1,1,0,0,2,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,ARTS,review_rate_at_source_threshold,2,2,0,2,0,0,2,0,0,0,1,0,1,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,ARTS,false_positive_rate_at_source_threshold,2,2,0,2,0,0,1,0,0,1,1,0,1,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,ARTS,positive_image_Dice,2,2,0,1,1,0,0,0,0,2,0,0,2,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,ARTS,positive_image_IoU,2,2,0,1,1,0,0,0,0,2,0,0,2,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,ARTS,normal_structure_pixel_FPR,2,2,0,2,0,0,1,0,0,1,0,0,2,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,ARTS,AUROC,2,2,0,0,2,0,0,0,0,2,0,0,2,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,ARTS,average_precision,2,2,0,0,2,0,0,0,0,2,0,0,2,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,ARTS,recall_at_source_threshold,2,2,0,0,1,1,0,0,1,1,0,0,2,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,ARTS,review_rate_at_source_threshold,2,2,0,1,1,0,0,0,0,2,0,1,1,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,ARTS,false_positive_rate_at_source_threshold,2,2,0,1,1,0,0,0,0,2,0,1,1,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,ARTS,positive_image_Dice,2,2,0,0,2,0,0,1,0,1,0,1,1,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,ARTS,positive_image_IoU,2,2,0,0,2,0,0,1,0,1,0,1,1,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,ARTS,normal_structure_pixel_FPR,2,2,0,1,1,0,0,0,0,2,0,0,2,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,ARTS,AUROC,2,2,0,2,0,0,0,0,0,2,0,0,2,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,ARTS,average_precision,2,2,0,1,1,0,0,1,0,1,0,0,2,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,ARTS,recall_at_source_threshold,2,2,0,1,0,1,0,0,1,1,0,0,2,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,ARTS,review_rate_at_source_threshold,2,2,0,2,0,0,1,0,0,1,1,0,1,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,ARTS,false_positive_rate_at_source_threshold,2,2,0,1,1,0,1,0,0,1,1,0,1,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,ARTS,positive_image_Dice,2,2,0,1,1,0,0,0,0,2,0,1,1,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,ARTS,positive_image_IoU,2,2,0,1,1,0,0,0,0,2,0,1,1,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,ARTS,normal_structure_pixel_FPR,2,2,0,2,0,0,1,0,0,1,0,0,2,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,ARTS,AUROC,8,8,0,8,0,0,7,0,0,1,7,0,1,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,ARTS,average_precision,8,8,0,8,0,0,8,0,0,0,8,0,0,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,ARTS,recall_at_source_threshold,8,8,0,2,6,0,0,2,0,6,1,3,4,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,ARTS,review_rate_at_source_threshold,8,8,0,1,7,0,0,7,0,1,0,6,2,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,ARTS,false_positive_rate_at_source_threshold,8,8,0,1,7,0,0,7,0,1,0,6,2,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,ARTS,positive_image_Dice,8,8,0,8,0,0,7,0,0,1,8,0,0,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,ARTS,positive_image_IoU,8,8,0,8,0,0,7,0,0,1,8,0,0,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,ARTS,normal_structure_pixel_FPR,8,8,0,8,0,0,8,0,0,0,5,0,3,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,ARTS,AUROC,2,2,0,2,0,0,2,0,0,0,0,0,2,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,ARTS,average_precision,2,2,0,2,0,0,2,0,0,0,0,0,2,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,ARTS,recall_at_source_threshold,2,2,0,0,2,0,0,0,0,2,0,0,2,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,ARTS,review_rate_at_source_threshold,2,2,0,0,2,0,0,0,0,2,0,2,0,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,ARTS,false_positive_rate_at_source_threshold,2,2,0,0,2,0,0,0,0,2,0,2,0,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,ARTS,positive_image_Dice,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,ARTS,positive_image_IoU,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,ARTS,normal_structure_pixel_FPR,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,ARTS,AUROC,6,6,0,6,0,0,2,0,0,4,2,0,4,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,ARTS,average_precision,6,6,0,6,0,0,2,0,0,4,3,0,3,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,ARTS,recall_at_source_threshold,6,6,0,0,4,2,0,0,0,6,0,4,2,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,ARTS,review_rate_at_source_threshold,6,6,0,0,6,0,0,2,0,4,0,6,0,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,ARTS,false_positive_rate_at_source_threshold,6,6,0,0,6,0,0,2,0,4,0,6,0,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,ARTS,positive_image_Dice,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,ARTS,positive_image_IoU,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,ARTS,normal_structure_pixel_FPR,6,6,0,6,0,0,6,0,0,0,0,0,6,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,ARTS,AUROC,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,ARTS,average_precision,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,ARTS,recall_at_source_threshold,1,1,0,0,0,1,0,0,1,0,0,0,1,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,ARTS,review_rate_at_source_threshold,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,ARTS,false_positive_rate_at_source_threshold,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,ARTS,positive_image_Dice,1,1,0,0,0,1,0,0,1,0,0,0,1,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,ARTS,positive_image_IoU,1,1,0,0,0,1,0,0,1,0,0,0,1,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,ARTS,normal_structure_pixel_FPR,1,1,0,0,0,1,0,0,1,0,0,0,1,0
+Original image-only LoRA versus frozen/full/CNN systems,scdd_publication_v1,CFVS,AUROC,10,10,0,8,0,2,7,0,2,1,7,0,3,0
+Original image-only LoRA versus frozen/full/CNN systems,scdd_publication_v1,CFVS,average_precision,10,10,0,8,0,2,7,0,2,1,7,0,3,0
+Original image-only LoRA versus frozen/full/CNN systems,scdd_publication_v1,CFVS,recall_at_source_threshold,10,10,0,7,1,2,2,0,2,6,3,0,7,0
+Original image-only LoRA versus frozen/full/CNN systems,scdd_publication_v1,CFVS,review_rate_at_source_threshold,10,10,0,5,5,0,1,3,0,6,3,4,3,0
+Original image-only LoRA versus frozen/full/CNN systems,scdd_publication_v1,CFVS,false_positive_rate_at_source_threshold,10,10,0,3,6,1,1,2,1,6,3,4,3,0
+Same-classifier frozen DINO versus HOG/statistics feature control,scdd_publication_v1,CFVS,AUROC,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Same-classifier frozen DINO versus HOG/statistics feature control,scdd_publication_v1,CFVS,average_precision,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Same-classifier frozen DINO versus HOG/statistics feature control,scdd_publication_v1,CFVS,recall_at_source_threshold,6,6,0,2,3,1,2,0,1,3,0,0,6,0
+Same-classifier frozen DINO versus HOG/statistics feature control,scdd_publication_v1,CFVS,review_rate_at_source_threshold,6,6,0,0,6,0,0,3,0,3,0,3,3,0
+Same-classifier frozen DINO versus HOG/statistics feature control,scdd_publication_v1,CFVS,false_positive_rate_at_source_threshold,6,6,0,0,6,0,0,3,0,3,0,5,1,0
+Original image-only LoRA versus classical control; different tuning budgets,scdd_publication_v1,CFVS,AUROC,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Original image-only LoRA versus classical control; different tuning budgets,scdd_publication_v1,CFVS,average_precision,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Original image-only LoRA versus classical control; different tuning budgets,scdd_publication_v1,CFVS,recall_at_source_threshold,6,6,0,4,1,1,2,0,1,3,2,0,4,0
+Original image-only LoRA versus classical control; different tuning budgets,scdd_publication_v1,CFVS,review_rate_at_source_threshold,6,6,0,0,6,0,0,3,0,3,0,2,4,0
+Original image-only LoRA versus classical control; different tuning budgets,scdd_publication_v1,CFVS,false_positive_rate_at_source_threshold,6,6,0,0,6,0,0,3,0,3,0,6,0,0
+Original neural adaptation versus frozen DINO/classical classifier,scdd_publication_v1,CFVS,AUROC,6,6,0,6,0,0,6,0,0,0,3,0,3,0
+Original neural adaptation versus frozen DINO/classical classifier,scdd_publication_v1,CFVS,average_precision,6,6,0,6,0,0,6,0,0,0,3,0,3,0
+Original neural adaptation versus frozen DINO/classical classifier,scdd_publication_v1,CFVS,recall_at_source_threshold,6,6,0,5,1,0,2,0,0,4,2,0,4,0
+Original neural adaptation versus frozen DINO/classical classifier,scdd_publication_v1,CFVS,review_rate_at_source_threshold,6,6,0,4,2,0,2,1,0,3,2,1,3,0
+Original neural adaptation versus frozen DINO/classical classifier,scdd_publication_v1,CFVS,false_positive_rate_at_source_threshold,6,6,0,2,2,2,0,1,2,3,2,2,2,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,scdd_publication_v1,CFVS,AUROC,18,18,0,18,0,0,18,0,0,0,18,0,0,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,scdd_publication_v1,CFVS,average_precision,18,18,0,18,0,0,18,0,0,0,18,0,0,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,scdd_publication_v1,CFVS,recall_at_source_threshold,18,18,0,9,9,0,9,0,0,9,0,3,15,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,scdd_publication_v1,CFVS,review_rate_at_source_threshold,18,18,0,0,18,0,0,14,0,4,0,9,9,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,scdd_publication_v1,CFVS,false_positive_rate_at_source_threshold,18,18,0,0,18,0,0,14,0,4,0,18,0,0
+Processing-scale control; no recovered physical-detail claim,scdd_publication_v1,CFVS,AUROC,12,12,0,6,6,0,6,3,0,3,0,0,12,0
+Processing-scale control; no recovered physical-detail claim,scdd_publication_v1,CFVS,average_precision,12,12,0,6,6,0,6,4,0,2,0,0,12,0
+Processing-scale control; no recovered physical-detail claim,scdd_publication_v1,CFVS,recall_at_source_threshold,12,12,0,4,5,3,2,2,3,5,0,0,12,0
+Processing-scale control; no recovered physical-detail claim,scdd_publication_v1,CFVS,review_rate_at_source_threshold,12,12,0,4,5,3,2,2,2,6,1,0,11,0
+Processing-scale control; no recovered physical-detail claim,scdd_publication_v1,CFVS,false_positive_rate_at_source_threshold,12,12,0,5,5,2,3,1,2,6,0,0,12,0
+CLS versus patch-mean/concatenation at the same processing size,scdd_publication_v1,CFVS,AUROC,12,12,0,4,8,0,2,5,0,5,0,0,12,0
+CLS versus patch-mean/concatenation at the same processing size,scdd_publication_v1,CFVS,average_precision,12,12,0,4,8,0,2,5,0,5,0,0,12,0
+CLS versus patch-mean/concatenation at the same processing size,scdd_publication_v1,CFVS,recall_at_source_threshold,12,12,0,9,1,2,3,1,2,6,0,0,12,0
+CLS versus patch-mean/concatenation at the same processing size,scdd_publication_v1,CFVS,review_rate_at_source_threshold,12,12,0,11,0,1,5,0,1,6,1,0,11,0
+CLS versus patch-mean/concatenation at the same processing size,scdd_publication_v1,CFVS,false_positive_rate_at_source_threshold,12,12,0,6,2,4,3,0,4,5,1,0,11,0
+Frozen larger-encoder complete-system control,scdd_publication_v1,CFVS,AUROC,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Frozen larger-encoder complete-system control,scdd_publication_v1,CFVS,average_precision,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Frozen larger-encoder complete-system control,scdd_publication_v1,CFVS,recall_at_source_threshold,6,6,0,3,3,0,3,0,0,3,1,0,5,0
+Frozen larger-encoder complete-system control,scdd_publication_v1,CFVS,review_rate_at_source_threshold,6,6,0,0,6,0,0,6,0,0,0,3,3,0
+Frozen larger-encoder complete-system control,scdd_publication_v1,CFVS,false_positive_rate_at_source_threshold,6,6,0,0,6,0,0,6,0,0,0,6,0,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,scdd_publication_v1,CFVS,AUROC,6,6,0,5,1,0,3,1,0,2,0,0,6,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,scdd_publication_v1,CFVS,average_precision,6,6,0,5,1,0,3,1,0,2,0,0,6,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,scdd_publication_v1,CFVS,recall_at_source_threshold,6,6,0,5,0,1,2,0,1,3,0,0,6,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,scdd_publication_v1,CFVS,review_rate_at_source_threshold,6,6,0,5,1,0,2,1,0,3,0,0,6,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,scdd_publication_v1,CFVS,false_positive_rate_at_source_threshold,6,6,0,5,1,0,2,1,0,3,0,0,6,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,scdd_publication_v1,CFVS,AUROC,4,4,0,4,0,0,4,0,0,0,4,0,0,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,scdd_publication_v1,CFVS,average_precision,4,4,0,4,0,0,4,0,0,0,4,0,0,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,scdd_publication_v1,CFVS,recall_at_source_threshold,4,4,0,3,1,0,2,0,0,2,1,0,3,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,scdd_publication_v1,CFVS,review_rate_at_source_threshold,4,4,0,2,1,1,1,0,1,2,0,1,3,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,scdd_publication_v1,CFVS,false_positive_rate_at_source_threshold,4,4,0,1,3,0,0,2,0,2,0,2,2,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,CFVS,AUROC,6,6,0,6,0,0,6,0,0,0,5,0,1,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,CFVS,average_precision,6,6,0,6,0,0,6,0,0,0,5,0,1,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,CFVS,recall_at_source_threshold,6,6,0,5,0,1,2,0,1,3,3,0,3,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,CFVS,review_rate_at_source_threshold,6,6,0,3,3,0,0,0,0,6,2,1,3,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,CFVS,false_positive_rate_at_source_threshold,6,6,0,2,4,0,0,0,0,6,1,4,1,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,CFVS,positive_image_Dice,6,6,0,5,1,0,4,0,0,2,5,0,1,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,CFVS,positive_image_IoU,6,6,0,5,1,0,4,1,0,1,5,0,1,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,CFVS,normal_structure_pixel_FPR,6,6,0,0,6,0,0,0,0,6,0,1,5,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,CFVS,AUROC,2,2,0,1,1,0,0,0,0,2,1,1,0,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,CFVS,average_precision,2,2,0,1,1,0,1,0,0,1,1,1,0,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,CFVS,recall_at_source_threshold,2,2,0,1,1,0,0,0,0,2,1,1,0,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,CFVS,review_rate_at_source_threshold,2,2,0,1,1,0,0,0,0,2,0,1,1,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,CFVS,false_positive_rate_at_source_threshold,2,2,0,1,1,0,0,0,0,2,0,0,2,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,CFVS,positive_image_Dice,2,2,0,0,2,0,0,0,0,2,0,2,0,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,CFVS,positive_image_IoU,2,2,0,0,2,0,0,0,0,2,0,2,0,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,CFVS,normal_structure_pixel_FPR,2,2,0,2,0,0,0,0,0,2,1,0,1,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,CFVS,AUROC,2,2,0,2,0,0,1,0,0,1,2,0,0,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,CFVS,average_precision,2,2,0,2,0,0,1,0,0,1,2,0,0,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,CFVS,recall_at_source_threshold,2,2,0,2,0,0,1,0,0,1,1,0,1,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,CFVS,review_rate_at_source_threshold,2,2,0,1,1,0,0,0,0,2,0,0,2,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,CFVS,false_positive_rate_at_source_threshold,2,2,0,1,1,0,0,0,0,2,0,0,2,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,CFVS,positive_image_Dice,2,2,0,1,1,0,0,0,0,2,1,0,1,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,CFVS,positive_image_IoU,2,2,0,1,1,0,0,0,0,2,1,0,1,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,CFVS,normal_structure_pixel_FPR,2,2,0,0,2,0,0,0,0,2,0,0,2,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,CFVS,AUROC,2,2,0,0,2,0,0,1,0,1,0,1,1,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,CFVS,average_precision,2,2,0,0,2,0,0,1,0,1,0,1,1,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,CFVS,recall_at_source_threshold,2,2,0,0,2,0,0,0,0,2,0,0,2,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,CFVS,review_rate_at_source_threshold,2,2,0,1,1,0,0,0,0,2,0,1,1,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,CFVS,false_positive_rate_at_source_threshold,2,2,0,1,1,0,0,0,0,2,1,1,0,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,CFVS,positive_image_Dice,2,2,0,0,2,0,0,2,0,0,0,2,0,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,CFVS,positive_image_IoU,2,2,0,0,2,0,0,2,0,0,0,2,0,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,CFVS,normal_structure_pixel_FPR,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,CFVS,AUROC,4,4,0,0,4,0,0,4,0,0,0,4,0,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,CFVS,average_precision,4,4,0,0,4,0,0,4,0,0,0,4,0,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,CFVS,recall_at_source_threshold,4,4,0,4,0,0,1,0,0,3,3,0,1,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,CFVS,review_rate_at_source_threshold,4,4,0,4,0,0,2,0,0,2,4,0,0,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,CFVS,false_positive_rate_at_source_threshold,4,4,0,4,0,0,2,0,0,2,4,0,0,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,CFVS,positive_image_Dice,4,4,0,3,1,0,1,0,0,3,3,0,1,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,CFVS,positive_image_IoU,4,4,0,3,1,0,1,0,0,3,3,0,1,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,CFVS,normal_structure_pixel_FPR,4,4,0,4,0,0,4,0,0,0,4,0,0,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,CFVS,AUROC,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,CFVS,average_precision,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,CFVS,recall_at_source_threshold,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,CFVS,review_rate_at_source_threshold,2,2,0,1,0,1,0,0,1,1,1,0,1,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,CFVS,false_positive_rate_at_source_threshold,2,2,0,1,0,1,0,0,1,1,1,0,1,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,CFVS,positive_image_Dice,2,2,0,2,0,0,0,0,0,2,1,0,1,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,CFVS,positive_image_IoU,2,2,0,2,0,0,0,0,0,2,1,0,1,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,CFVS,normal_structure_pixel_FPR,2,2,0,1,0,1,0,0,1,1,0,0,2,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,CFVS,AUROC,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,CFVS,average_precision,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,CFVS,recall_at_source_threshold,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,CFVS,review_rate_at_source_threshold,2,2,0,0,1,1,0,0,1,1,0,0,2,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,CFVS,false_positive_rate_at_source_threshold,2,2,0,0,1,1,0,0,1,1,0,0,2,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,CFVS,positive_image_Dice,2,2,0,2,0,0,0,0,0,2,1,0,1,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,CFVS,positive_image_IoU,2,2,0,2,0,0,0,0,0,2,1,0,1,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,CFVS,normal_structure_pixel_FPR,2,2,0,0,1,1,0,0,1,1,0,0,2,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,CFVS,AUROC,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,CFVS,average_precision,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,CFVS,recall_at_source_threshold,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,CFVS,review_rate_at_source_threshold,2,2,0,1,0,1,0,0,1,1,0,0,2,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,CFVS,false_positive_rate_at_source_threshold,2,2,0,1,0,1,0,0,1,1,0,0,2,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,CFVS,positive_image_Dice,2,2,0,2,0,0,2,0,0,0,1,0,1,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,CFVS,positive_image_IoU,2,2,0,2,0,0,2,0,0,0,1,0,1,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,CFVS,normal_structure_pixel_FPR,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,CFVS,AUROC,8,8,0,8,0,0,6,0,0,2,7,0,1,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,CFVS,average_precision,8,8,0,8,0,0,6,0,0,2,7,0,1,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,CFVS,recall_at_source_threshold,8,8,0,3,4,1,0,2,0,6,2,2,4,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,CFVS,review_rate_at_source_threshold,8,8,0,1,7,0,0,4,0,4,0,6,2,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,CFVS,false_positive_rate_at_source_threshold,8,8,0,1,7,0,0,4,0,4,0,7,1,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,CFVS,positive_image_Dice,8,8,0,8,0,0,4,0,0,4,8,0,0,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,CFVS,positive_image_IoU,8,8,0,8,0,0,4,0,0,4,8,0,0,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,CFVS,normal_structure_pixel_FPR,8,8,0,6,0,2,0,0,2,6,1,0,7,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,CFVS,AUROC,2,2,0,2,0,0,2,0,0,0,2,0,0,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,CFVS,average_precision,2,2,0,2,0,0,2,0,0,0,2,0,0,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,CFVS,recall_at_source_threshold,2,2,0,1,0,1,0,0,0,2,1,0,1,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,CFVS,review_rate_at_source_threshold,2,2,0,1,1,0,0,0,0,2,0,0,2,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,CFVS,false_positive_rate_at_source_threshold,2,2,0,0,2,0,0,0,0,2,0,0,2,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,CFVS,positive_image_Dice,2,2,0,0,2,0,0,0,0,2,0,0,2,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,CFVS,positive_image_IoU,2,2,0,0,2,0,0,0,0,2,0,0,2,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,CFVS,normal_structure_pixel_FPR,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,CFVS,AUROC,6,6,0,6,0,0,4,0,0,2,4,0,2,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,CFVS,average_precision,6,6,0,6,0,0,4,0,0,2,4,0,2,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,CFVS,recall_at_source_threshold,6,6,0,1,3,2,0,0,1,5,1,2,3,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,CFVS,review_rate_at_source_threshold,6,6,0,1,5,0,0,0,0,6,0,3,3,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,CFVS,false_positive_rate_at_source_threshold,6,6,0,0,6,0,0,0,0,6,0,4,2,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,CFVS,positive_image_Dice,6,6,0,6,0,0,4,0,0,2,6,0,0,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,CFVS,positive_image_IoU,6,6,0,6,0,0,4,0,0,2,6,0,0,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,CFVS,normal_structure_pixel_FPR,6,6,0,4,0,2,0,0,2,4,0,0,6,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,CFVS,AUROC,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,CFVS,average_precision,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,CFVS,recall_at_source_threshold,1,1,0,0,1,0,0,0,0,1,0,1,0,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,CFVS,review_rate_at_source_threshold,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,CFVS,false_positive_rate_at_source_threshold,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,CFVS,positive_image_Dice,1,1,0,0,0,1,0,0,1,0,0,0,1,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,CFVS,positive_image_IoU,1,1,0,0,0,1,0,0,1,0,0,0,1,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,CFVS,normal_structure_pixel_FPR,1,1,0,0,0,1,0,0,1,0,0,0,1,0
+Original image-only LoRA versus frozen/full/CNN systems,scdd_publication_v1,CSIR,AUROC,10,10,0,10,0,0,10,0,0,0,9,0,1,0
+Original image-only LoRA versus frozen/full/CNN systems,scdd_publication_v1,CSIR,average_precision,10,10,0,10,0,0,10,0,0,0,9,0,1,0
+Original image-only LoRA versus frozen/full/CNN systems,scdd_publication_v1,CSIR,recall_at_source_threshold,10,10,0,6,4,0,3,1,0,6,2,0,8,0
+Original image-only LoRA versus frozen/full/CNN systems,scdd_publication_v1,CSIR,review_rate_at_source_threshold,10,10,0,5,5,0,4,4,0,2,3,4,3,0
+Original image-only LoRA versus frozen/full/CNN systems,scdd_publication_v1,CSIR,false_positive_rate_at_source_threshold,10,10,0,4,6,0,1,3,0,6,1,5,4,0
+Same-classifier frozen DINO versus HOG/statistics feature control,scdd_publication_v1,CSIR,AUROC,6,6,0,6,0,0,5,0,0,1,5,0,1,0
+Same-classifier frozen DINO versus HOG/statistics feature control,scdd_publication_v1,CSIR,average_precision,6,6,0,5,1,0,5,0,0,1,4,0,2,0
+Same-classifier frozen DINO versus HOG/statistics feature control,scdd_publication_v1,CSIR,recall_at_source_threshold,6,6,0,4,1,1,4,0,1,1,2,0,4,0
+Same-classifier frozen DINO versus HOG/statistics feature control,scdd_publication_v1,CSIR,review_rate_at_source_threshold,6,6,0,4,2,0,4,1,0,1,0,1,5,0
+Same-classifier frozen DINO versus HOG/statistics feature control,scdd_publication_v1,CSIR,false_positive_rate_at_source_threshold,6,6,0,1,3,2,0,3,2,1,0,1,5,0
+Original image-only LoRA versus classical control; different tuning budgets,scdd_publication_v1,CSIR,AUROC,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Original image-only LoRA versus classical control; different tuning budgets,scdd_publication_v1,CSIR,average_precision,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Original image-only LoRA versus classical control; different tuning budgets,scdd_publication_v1,CSIR,recall_at_source_threshold,6,6,0,4,1,1,4,1,1,0,3,0,3,0
+Original image-only LoRA versus classical control; different tuning budgets,scdd_publication_v1,CSIR,review_rate_at_source_threshold,6,6,0,2,4,0,2,2,0,2,2,2,2,0
+Original image-only LoRA versus classical control; different tuning budgets,scdd_publication_v1,CSIR,false_positive_rate_at_source_threshold,6,6,0,2,4,0,2,4,0,0,2,4,0,0
+Original neural adaptation versus frozen DINO/classical classifier,scdd_publication_v1,CSIR,AUROC,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Original neural adaptation versus frozen DINO/classical classifier,scdd_publication_v1,CSIR,average_precision,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Original neural adaptation versus frozen DINO/classical classifier,scdd_publication_v1,CSIR,recall_at_source_threshold,6,6,0,2,3,1,2,2,1,1,0,0,6,0
+Original neural adaptation versus frozen DINO/classical classifier,scdd_publication_v1,CSIR,review_rate_at_source_threshold,6,6,0,2,4,0,2,2,0,2,2,2,2,0
+Original neural adaptation versus frozen DINO/classical classifier,scdd_publication_v1,CSIR,false_positive_rate_at_source_threshold,6,6,0,2,4,0,2,2,0,2,0,2,4,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,scdd_publication_v1,CSIR,AUROC,18,18,0,18,0,0,18,0,0,0,18,0,0,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,scdd_publication_v1,CSIR,average_precision,18,18,0,18,0,0,18,0,0,0,16,0,2,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,scdd_publication_v1,CSIR,recall_at_source_threshold,18,18,0,18,0,0,18,0,0,0,18,0,0,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,scdd_publication_v1,CSIR,review_rate_at_source_threshold,18,18,0,18,0,0,14,0,0,4,3,0,15,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,scdd_publication_v1,CSIR,false_positive_rate_at_source_threshold,18,18,0,1,17,0,1,11,0,6,0,10,8,0
+Processing-scale control; no recovered physical-detail claim,scdd_publication_v1,CSIR,AUROC,12,12,0,12,0,0,11,0,0,1,7,0,5,0
+Processing-scale control; no recovered physical-detail claim,scdd_publication_v1,CSIR,average_precision,12,12,0,12,0,0,11,0,0,1,7,0,5,0
+Processing-scale control; no recovered physical-detail claim,scdd_publication_v1,CSIR,recall_at_source_threshold,12,12,0,8,2,2,5,0,2,5,0,0,12,0
+Processing-scale control; no recovered physical-detail claim,scdd_publication_v1,CSIR,review_rate_at_source_threshold,12,12,0,4,3,5,2,1,5,4,2,2,8,0
+Processing-scale control; no recovered physical-detail claim,scdd_publication_v1,CSIR,false_positive_rate_at_source_threshold,12,12,0,4,8,0,2,6,0,4,2,1,9,0
+CLS versus patch-mean/concatenation at the same processing size,scdd_publication_v1,CSIR,AUROC,12,12,0,5,7,0,4,5,0,3,0,3,9,0
+CLS versus patch-mean/concatenation at the same processing size,scdd_publication_v1,CSIR,average_precision,12,12,0,4,8,0,4,5,0,3,0,3,9,0
+CLS versus patch-mean/concatenation at the same processing size,scdd_publication_v1,CSIR,recall_at_source_threshold,12,12,0,2,5,5,2,0,5,5,0,1,11,0
+CLS versus patch-mean/concatenation at the same processing size,scdd_publication_v1,CSIR,review_rate_at_source_threshold,12,12,0,5,3,4,3,1,4,4,2,2,8,0
+CLS versus patch-mean/concatenation at the same processing size,scdd_publication_v1,CSIR,false_positive_rate_at_source_threshold,12,12,0,6,2,4,3,1,4,4,2,1,9,0
+Frozen larger-encoder complete-system control,scdd_publication_v1,CSIR,AUROC,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Frozen larger-encoder complete-system control,scdd_publication_v1,CSIR,average_precision,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Frozen larger-encoder complete-system control,scdd_publication_v1,CSIR,recall_at_source_threshold,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Frozen larger-encoder complete-system control,scdd_publication_v1,CSIR,review_rate_at_source_threshold,6,6,0,6,0,0,4,0,0,2,0,0,6,0
+Frozen larger-encoder complete-system control,scdd_publication_v1,CSIR,false_positive_rate_at_source_threshold,6,6,0,0,6,0,0,5,0,1,0,5,1,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,scdd_publication_v1,CSIR,AUROC,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,scdd_publication_v1,CSIR,average_precision,6,6,0,6,0,0,6,0,0,0,4,0,2,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,scdd_publication_v1,CSIR,recall_at_source_threshold,6,6,0,3,3,0,2,1,0,3,0,0,6,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,scdd_publication_v1,CSIR,review_rate_at_source_threshold,6,6,0,2,4,0,0,4,0,2,0,2,4,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,scdd_publication_v1,CSIR,false_positive_rate_at_source_threshold,6,6,0,1,5,0,0,4,0,2,0,2,4,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,scdd_publication_v1,CSIR,AUROC,4,4,0,4,0,0,4,0,0,0,3,0,1,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,scdd_publication_v1,CSIR,average_precision,4,4,0,4,0,0,4,0,0,0,3,0,1,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,scdd_publication_v1,CSIR,recall_at_source_threshold,4,4,0,4,0,0,3,0,0,1,3,0,1,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,scdd_publication_v1,CSIR,review_rate_at_source_threshold,4,4,0,4,0,0,4,0,0,0,1,0,3,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,scdd_publication_v1,CSIR,false_positive_rate_at_source_threshold,4,4,0,1,3,0,1,3,0,0,1,0,3,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,CSIR,AUROC,6,6,0,6,0,0,6,0,0,0,5,0,1,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,CSIR,average_precision,6,6,0,6,0,0,6,0,0,0,5,0,1,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,CSIR,recall_at_source_threshold,6,6,0,1,5,0,1,0,0,5,0,0,6,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,CSIR,review_rate_at_source_threshold,6,6,0,2,4,0,0,4,0,2,1,4,1,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,CSIR,false_positive_rate_at_source_threshold,6,6,0,1,5,0,0,5,0,1,1,4,1,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,CSIR,positive_image_Dice,6,6,0,2,4,0,1,1,0,4,0,1,5,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,CSIR,positive_image_IoU,6,6,0,2,4,0,0,1,0,5,0,1,5,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,CSIR,normal_structure_pixel_FPR,6,6,0,1,5,0,0,3,0,3,0,2,4,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,CSIR,AUROC,2,2,0,0,2,0,0,0,0,2,0,1,1,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,CSIR,average_precision,2,2,0,1,1,0,0,0,0,2,0,0,2,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,CSIR,recall_at_source_threshold,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,CSIR,review_rate_at_source_threshold,2,2,0,1,0,1,0,0,1,1,1,0,1,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,CSIR,false_positive_rate_at_source_threshold,2,2,0,1,0,1,0,0,1,1,1,0,1,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,CSIR,positive_image_Dice,2,2,0,0,2,0,0,1,0,1,0,1,1,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,CSIR,positive_image_IoU,2,2,0,0,2,0,0,1,0,1,0,1,1,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,CSIR,normal_structure_pixel_FPR,2,2,0,1,1,0,0,0,0,2,0,0,2,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,CSIR,AUROC,2,2,0,2,0,0,2,0,0,0,2,0,0,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,CSIR,average_precision,2,2,0,2,0,0,2,0,0,0,2,0,0,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,CSIR,recall_at_source_threshold,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,CSIR,review_rate_at_source_threshold,2,2,0,1,1,0,1,0,0,1,0,0,2,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,CSIR,false_positive_rate_at_source_threshold,2,2,0,1,1,0,1,0,0,1,0,0,2,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,CSIR,positive_image_Dice,2,2,0,0,2,0,0,2,0,0,0,1,1,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,CSIR,positive_image_IoU,2,2,0,0,2,0,0,2,0,0,0,2,0,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,CSIR,normal_structure_pixel_FPR,2,2,0,1,1,0,0,0,0,2,0,0,2,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,CSIR,AUROC,2,2,0,0,2,0,0,2,0,0,0,2,0,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,CSIR,average_precision,2,2,0,0,2,0,0,2,0,0,0,2,0,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,CSIR,recall_at_source_threshold,2,2,0,2,0,0,0,0,0,2,0,0,2,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,CSIR,review_rate_at_source_threshold,2,2,0,2,0,0,2,0,0,0,2,0,0,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,CSIR,false_positive_rate_at_source_threshold,2,2,0,2,0,0,2,0,0,0,2,0,0,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,CSIR,positive_image_Dice,2,2,0,0,2,0,0,1,0,1,0,2,0,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,CSIR,positive_image_IoU,2,2,0,0,2,0,0,1,0,1,0,2,0,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,CSIR,normal_structure_pixel_FPR,2,2,0,2,0,0,1,0,0,1,0,0,2,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,CSIR,AUROC,4,4,0,0,4,0,0,4,0,0,0,2,2,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,CSIR,average_precision,4,4,0,0,4,0,0,4,0,0,0,0,4,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,CSIR,recall_at_source_threshold,4,4,0,2,0,2,0,0,2,2,0,0,4,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,CSIR,review_rate_at_source_threshold,4,4,0,4,0,0,2,0,0,2,4,0,0,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,CSIR,false_positive_rate_at_source_threshold,4,4,0,4,0,0,2,0,0,2,4,0,0,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,CSIR,positive_image_Dice,4,4,0,0,4,0,0,4,0,0,0,4,0,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,CSIR,positive_image_IoU,4,4,0,0,4,0,0,4,0,0,0,4,0,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,CSIR,normal_structure_pixel_FPR,4,4,0,4,0,0,4,0,0,0,4,0,0,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,CSIR,AUROC,2,2,0,2,0,0,2,0,0,0,1,0,1,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,CSIR,average_precision,2,2,0,2,0,0,2,0,0,0,1,0,1,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,CSIR,recall_at_source_threshold,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,CSIR,review_rate_at_source_threshold,2,2,0,1,1,0,0,0,0,2,0,0,2,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,CSIR,false_positive_rate_at_source_threshold,2,2,0,1,1,0,0,0,0,2,0,0,2,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,CSIR,positive_image_Dice,2,2,0,2,0,0,0,0,0,2,1,0,1,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,CSIR,positive_image_IoU,2,2,0,2,0,0,0,0,0,2,2,0,0,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,CSIR,normal_structure_pixel_FPR,2,2,0,2,0,0,0,0,0,2,0,0,2,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,CSIR,AUROC,2,2,0,1,1,0,0,0,0,2,0,0,2,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,CSIR,average_precision,2,2,0,1,1,0,0,0,0,2,0,0,2,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,CSIR,recall_at_source_threshold,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,CSIR,review_rate_at_source_threshold,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,CSIR,false_positive_rate_at_source_threshold,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,CSIR,positive_image_Dice,2,2,0,1,1,0,1,0,0,1,0,0,2,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,CSIR,positive_image_IoU,2,2,0,1,1,0,1,0,0,1,0,0,2,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,CSIR,normal_structure_pixel_FPR,2,2,0,1,1,0,1,0,0,1,1,0,1,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,CSIR,AUROC,2,2,0,2,0,0,1,0,0,1,0,0,2,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,CSIR,average_precision,2,2,0,2,0,0,1,0,0,1,0,0,2,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,CSIR,recall_at_source_threshold,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,CSIR,review_rate_at_source_threshold,2,2,0,1,1,0,0,0,0,2,0,0,2,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,CSIR,false_positive_rate_at_source_threshold,2,2,0,1,1,0,0,0,0,2,0,0,2,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,CSIR,positive_image_Dice,2,2,0,2,0,0,1,0,0,1,1,0,1,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,CSIR,positive_image_IoU,2,2,0,2,0,0,1,0,0,1,1,0,1,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,CSIR,normal_structure_pixel_FPR,2,2,0,2,0,0,2,0,0,0,0,0,2,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,CSIR,AUROC,8,8,0,8,0,0,7,0,0,1,5,0,3,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,CSIR,average_precision,8,8,0,8,0,0,5,0,0,3,3,0,5,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,CSIR,recall_at_source_threshold,8,8,0,7,1,0,7,0,0,1,7,0,1,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,CSIR,review_rate_at_source_threshold,8,8,0,5,3,0,3,0,0,5,2,1,5,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,CSIR,false_positive_rate_at_source_threshold,8,8,0,2,6,0,2,3,0,3,0,4,4,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,CSIR,positive_image_Dice,8,8,0,8,0,0,8,0,0,0,8,0,0,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,CSIR,positive_image_IoU,8,8,0,8,0,0,8,0,0,0,8,0,0,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,CSIR,normal_structure_pixel_FPR,8,8,0,7,0,1,6,0,1,1,5,0,3,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,CSIR,AUROC,2,2,0,2,0,0,0,0,0,2,0,0,2,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,CSIR,average_precision,2,2,0,0,2,0,0,0,0,2,0,0,2,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,CSIR,recall_at_source_threshold,2,2,0,2,0,0,0,0,0,2,0,0,2,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,CSIR,review_rate_at_source_threshold,2,2,0,1,1,0,0,0,0,2,0,0,2,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,CSIR,false_positive_rate_at_source_threshold,2,2,0,0,2,0,0,1,0,1,0,0,2,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,CSIR,positive_image_Dice,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,CSIR,positive_image_IoU,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,CSIR,normal_structure_pixel_FPR,2,2,0,0,0,2,0,0,2,0,0,0,2,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,CSIR,AUROC,6,6,0,6,0,0,6,0,0,0,4,0,2,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,CSIR,average_precision,6,6,0,6,0,0,6,0,0,0,2,0,4,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,CSIR,recall_at_source_threshold,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,CSIR,review_rate_at_source_threshold,6,6,0,6,0,0,5,0,0,1,4,0,2,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,CSIR,false_positive_rate_at_source_threshold,6,6,0,4,2,0,4,0,0,2,4,0,2,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,CSIR,positive_image_Dice,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,CSIR,positive_image_IoU,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,CSIR,normal_structure_pixel_FPR,6,6,0,6,0,0,4,0,0,2,4,0,2,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,CSIR,AUROC,1,1,0,1,0,0,0,0,0,1,0,0,1,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,CSIR,average_precision,1,1,0,1,0,0,0,0,0,1,0,0,1,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,CSIR,recall_at_source_threshold,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,CSIR,review_rate_at_source_threshold,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,CSIR,false_positive_rate_at_source_threshold,1,1,0,1,0,0,0,0,0,1,0,0,1,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,CSIR,positive_image_Dice,1,1,0,0,0,1,0,0,1,0,0,0,1,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,CSIR,positive_image_IoU,1,1,0,0,0,1,0,0,1,0,0,0,1,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,CSIR,normal_structure_pixel_FPR,1,1,0,0,0,1,0,0,1,0,0,0,1,0
+Original image-only LoRA versus frozen/full/CNN systems,scdd_publication_v1,whole,AUROC,25,25,0,23,2,0,23,2,0,0,22,0,3,0
+Original image-only LoRA versus frozen/full/CNN systems,scdd_publication_v1,whole,average_precision,25,25,0,23,2,0,23,0,0,2,22,0,3,0
+Original image-only LoRA versus frozen/full/CNN systems,scdd_publication_v1,whole,recall_at_source_threshold,25,25,0,18,6,1,9,0,0,16,7,1,17,0
+Original image-only LoRA versus frozen/full/CNN systems,scdd_publication_v1,whole,review_rate_at_source_threshold,25,25,0,10,15,0,5,8,0,12,5,8,12,0
+Original image-only LoRA versus frozen/full/CNN systems,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,25,25,0,8,17,0,1,8,0,16,5,12,8,0
+Same-classifier frozen DINO versus HOG/statistics feature control,scdd_publication_v1,whole,AUROC,15,15,0,15,0,0,15,0,0,0,12,0,3,0
+Same-classifier frozen DINO versus HOG/statistics feature control,scdd_publication_v1,whole,average_precision,15,15,0,15,0,0,14,0,0,1,11,0,4,0
+Same-classifier frozen DINO versus HOG/statistics feature control,scdd_publication_v1,whole,recall_at_source_threshold,15,15,0,7,4,4,4,1,2,8,0,2,13,0
+Same-classifier frozen DINO versus HOG/statistics feature control,scdd_publication_v1,whole,review_rate_at_source_threshold,15,15,0,5,10,0,4,7,0,4,0,8,7,0
+Same-classifier frozen DINO versus HOG/statistics feature control,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,15,15,0,1,12,2,1,8,2,4,0,9,6,0
+Original image-only LoRA versus classical control; different tuning budgets,scdd_publication_v1,whole,AUROC,15,15,0,15,0,0,15,0,0,0,15,0,0,0
+Original image-only LoRA versus classical control; different tuning budgets,scdd_publication_v1,whole,average_precision,15,15,0,15,0,0,15,0,0,0,15,0,0,0
+Original image-only LoRA versus classical control; different tuning budgets,scdd_publication_v1,whole,recall_at_source_threshold,15,15,0,11,2,2,5,0,2,8,2,1,12,0
+Original image-only LoRA versus classical control; different tuning budgets,scdd_publication_v1,whole,review_rate_at_source_threshold,15,15,0,2,13,0,2,12,0,1,0,10,5,0
+Original image-only LoRA versus classical control; different tuning budgets,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,15,15,0,2,13,0,0,12,0,3,0,10,5,0
+Original neural adaptation versus frozen DINO/classical classifier,scdd_publication_v1,whole,AUROC,15,15,0,15,0,0,15,0,0,0,13,0,2,0
+Original neural adaptation versus frozen DINO/classical classifier,scdd_publication_v1,whole,average_precision,15,15,0,15,0,0,15,0,0,0,13,0,2,0
+Original neural adaptation versus frozen DINO/classical classifier,scdd_publication_v1,whole,recall_at_source_threshold,15,15,0,9,4,2,3,2,1,9,2,1,12,0
+Original neural adaptation versus frozen DINO/classical classifier,scdd_publication_v1,whole,review_rate_at_source_threshold,15,15,0,3,12,0,2,7,0,6,1,10,4,0
+Original neural adaptation versus frozen DINO/classical classifier,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,15,15,0,3,12,0,1,8,0,6,1,11,3,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,scdd_publication_v1,whole,AUROC,45,45,0,45,0,0,45,0,0,0,32,0,13,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,scdd_publication_v1,whole,average_precision,45,45,0,45,0,0,45,0,0,0,36,0,9,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,scdd_publication_v1,whole,recall_at_source_threshold,45,45,0,17,20,8,6,12,4,23,0,4,41,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,scdd_publication_v1,whole,review_rate_at_source_threshold,45,45,0,8,35,2,5,18,1,21,1,19,25,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,45,45,0,8,37,0,5,19,0,21,1,18,26,0
+Processing-scale control; no recovered physical-detail claim,scdd_publication_v1,whole,AUROC,30,30,0,25,5,0,19,5,0,6,5,0,25,0
+Processing-scale control; no recovered physical-detail claim,scdd_publication_v1,whole,average_precision,30,30,0,25,5,0,17,5,0,8,5,0,25,0
+Processing-scale control; no recovered physical-detail claim,scdd_publication_v1,whole,recall_at_source_threshold,30,30,0,11,13,6,3,10,3,14,2,4,24,0
+Processing-scale control; no recovered physical-detail claim,scdd_publication_v1,whole,review_rate_at_source_threshold,30,30,0,9,19,2,3,13,2,12,2,12,16,0
+Processing-scale control; no recovered physical-detail claim,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,30,30,0,9,19,2,4,14,1,11,1,10,19,0
+CLS versus patch-mean/concatenation at the same processing size,scdd_publication_v1,whole,AUROC,30,30,0,8,22,0,4,17,0,9,1,9,20,0
+CLS versus patch-mean/concatenation at the same processing size,scdd_publication_v1,whole,average_precision,30,30,0,8,22,0,4,16,0,10,0,8,22,0
+CLS versus patch-mean/concatenation at the same processing size,scdd_publication_v1,whole,recall_at_source_threshold,30,30,0,16,10,4,8,3,3,16,1,0,29,0
+CLS versus patch-mean/concatenation at the same processing size,scdd_publication_v1,whole,review_rate_at_source_threshold,30,30,0,23,5,2,14,2,1,13,12,2,16,0
+CLS versus patch-mean/concatenation at the same processing size,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,30,30,0,22,6,2,14,2,1,13,12,2,16,0
+Frozen larger-encoder complete-system control,scdd_publication_v1,whole,AUROC,15,15,0,15,0,0,15,0,0,0,14,0,1,0
+Frozen larger-encoder complete-system control,scdd_publication_v1,whole,average_precision,15,15,0,15,0,0,15,0,0,0,14,0,1,0
+Frozen larger-encoder complete-system control,scdd_publication_v1,whole,recall_at_source_threshold,15,15,0,9,6,0,3,3,0,9,0,0,15,0
+Frozen larger-encoder complete-system control,scdd_publication_v1,whole,review_rate_at_source_threshold,15,15,0,0,15,0,0,14,0,1,0,11,4,0
+Frozen larger-encoder complete-system control,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,15,15,0,0,15,0,0,15,0,0,0,12,3,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,scdd_publication_v1,whole,AUROC,15,15,0,13,2,0,13,2,0,0,11,0,4,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,scdd_publication_v1,whole,average_precision,15,15,0,13,2,0,10,2,0,3,7,0,8,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,scdd_publication_v1,whole,recall_at_source_threshold,15,15,0,7,3,5,2,1,3,9,0,0,15,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,scdd_publication_v1,whole,review_rate_at_source_threshold,15,15,0,2,13,0,2,9,0,4,2,10,3,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,15,15,0,2,12,1,2,8,1,4,2,11,2,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,scdd_publication_v1,whole,AUROC,10,10,0,10,0,0,10,0,0,0,7,0,3,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,scdd_publication_v1,whole,average_precision,10,10,0,10,0,0,9,0,0,1,7,0,3,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,scdd_publication_v1,whole,recall_at_source_threshold,10,10,0,4,4,2,2,3,1,4,1,2,7,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,scdd_publication_v1,whole,review_rate_at_source_threshold,10,10,0,1,8,1,1,6,0,3,1,3,6,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,10,10,0,1,9,0,1,4,0,5,1,4,5,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,whole,AUROC,20,20,0,20,0,0,16,0,0,4,17,0,3,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,whole,average_precision,20,20,0,19,1,0,17,0,0,3,17,0,3,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,whole,recall_at_source_threshold,20,20,0,12,6,2,5,1,0,14,6,0,14,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,whole,review_rate_at_source_threshold,20,20,0,3,16,1,0,7,0,13,0,12,8,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,20,20,0,2,18,0,0,9,0,11,0,14,6,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,whole,positive_image_Dice,20,20,0,11,9,0,4,0,0,16,7,4,9,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,whole,positive_image_IoU,20,20,0,12,8,0,4,1,0,15,6,4,10,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,whole,normal_structure_pixel_FPR,20,20,0,6,14,0,1,9,0,10,3,9,8,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,scdd_publication_v1,whole,pooled_native_pixel_AP,20,20,0,10,10,0,0,4,0,16,0,0,0,20
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,whole,AUROC,5,5,0,3,2,0,1,1,0,3,2,0,3,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,whole,average_precision,5,5,0,3,2,0,0,1,0,4,2,0,3,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,whole,recall_at_source_threshold,5,5,0,1,3,1,0,0,0,5,0,1,4,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,whole,review_rate_at_source_threshold,5,5,0,3,2,0,1,0,0,4,0,2,3,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,5,5,0,3,2,0,0,0,0,5,0,0,5,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,whole,positive_image_Dice,5,5,0,4,1,0,0,0,0,5,3,0,2,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,whole,positive_image_IoU,5,5,0,4,1,0,0,0,0,5,3,0,2,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,whole,normal_structure_pixel_FPR,5,5,0,2,3,0,0,0,0,5,0,1,4,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,scdd_publication_v1,whole,pooled_native_pixel_AP,5,5,0,5,0,0,1,0,0,4,0,0,0,5
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,whole,AUROC,5,5,0,2,3,0,0,0,0,5,0,0,5,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,whole,average_precision,5,5,0,2,3,0,0,0,0,5,0,0,5,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,whole,recall_at_source_threshold,5,5,0,3,1,1,1,0,0,4,0,0,5,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,whole,review_rate_at_source_threshold,5,5,0,4,0,1,2,0,0,3,2,0,3,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,whole,false_positive_rate_at_source_threshold,5,5,0,4,1,0,2,0,0,3,2,0,3,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,whole,positive_image_Dice,5,5,0,3,2,0,0,1,0,4,1,1,3,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,whole,positive_image_IoU,5,5,0,3,2,0,0,1,0,4,1,1,3,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,whole,normal_structure_pixel_FPR,5,5,0,3,2,0,2,0,0,3,1,1,3,0
+"Local-patch objective/decoder control, same annotation identities when verified",scdd_publication_v1,whole,pooled_native_pixel_AP,5,5,0,3,2,0,1,1,0,3,0,0,0,5
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,whole,AUROC,5,5,0,0,5,0,0,5,0,0,0,5,0,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,whole,average_precision,5,5,0,0,5,0,0,4,0,1,0,5,0,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,whole,recall_at_source_threshold,5,5,0,2,3,0,0,1,0,4,0,1,4,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,whole,review_rate_at_source_threshold,5,5,0,5,0,0,2,0,0,3,4,0,1,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,5,5,0,5,0,0,2,0,0,3,4,0,1,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,whole,positive_image_Dice,5,5,0,1,4,0,0,2,0,3,0,3,2,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,whole,positive_image_IoU,5,5,0,1,4,0,0,2,0,3,0,3,2,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,whole,normal_structure_pixel_FPR,5,5,0,4,1,0,3,0,0,2,4,0,1,0
+Adapted multidepth decoder versus local frozen-patch system,scdd_publication_v1,whole,pooled_native_pixel_AP,5,5,0,1,4,0,1,2,0,2,0,0,0,5
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,whole,AUROC,10,10,0,0,10,0,0,10,0,0,0,10,0,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,whole,average_precision,10,10,0,0,10,0,0,10,0,0,0,10,0,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,whole,recall_at_source_threshold,10,10,0,7,3,0,5,0,0,5,2,0,8,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,whole,review_rate_at_source_threshold,10,10,0,10,0,0,10,0,0,0,10,0,0,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,10,10,0,10,0,0,10,0,0,0,10,0,0,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,whole,positive_image_Dice,10,10,0,0,10,0,0,6,0,4,0,9,1,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,whole,positive_image_IoU,10,10,0,0,10,0,0,6,0,4,0,9,1,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,whole,normal_structure_pixel_FPR,10,10,0,10,0,0,10,0,0,0,10,0,0,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,scdd_publication_v1,whole,pooled_native_pixel_AP,10,10,0,0,10,0,0,8,0,2,0,0,0,10
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,whole,AUROC,5,5,0,4,1,0,0,1,0,4,0,1,4,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,whole,average_precision,5,5,0,4,1,0,1,0,0,4,1,0,4,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,whole,recall_at_source_threshold,5,5,0,1,2,2,0,0,1,4,0,1,4,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,whole,review_rate_at_source_threshold,5,5,0,3,2,0,0,1,0,4,2,1,2,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,5,5,0,3,2,0,0,1,0,4,2,1,2,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,whole,positive_image_Dice,5,5,0,3,2,0,2,1,0,2,2,1,2,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,whole,positive_image_IoU,5,5,0,3,2,0,2,1,0,2,2,1,2,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,whole,normal_structure_pixel_FPR,5,5,0,3,2,0,0,0,0,5,0,1,4,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,scdd_publication_v1,whole,pooled_native_pixel_AP,5,5,0,2,3,0,2,1,0,2,0,0,0,5
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,whole,AUROC,5,5,0,2,2,1,0,0,1,4,0,0,5,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,whole,average_precision,5,5,0,3,2,0,1,0,0,4,0,0,5,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,whole,recall_at_source_threshold,5,5,0,1,0,4,0,0,4,1,0,0,5,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,whole,review_rate_at_source_threshold,5,5,0,3,0,2,0,0,1,4,1,0,4,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,5,5,0,3,0,2,0,0,1,4,1,0,4,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,whole,positive_image_Dice,5,5,0,3,2,0,0,1,0,4,1,1,3,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,whole,positive_image_IoU,5,5,0,3,2,0,0,1,0,4,1,1,3,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,whole,normal_structure_pixel_FPR,5,5,0,3,2,0,1,0,0,4,1,1,3,0
+Matched fresh decoder reference versus no-reference,scdd_publication_v1,whole,pooled_native_pixel_AP,5,5,0,2,3,0,0,1,0,4,0,0,0,5
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,whole,AUROC,5,5,0,4,1,0,0,1,0,4,0,0,5,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,whole,average_precision,5,5,0,4,1,0,1,0,0,4,1,0,4,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,whole,recall_at_source_threshold,5,5,0,1,2,2,0,0,1,4,0,1,4,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,whole,review_rate_at_source_threshold,5,5,0,3,1,1,1,1,0,3,2,1,2,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,whole,false_positive_rate_at_source_threshold,5,5,0,3,1,1,1,1,0,3,2,1,2,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,whole,positive_image_Dice,5,5,0,4,1,0,2,1,0,2,3,1,1,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,whole,positive_image_IoU,5,5,0,4,1,0,2,1,0,2,3,1,1,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,whole,normal_structure_pixel_FPR,5,5,0,3,2,0,1,0,0,4,2,1,2,0
+"Full post-adaptation system versus original parent, including adverse cells",scdd_publication_v1,whole,pooled_native_pixel_AP,5,5,0,2,3,0,0,2,0,3,0,0,0,5
+Original image-only LoRA versus frozen/full/CNN systems,pvelad_restricted_confirmation_v2,whole,known_crack_recall,15,15,0,4,9,2,0,1,0,14,0,0,0,15
+Original image-only LoRA versus frozen/full/CNN systems,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,15,15,0,5,10,0,0,1,0,14,0,0,0,15
+Original image-only LoRA versus frozen/full/CNN systems,ucf_reported_real_confirmation_v1,whole,AUROC,15,15,0,15,0,0,13,0,0,2,12,0,3,0
+Original image-only LoRA versus frozen/full/CNN systems,ucf_reported_real_confirmation_v1,whole,average_precision,15,15,0,15,0,0,14,0,0,1,13,0,2,0
+Original image-only LoRA versus frozen/full/CNN systems,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,15,15,0,10,5,0,4,0,0,11,8,1,6,0
+Original image-only LoRA versus frozen/full/CNN systems,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,15,15,0,8,7,0,2,4,0,9,8,6,1,0
+Original image-only LoRA versus frozen/full/CNN systems,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,15,15,0,8,7,0,2,4,0,9,8,6,1,0
+Same-classifier frozen DINO versus HOG/statistics feature control,pvelad_restricted_confirmation_v2,whole,known_crack_recall,9,9,0,4,4,1,2,4,1,2,0,0,0,9
+Same-classifier frozen DINO versus HOG/statistics feature control,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,9,9,0,4,4,1,2,4,1,2,0,0,0,9
+Same-classifier frozen DINO versus HOG/statistics feature control,ucf_reported_real_confirmation_v1,whole,AUROC,9,9,0,9,0,0,9,0,0,0,9,0,0,0
+Same-classifier frozen DINO versus HOG/statistics feature control,ucf_reported_real_confirmation_v1,whole,average_precision,9,9,0,9,0,0,9,0,0,0,9,0,0,0
+Same-classifier frozen DINO versus HOG/statistics feature control,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,9,9,0,4,5,0,3,5,0,1,2,3,4,0
+Same-classifier frozen DINO versus HOG/statistics feature control,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,9,9,0,2,7,0,0,7,0,2,1,7,1,0
+Same-classifier frozen DINO versus HOG/statistics feature control,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,9,9,0,0,9,0,0,7,0,2,0,8,1,0
+Original image-only LoRA versus classical control; different tuning budgets,pvelad_restricted_confirmation_v2,whole,known_crack_recall,9,9,0,4,5,0,2,3,0,4,0,0,0,9
+Original image-only LoRA versus classical control; different tuning budgets,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,9,9,0,4,5,0,3,3,0,3,0,0,0,9
+Original image-only LoRA versus classical control; different tuning budgets,ucf_reported_real_confirmation_v1,whole,AUROC,9,9,0,9,0,0,9,0,0,0,9,0,0,0
+Original image-only LoRA versus classical control; different tuning budgets,ucf_reported_real_confirmation_v1,whole,average_precision,9,9,0,9,0,0,9,0,0,0,9,0,0,0
+Original image-only LoRA versus classical control; different tuning budgets,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,9,9,0,4,5,0,4,5,0,0,4,3,2,0
+Original image-only LoRA versus classical control; different tuning budgets,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,9,9,0,2,7,0,1,5,0,3,2,5,2,0
+Original image-only LoRA versus classical control; different tuning budgets,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,9,9,0,2,7,0,0,5,0,4,2,7,0,0
+Original neural adaptation versus frozen DINO/classical classifier,pvelad_restricted_confirmation_v2,whole,known_crack_recall,9,9,0,2,7,0,0,1,0,8,0,0,0,9
+Original neural adaptation versus frozen DINO/classical classifier,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,9,9,0,2,7,0,0,2,0,7,0,0,0,9
+Original neural adaptation versus frozen DINO/classical classifier,ucf_reported_real_confirmation_v1,whole,AUROC,9,9,0,9,0,0,9,0,0,0,7,0,2,0
+Original neural adaptation versus frozen DINO/classical classifier,ucf_reported_real_confirmation_v1,whole,average_precision,9,9,0,9,0,0,8,0,0,1,9,0,0,0
+Original neural adaptation versus frozen DINO/classical classifier,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,9,9,0,7,2,0,4,1,0,4,4,1,4,0
+Original neural adaptation versus frozen DINO/classical classifier,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,9,9,0,5,4,0,4,4,0,1,5,4,0,0
+Original neural adaptation versus frozen DINO/classical classifier,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,9,9,0,5,4,0,4,4,0,1,5,4,0,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,pvelad_restricted_confirmation_v2,whole,known_crack_recall,27,27,0,20,7,0,18,0,0,9,0,0,0,27
+Frozen representation complete-system comparison; pretraining/geometry confounded,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,27,27,0,20,7,0,18,0,0,9,0,0,0,27
+Frozen representation complete-system comparison; pretraining/geometry confounded,ucf_reported_real_confirmation_v1,whole,AUROC,27,27,0,26,1,0,25,1,0,1,20,0,7,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,ucf_reported_real_confirmation_v1,whole,average_precision,27,27,0,26,1,0,25,1,0,1,22,0,5,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,27,27,0,6,20,1,0,17,1,9,3,8,16,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,27,27,0,3,24,0,1,17,0,9,0,21,6,0
+Frozen representation complete-system comparison; pretraining/geometry confounded,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,27,27,0,1,26,0,1,17,0,9,0,21,6,0
+Processing-scale control; no recovered physical-detail claim,pvelad_restricted_confirmation_v2,whole,known_crack_recall,18,18,0,13,4,1,9,2,1,6,0,0,0,18
+Processing-scale control; no recovered physical-detail claim,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,18,18,0,15,3,0,11,1,0,6,0,0,0,18
+Processing-scale control; no recovered physical-detail claim,ucf_reported_real_confirmation_v1,whole,AUROC,18,18,0,2,16,0,2,13,0,3,0,2,16,0
+Processing-scale control; no recovered physical-detail claim,ucf_reported_real_confirmation_v1,whole,average_precision,18,18,0,1,17,0,1,13,0,4,0,8,10,0
+Processing-scale control; no recovered physical-detail claim,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,18,18,0,13,4,1,12,3,1,2,10,2,6,0
+Processing-scale control; no recovered physical-detail claim,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,18,18,0,15,3,0,13,3,0,2,12,2,4,0
+Processing-scale control; no recovered physical-detail claim,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,18,18,0,15,3,0,13,3,0,2,12,2,4,0
+CLS versus patch-mean/concatenation at the same processing size,pvelad_restricted_confirmation_v2,whole,known_crack_recall,18,18,0,11,6,1,10,1,1,6,0,0,0,18
+CLS versus patch-mean/concatenation at the same processing size,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,18,18,0,9,7,2,8,2,2,6,0,0,0,18
+CLS versus patch-mean/concatenation at the same processing size,ucf_reported_real_confirmation_v1,whole,AUROC,18,18,0,6,12,0,6,11,0,1,0,8,10,0
+CLS versus patch-mean/concatenation at the same processing size,ucf_reported_real_confirmation_v1,whole,average_precision,18,18,0,4,14,0,4,14,0,0,0,11,7,0
+CLS versus patch-mean/concatenation at the same processing size,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,18,18,0,11,6,1,11,1,1,5,5,2,11,0
+CLS versus patch-mean/concatenation at the same processing size,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,18,18,0,14,4,0,11,2,0,5,12,0,6,0
+CLS versus patch-mean/concatenation at the same processing size,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,18,18,0,14,4,0,11,2,0,5,13,0,5,0
+Frozen larger-encoder complete-system control,pvelad_restricted_confirmation_v2,whole,known_crack_recall,9,9,0,9,0,0,6,0,0,3,0,0,0,9
+Frozen larger-encoder complete-system control,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,9,9,0,9,0,0,6,0,0,3,0,0,0,9
+Frozen larger-encoder complete-system control,ucf_reported_real_confirmation_v1,whole,AUROC,9,9,0,9,0,0,9,0,0,0,6,0,3,0
+Frozen larger-encoder complete-system control,ucf_reported_real_confirmation_v1,whole,average_precision,9,9,0,9,0,0,9,0,0,0,8,0,1,0
+Frozen larger-encoder complete-system control,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,9,9,0,3,6,0,0,6,0,3,2,3,4,0
+Frozen larger-encoder complete-system control,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,9,9,0,2,7,0,0,6,0,3,1,6,2,0
+Frozen larger-encoder complete-system control,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,9,9,0,2,7,0,0,6,0,3,1,6,2,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,pvelad_restricted_confirmation_v2,whole,known_crack_recall,9,9,0,8,0,1,5,0,1,3,0,0,0,9
+Model-scale control; pretraining and parameter count are not architecture-only causes,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,9,9,0,9,0,0,6,0,0,3,0,0,0,9
+Model-scale control; pretraining and parameter count are not architecture-only causes,ucf_reported_real_confirmation_v1,whole,AUROC,9,9,0,1,8,0,0,6,0,3,0,1,8,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,ucf_reported_real_confirmation_v1,whole,average_precision,9,9,0,2,7,0,1,6,0,2,1,1,7,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,9,9,0,7,1,1,5,1,1,2,4,0,5,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,9,9,0,8,1,0,6,1,0,2,7,1,1,0
+Model-scale control; pretraining and parameter count are not architecture-only causes,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,9,9,0,8,1,0,6,1,0,2,7,0,2,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,pvelad_restricted_confirmation_v2,whole,known_crack_recall,6,6,0,6,0,0,5,0,0,1,0,0,0,6
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,6,6,0,6,0,0,4,0,0,2,0,0,0,6
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,ucf_reported_real_confirmation_v1,whole,AUROC,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,ucf_reported_real_confirmation_v1,whole,average_precision,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,6,6,0,4,1,1,3,1,1,1,2,0,4,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,6,6,0,1,5,0,0,4,0,2,1,4,1,0
+Same-classifier ImageNet ResNet versus DINO frozen-feature control,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,6,6,0,1,5,0,0,4,0,2,1,5,0,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,pvelad_restricted_confirmation_v2,whole,known_crack_recall,12,12,0,2,10,0,0,5,0,7,0,0,0,12
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,12,12,0,2,10,0,0,5,0,7,0,0,0,12
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,pvelad_restricted_confirmation_v2,whole,box_point_hit_rate,12,12,0,6,6,0,5,0,0,7,0,0,0,12
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,ucf_reported_real_confirmation_v1,whole,AUROC,12,12,0,10,2,0,7,1,0,4,7,0,5,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,ucf_reported_real_confirmation_v1,whole,average_precision,12,12,0,10,2,0,9,0,0,3,8,0,4,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,12,12,0,5,7,0,0,3,0,9,1,6,5,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,12,12,0,2,10,0,0,5,0,7,1,9,2,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,12,12,0,1,11,0,0,5,0,7,1,9,2,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,ucf_reported_real_confirmation_v1,whole,positive_image_Dice,12,12,0,5,7,0,2,2,0,8,4,5,3,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,ucf_reported_real_confirmation_v1,whole,positive_image_IoU,12,12,0,5,7,0,2,3,0,7,4,5,3,0
+Original dense adaptation and same-mask CNN/frozen/full/reference controls,ucf_reported_real_confirmation_v1,whole,pooled_native_pixel_AP,12,12,0,10,2,0,5,0,0,7,0,0,0,12
+Normal-reference versus frozen dense; matching-specific cause not isolated,pvelad_restricted_confirmation_v2,whole,known_crack_recall,3,3,0,1,2,0,1,0,0,2,0,0,0,3
+Normal-reference versus frozen dense; matching-specific cause not isolated,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,3,3,0,1,2,0,1,0,0,2,0,0,0,3
+Normal-reference versus frozen dense; matching-specific cause not isolated,pvelad_restricted_confirmation_v2,whole,box_point_hit_rate,3,3,0,1,2,0,1,0,0,2,0,0,0,3
+Normal-reference versus frozen dense; matching-specific cause not isolated,ucf_reported_real_confirmation_v1,whole,AUROC,3,3,0,2,1,0,0,1,0,2,0,1,2,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,ucf_reported_real_confirmation_v1,whole,average_precision,3,3,0,2,1,0,0,1,0,2,2,1,0,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,3,3,0,1,2,0,0,0,0,3,0,2,1,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,3,3,0,2,1,0,1,0,0,2,2,1,0,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,3,3,0,2,1,0,1,0,0,2,2,1,0,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,ucf_reported_real_confirmation_v1,whole,positive_image_Dice,3,3,0,2,1,0,0,1,0,2,2,1,0,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,ucf_reported_real_confirmation_v1,whole,positive_image_IoU,3,3,0,2,1,0,0,1,0,2,2,1,0,0
+Normal-reference versus frozen dense; matching-specific cause not isolated,ucf_reported_real_confirmation_v1,whole,pooled_native_pixel_AP,3,3,0,3,0,0,1,0,0,2,0,0,0,3
+Predeclared geometry or top5%-versus-mean evidence control,pvelad_restricted_confirmation_v2,whole,known_crack_recall,6,6,0,4,2,0,1,1,0,4,0,0,0,6
+Predeclared geometry or top5%-versus-mean evidence control,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,6,6,0,4,2,0,3,1,0,2,0,0,0,6
+Predeclared geometry or top5%-versus-mean evidence control,pvelad_restricted_confirmation_v2,whole,box_point_hit_rate,6,6,0,4,2,0,1,1,0,4,0,0,0,6
+Predeclared geometry or top5%-versus-mean evidence control,scdd_publication_v1,whole,AUROC,6,6,0,3,3,0,1,1,0,4,2,1,3,0
+Predeclared geometry or top5%-versus-mean evidence control,scdd_publication_v1,whole,average_precision,6,6,0,3,3,0,0,0,0,6,1,1,4,0
+Predeclared geometry or top5%-versus-mean evidence control,scdd_publication_v1,whole,recall_at_source_threshold,6,6,0,5,1,0,0,0,0,6,1,1,4,0
+Predeclared geometry or top5%-versus-mean evidence control,scdd_publication_v1,whole,review_rate_at_source_threshold,6,6,0,5,1,0,1,1,0,4,3,1,2,0
+Predeclared geometry or top5%-versus-mean evidence control,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,6,6,0,5,1,0,0,0,0,6,4,1,1,0
+Predeclared geometry or top5%-versus-mean evidence control,scdd_publication_v1,whole,positive_image_Dice,6,6,0,3,3,0,0,0,0,6,2,2,2,0
+Predeclared geometry or top5%-versus-mean evidence control,scdd_publication_v1,whole,positive_image_IoU,6,6,0,3,3,0,0,0,0,6,1,2,3,0
+Predeclared geometry or top5%-versus-mean evidence control,scdd_publication_v1,whole,normal_structure_pixel_FPR,6,6,0,1,5,0,0,1,0,5,1,4,1,0
+Predeclared geometry or top5%-versus-mean evidence control,scdd_publication_v1,whole,pooled_native_pixel_AP,6,6,0,4,2,0,1,1,0,4,0,0,0,6
+Predeclared geometry or top5%-versus-mean evidence control,ucf_reported_real_confirmation_v1,whole,AUROC,6,6,0,4,2,0,0,0,0,6,2,0,4,0
+Predeclared geometry or top5%-versus-mean evidence control,ucf_reported_real_confirmation_v1,whole,average_precision,6,6,0,5,1,0,0,0,0,6,3,0,3,0
+Predeclared geometry or top5%-versus-mean evidence control,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,6,6,0,4,2,0,1,1,0,4,2,2,2,0
+Predeclared geometry or top5%-versus-mean evidence control,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,6,6,0,4,2,0,2,1,0,3,4,2,0,0
+Predeclared geometry or top5%-versus-mean evidence control,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,6,6,0,4,2,0,2,0,0,4,4,2,0,0
+Predeclared geometry or top5%-versus-mean evidence control,ucf_reported_real_confirmation_v1,whole,positive_image_Dice,6,6,0,2,4,0,0,2,0,4,1,3,2,0
+Predeclared geometry or top5%-versus-mean evidence control,ucf_reported_real_confirmation_v1,whole,positive_image_IoU,6,6,0,2,4,0,0,2,0,4,1,3,2,0
+Predeclared geometry or top5%-versus-mean evidence control,ucf_reported_real_confirmation_v1,whole,pooled_native_pixel_AP,6,6,0,6,0,0,1,0,0,5,0,0,0,6
+"Local-patch objective/decoder control, same annotation identities when verified",pvelad_restricted_confirmation_v2,whole,known_crack_recall,3,3,0,2,0,1,0,0,1,2,0,0,0,3
+"Local-patch objective/decoder control, same annotation identities when verified",pvelad_restricted_confirmation_v2,whole,author_normal_FPR,3,3,0,3,0,0,0,0,0,3,0,0,0,3
+"Local-patch objective/decoder control, same annotation identities when verified",pvelad_restricted_confirmation_v2,whole,box_point_hit_rate,3,3,0,1,2,0,0,0,0,3,0,0,0,3
+"Local-patch objective/decoder control, same annotation identities when verified",ucf_reported_real_confirmation_v1,whole,AUROC,3,3,0,0,3,0,0,0,0,3,0,0,3,0
+"Local-patch objective/decoder control, same annotation identities when verified",ucf_reported_real_confirmation_v1,whole,average_precision,3,3,0,1,2,0,0,0,0,3,0,0,3,0
+"Local-patch objective/decoder control, same annotation identities when verified",ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,3,3,0,2,1,0,0,0,0,3,0,1,2,0
+"Local-patch objective/decoder control, same annotation identities when verified",ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,3,3,0,2,1,0,0,0,0,3,1,0,2,0
+"Local-patch objective/decoder control, same annotation identities when verified",ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,3,3,0,2,1,0,0,0,0,3,1,0,2,0
+"Local-patch objective/decoder control, same annotation identities when verified",ucf_reported_real_confirmation_v1,whole,positive_image_Dice,3,3,0,2,1,0,2,1,0,0,2,1,0,0
+"Local-patch objective/decoder control, same annotation identities when verified",ucf_reported_real_confirmation_v1,whole,positive_image_IoU,3,3,0,2,1,0,2,1,0,0,2,1,0,0
+"Local-patch objective/decoder control, same annotation identities when verified",ucf_reported_real_confirmation_v1,whole,pooled_native_pixel_AP,3,3,0,3,0,0,2,0,0,1,0,0,0,3
+Adapted multidepth decoder versus local frozen-patch system,pvelad_restricted_confirmation_v2,whole,known_crack_recall,3,3,0,3,0,0,1,0,0,2,0,0,0,3
+Adapted multidepth decoder versus local frozen-patch system,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,3,3,0,3,0,0,1,0,0,2,0,0,0,3
+Adapted multidepth decoder versus local frozen-patch system,pvelad_restricted_confirmation_v2,whole,box_point_hit_rate,3,3,0,1,2,0,1,0,0,2,0,0,0,3
+Adapted multidepth decoder versus local frozen-patch system,ucf_reported_real_confirmation_v1,whole,AUROC,3,3,0,0,3,0,0,2,0,1,0,2,1,0
+Adapted multidepth decoder versus local frozen-patch system,ucf_reported_real_confirmation_v1,whole,average_precision,3,3,0,0,3,0,0,3,0,0,0,3,0,0
+Adapted multidepth decoder versus local frozen-patch system,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,3,3,0,2,0,1,1,0,0,2,1,0,2,0
+Adapted multidepth decoder versus local frozen-patch system,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,3,3,0,3,0,0,2,0,0,1,3,0,0,0
+Adapted multidepth decoder versus local frozen-patch system,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,3,3,0,3,0,0,2,0,0,1,3,0,0,0
+Adapted multidepth decoder versus local frozen-patch system,ucf_reported_real_confirmation_v1,whole,positive_image_Dice,3,3,0,2,1,0,1,1,0,1,2,1,0,0
+Adapted multidepth decoder versus local frozen-patch system,ucf_reported_real_confirmation_v1,whole,positive_image_IoU,3,3,0,2,1,0,2,1,0,0,2,1,0,0
+Adapted multidepth decoder versus local frozen-patch system,ucf_reported_real_confirmation_v1,whole,pooled_native_pixel_AP,3,3,0,2,1,0,2,0,0,1,0,0,0,3
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,pvelad_restricted_confirmation_v2,whole,known_crack_recall,6,6,0,5,0,1,2,0,1,3,0,0,0,6
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,6,6,0,6,0,0,3,0,0,3,0,0,0,6
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,pvelad_restricted_confirmation_v2,whole,box_point_hit_rate,6,6,0,0,6,0,0,6,0,0,0,0,0,6
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,ucf_reported_real_confirmation_v1,whole,AUROC,6,6,0,0,6,0,0,6,0,0,0,6,0,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,ucf_reported_real_confirmation_v1,whole,average_precision,6,6,0,0,6,0,0,6,0,0,0,6,0,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,ucf_reported_real_confirmation_v1,whole,positive_image_Dice,6,6,0,4,2,0,2,2,0,2,2,2,2,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,ucf_reported_real_confirmation_v1,whole,positive_image_IoU,6,6,0,4,2,0,2,2,0,2,2,2,2,0
+Fixed source-calibrated normal distance versus supervised dense evidence; cutoff conventions differ,ucf_reported_real_confirmation_v1,whole,pooled_native_pixel_AP,6,6,0,0,6,0,0,6,0,0,0,0,0,6
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,pvelad_restricted_confirmation_v2,whole,known_crack_recall,3,3,0,1,2,0,1,1,0,1,0,0,0,3
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,3,3,0,1,2,0,1,1,0,1,0,0,0,3
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,pvelad_restricted_confirmation_v2,whole,box_point_hit_rate,3,3,0,0,3,0,0,0,0,3,0,0,0,3
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,ucf_reported_real_confirmation_v1,whole,AUROC,3,3,0,0,3,0,0,1,0,2,0,0,3,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,ucf_reported_real_confirmation_v1,whole,average_precision,3,3,0,1,2,0,0,0,0,3,0,0,3,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,3,3,0,1,2,0,1,0,0,2,1,1,1,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,3,3,0,1,2,0,1,1,0,1,1,1,1,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,3,3,0,2,1,0,1,1,0,1,1,1,1,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,ucf_reported_real_confirmation_v1,whole,positive_image_Dice,3,3,0,2,1,0,1,0,0,2,2,1,0,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,ucf_reported_real_confirmation_v1,whole,positive_image_IoU,3,3,0,2,1,0,1,0,0,2,1,1,1,0
+Fresh decoder after adapted-encoder freezing; extra optimization is part of the system,ucf_reported_real_confirmation_v1,whole,pooled_native_pixel_AP,3,3,0,1,2,0,0,1,0,2,0,0,0,3
+Matched fresh decoder reference versus no-reference,pvelad_restricted_confirmation_v2,whole,known_crack_recall,3,3,0,1,2,0,0,0,0,3,0,0,0,3
+Matched fresh decoder reference versus no-reference,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,3,3,0,1,2,0,0,0,0,3,0,0,0,3
+Matched fresh decoder reference versus no-reference,pvelad_restricted_confirmation_v2,whole,box_point_hit_rate,3,3,0,2,1,0,0,0,0,3,0,0,0,3
+Matched fresh decoder reference versus no-reference,ucf_reported_real_confirmation_v1,whole,AUROC,3,3,0,2,1,0,1,1,0,1,0,0,3,0
+Matched fresh decoder reference versus no-reference,ucf_reported_real_confirmation_v1,whole,average_precision,3,3,0,3,0,0,1,0,0,2,1,0,2,0
+Matched fresh decoder reference versus no-reference,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,3,3,0,0,2,1,0,1,1,1,0,0,3,0
+Matched fresh decoder reference versus no-reference,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,3,3,0,1,2,0,1,0,0,2,1,2,0,0
+Matched fresh decoder reference versus no-reference,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,3,3,0,1,2,0,1,0,0,2,1,2,0,0
+Matched fresh decoder reference versus no-reference,ucf_reported_real_confirmation_v1,whole,positive_image_Dice,3,3,0,3,0,0,0,0,0,3,2,0,1,0
+Matched fresh decoder reference versus no-reference,ucf_reported_real_confirmation_v1,whole,positive_image_IoU,3,3,0,3,0,0,0,0,0,3,2,0,1,0
+Matched fresh decoder reference versus no-reference,ucf_reported_real_confirmation_v1,whole,pooled_native_pixel_AP,3,3,0,1,2,0,0,2,0,1,0,0,0,3
+"Full post-adaptation system versus original parent, including adverse cells",pvelad_restricted_confirmation_v2,whole,known_crack_recall,3,3,0,1,2,0,0,0,0,3,0,0,0,3
+"Full post-adaptation system versus original parent, including adverse cells",pvelad_restricted_confirmation_v2,whole,author_normal_FPR,3,3,0,1,2,0,0,0,0,3,0,0,0,3
+"Full post-adaptation system versus original parent, including adverse cells",pvelad_restricted_confirmation_v2,whole,box_point_hit_rate,3,3,0,1,2,0,0,0,0,3,0,0,0,3
+"Full post-adaptation system versus original parent, including adverse cells",ucf_reported_real_confirmation_v1,whole,AUROC,3,3,0,0,3,0,0,1,0,2,0,0,3,0
+"Full post-adaptation system versus original parent, including adverse cells",ucf_reported_real_confirmation_v1,whole,average_precision,3,3,0,1,2,0,0,0,0,3,0,0,3,0
+"Full post-adaptation system versus original parent, including adverse cells",ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,3,3,0,1,2,0,1,1,0,1,1,1,1,0
+"Full post-adaptation system versus original parent, including adverse cells",ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,3,3,0,2,1,0,1,1,0,1,1,1,1,0
+"Full post-adaptation system versus original parent, including adverse cells",ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,3,3,0,2,1,0,1,1,0,1,1,1,1,0
+"Full post-adaptation system versus original parent, including adverse cells",ucf_reported_real_confirmation_v1,whole,positive_image_Dice,3,3,0,2,1,0,0,0,0,3,2,1,0,0
+"Full post-adaptation system versus original parent, including adverse cells",ucf_reported_real_confirmation_v1,whole,positive_image_IoU,3,3,0,2,1,0,1,0,0,2,1,1,1,0
+"Full post-adaptation system versus original parent, including adverse cells",ucf_reported_real_confirmation_v1,whole,pooled_native_pixel_AP,3,3,0,0,3,0,0,2,0,1,0,0,0,3
+Complete supervised local published-architecture port versus declared dense comparator,pvelad_restricted_confirmation_v2,whole,known_crack_recall,18,18,0,2,12,4,1,5,4,8,0,0,0,18
+Complete supervised local published-architecture port versus declared dense comparator,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,18,18,0,1,14,3,0,6,3,9,0,0,0,18
+Complete supervised local published-architecture port versus declared dense comparator,pvelad_restricted_confirmation_v2,whole,box_point_hit_rate,18,18,0,5,13,0,2,7,0,9,0,0,0,18
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,whole,AUROC,18,18,0,17,1,0,16,0,0,2,15,0,3,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,whole,average_precision,18,18,0,18,0,0,16,0,0,2,15,0,3,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,whole,recall_at_source_threshold,18,18,0,5,12,1,0,4,1,13,0,4,14,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,whole,review_rate_at_source_threshold,18,18,0,3,15,0,2,14,0,2,1,14,3,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,18,18,0,3,15,0,2,14,0,2,1,14,3,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,whole,positive_image_Dice,18,18,0,11,7,0,10,3,0,5,10,5,3,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,whole,positive_image_IoU,18,18,0,11,7,0,10,4,0,4,10,6,2,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,whole,normal_structure_pixel_FPR,18,18,0,16,2,0,7,1,0,10,13,1,4,0
+Complete supervised local published-architecture port versus declared dense comparator,scdd_publication_v1,whole,pooled_native_pixel_AP,18,18,0,5,13,0,2,10,0,6,0,0,0,18
+Complete supervised local published-architecture port versus declared dense comparator,ucf_reported_real_confirmation_v1,whole,AUROC,18,18,0,17,1,0,14,0,0,4,14,0,4,0
+Complete supervised local published-architecture port versus declared dense comparator,ucf_reported_real_confirmation_v1,whole,average_precision,18,18,0,17,1,0,14,0,0,4,14,0,4,0
+Complete supervised local published-architecture port versus declared dense comparator,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,18,18,0,4,14,0,1,5,0,12,1,7,10,0
+Complete supervised local published-architecture port versus declared dense comparator,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,18,18,0,1,17,0,0,10,0,8,0,15,3,0
+Complete supervised local published-architecture port versus declared dense comparator,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,18,18,0,1,17,0,0,10,0,8,0,16,2,0
+Complete supervised local published-architecture port versus declared dense comparator,ucf_reported_real_confirmation_v1,whole,positive_image_Dice,18,18,0,18,0,0,16,0,0,2,18,0,0,0
+Complete supervised local published-architecture port versus declared dense comparator,ucf_reported_real_confirmation_v1,whole,positive_image_IoU,18,18,0,18,0,0,16,0,0,2,18,0,0,0
+Complete supervised local published-architecture port versus declared dense comparator,ucf_reported_real_confirmation_v1,whole,pooled_native_pixel_AP,18,18,0,12,6,0,8,1,0,9,0,0,0,18
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,pvelad_restricted_confirmation_v2,whole,known_crack_recall,4,4,0,2,2,0,0,2,0,2,0,0,0,4
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,4,4,0,2,2,0,0,0,0,4,0,0,0,4
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,pvelad_restricted_confirmation_v2,whole,box_point_hit_rate,4,4,0,4,0,0,0,0,0,4,0,0,0,4
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,whole,AUROC,4,4,0,4,0,0,3,0,0,1,2,0,2,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,whole,average_precision,4,4,0,4,0,0,0,0,0,4,0,0,4,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,whole,recall_at_source_threshold,4,4,0,2,2,0,0,1,0,3,0,0,4,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,whole,review_rate_at_source_threshold,4,4,0,2,2,0,0,2,0,2,1,2,1,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,4,4,0,2,2,0,0,2,0,2,2,2,0,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,whole,positive_image_Dice,4,4,0,2,2,0,0,2,0,2,2,2,0,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,whole,positive_image_IoU,4,4,0,2,2,0,0,2,0,2,2,2,0,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,whole,normal_structure_pixel_FPR,4,4,0,0,2,2,0,2,2,0,0,2,2,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,scdd_publication_v1,whole,pooled_native_pixel_AP,4,4,0,2,2,0,2,0,0,2,0,0,0,4
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,ucf_reported_real_confirmation_v1,whole,AUROC,4,4,0,0,4,0,0,0,0,4,0,0,4,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,ucf_reported_real_confirmation_v1,whole,average_precision,4,4,0,2,2,0,0,0,0,4,0,0,4,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,4,4,0,2,2,0,0,0,0,4,0,2,2,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,4,4,0,2,2,0,1,0,0,3,0,2,2,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,4,4,0,2,2,0,1,0,0,3,0,2,2,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,ucf_reported_real_confirmation_v1,whole,positive_image_Dice,4,4,0,0,4,0,0,0,0,4,0,4,0,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,ucf_reported_real_confirmation_v1,whole,positive_image_IoU,4,4,0,0,4,0,0,0,0,4,0,4,0,0
+Semi-supervised local port versus full supervised architecture; unlabelled exposure retained,ucf_reported_real_confirmation_v1,whole,pooled_native_pixel_AP,4,4,0,2,2,0,0,0,0,4,0,0,0,4
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,pvelad_restricted_confirmation_v2,whole,known_crack_recall,12,12,0,8,4,0,0,0,0,12,0,0,0,12
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,12,12,0,6,6,0,0,0,0,12,0,0,0,12
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,pvelad_restricted_confirmation_v2,whole,box_point_hit_rate,12,12,0,4,8,0,0,8,0,4,0,0,0,12
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,whole,AUROC,12,12,0,12,0,0,12,0,0,0,8,0,4,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,whole,average_precision,12,12,0,12,0,0,10,0,0,2,8,0,4,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,whole,recall_at_source_threshold,12,12,0,10,2,0,0,0,0,12,0,0,12,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,whole,review_rate_at_source_threshold,12,12,0,4,8,0,0,6,0,6,0,7,5,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,12,12,0,4,8,0,0,6,0,6,0,8,4,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,whole,positive_image_Dice,12,12,0,6,6,0,6,6,0,0,6,6,0,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,whole,positive_image_IoU,12,12,0,6,6,0,6,6,0,0,6,6,0,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,whole,normal_structure_pixel_FPR,12,12,0,12,0,0,12,0,0,0,12,0,0,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,scdd_publication_v1,whole,pooled_native_pixel_AP,12,12,0,0,12,0,0,5,0,7,0,0,0,12
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,ucf_reported_real_confirmation_v1,whole,AUROC,12,12,0,12,0,0,8,0,0,4,8,0,4,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,ucf_reported_real_confirmation_v1,whole,average_precision,12,12,0,12,0,0,8,0,0,4,8,0,4,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,12,12,0,2,10,0,0,0,0,12,0,0,12,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,12,12,0,1,11,0,0,2,0,10,0,6,6,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,12,12,0,0,12,0,0,2,0,10,0,6,6,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,ucf_reported_real_confirmation_v1,whole,positive_image_Dice,12,12,0,12,0,0,12,0,0,0,12,0,0,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,ucf_reported_real_confirmation_v1,whole,positive_image_IoU,12,12,0,12,0,0,12,0,0,0,12,0,0,0
+Dense comparator versus source-selected semi-supervised local port; primary and ensemble correlated,ucf_reported_real_confirmation_v1,whole,pooled_native_pixel_AP,12,12,0,8,4,0,8,2,0,2,0,0,0,12
+Correlated teacher-ensemble view versus released primary teacher1,pvelad_restricted_confirmation_v2,whole,known_crack_recall,2,2,0,0,1,1,0,0,1,1,0,0,0,2
+Correlated teacher-ensemble view versus released primary teacher1,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,2,2,0,1,1,0,0,0,0,2,0,0,0,2
+Correlated teacher-ensemble view versus released primary teacher1,pvelad_restricted_confirmation_v2,whole,box_point_hit_rate,2,2,0,2,0,0,0,0,0,2,0,0,0,2
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,whole,AUROC,2,2,0,2,0,0,0,0,0,2,0,0,2,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,whole,average_precision,2,2,0,2,0,0,0,0,0,2,0,0,2,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,whole,recall_at_source_threshold,2,2,0,0,2,0,0,0,0,2,0,0,2,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,whole,review_rate_at_source_threshold,2,2,0,0,2,0,0,0,0,2,0,0,2,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,2,2,0,0,2,0,0,0,0,2,0,0,2,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,whole,positive_image_Dice,2,2,0,1,1,0,0,1,0,1,0,1,1,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,whole,positive_image_IoU,2,2,0,0,2,0,0,1,0,1,0,1,1,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,whole,normal_structure_pixel_FPR,2,2,0,1,0,1,0,0,1,1,0,0,2,0
+Correlated teacher-ensemble view versus released primary teacher1,scdd_publication_v1,whole,pooled_native_pixel_AP,2,2,0,0,2,0,0,0,0,2,0,0,0,2
+Correlated teacher-ensemble view versus released primary teacher1,ucf_reported_real_confirmation_v1,whole,AUROC,2,2,0,1,1,0,0,0,0,2,0,0,2,0
+Correlated teacher-ensemble view versus released primary teacher1,ucf_reported_real_confirmation_v1,whole,average_precision,2,2,0,1,1,0,0,1,0,1,0,0,2,0
+Correlated teacher-ensemble view versus released primary teacher1,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,2,2,0,0,2,0,0,0,0,2,0,1,1,0
+Correlated teacher-ensemble view versus released primary teacher1,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,2,2,0,0,2,0,0,0,0,2,0,1,1,0
+Correlated teacher-ensemble view versus released primary teacher1,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,2,2,0,0,2,0,0,0,0,2,0,1,1,0
+Correlated teacher-ensemble view versus released primary teacher1,ucf_reported_real_confirmation_v1,whole,positive_image_Dice,2,2,0,1,1,0,0,1,0,1,1,1,0,0
+Correlated teacher-ensemble view versus released primary teacher1,ucf_reported_real_confirmation_v1,whole,positive_image_IoU,2,2,0,1,1,0,0,1,0,1,1,1,0,0
+Correlated teacher-ensemble view versus released primary teacher1,ucf_reported_real_confirmation_v1,whole,pooled_native_pixel_AP,2,2,0,1,1,0,0,1,0,1,0,0,0,2
+"Post-hoc source image-only CNN optimization sensitivity, frozen prospectively for confirmation",pvelad_restricted_confirmation_v2,whole,known_crack_recall,6,6,0,1,5,0,1,0,0,5,0,0,0,6
+"Post-hoc source image-only CNN optimization sensitivity, frozen prospectively for confirmation",pvelad_restricted_confirmation_v2,whole,author_normal_FPR,6,6,0,1,5,0,1,0,0,5,0,0,0,6
+"Post-hoc source image-only CNN optimization sensitivity, frozen prospectively for confirmation",scdd_publication_v1,whole,AUROC,6,6,0,6,0,0,6,0,0,0,4,0,2,0
+"Post-hoc source image-only CNN optimization sensitivity, frozen prospectively for confirmation",scdd_publication_v1,whole,average_precision,6,6,0,6,0,0,5,0,0,1,4,0,2,0
+"Post-hoc source image-only CNN optimization sensitivity, frozen prospectively for confirmation",scdd_publication_v1,whole,recall_at_source_threshold,6,6,0,5,0,1,2,0,0,4,2,0,4,0
+"Post-hoc source image-only CNN optimization sensitivity, frozen prospectively for confirmation",scdd_publication_v1,whole,review_rate_at_source_threshold,6,6,0,1,4,1,1,4,0,1,1,3,2,0
+"Post-hoc source image-only CNN optimization sensitivity, frozen prospectively for confirmation",scdd_publication_v1,whole,false_positive_rate_at_source_threshold,6,6,0,1,5,0,1,4,0,1,1,4,1,0
+"Post-hoc source image-only CNN optimization sensitivity, frozen prospectively for confirmation",ucf_reported_real_confirmation_v1,whole,AUROC,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+"Post-hoc source image-only CNN optimization sensitivity, frozen prospectively for confirmation",ucf_reported_real_confirmation_v1,whole,average_precision,6,6,0,6,0,0,6,0,0,0,6,0,0,0
+"Post-hoc source image-only CNN optimization sensitivity, frozen prospectively for confirmation",ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,6,6,0,6,0,0,3,0,0,3,6,0,0,0
+"Post-hoc source image-only CNN optimization sensitivity, frozen prospectively for confirmation",ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,6,6,0,5,1,0,3,0,0,3,4,1,1,0
+"Post-hoc source image-only CNN optimization sensitivity, frozen prospectively for confirmation",ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,6,6,0,3,3,0,2,1,0,3,3,2,1,0
+Predeclared literal numerical recipe sensitivity versus selected port; not xi-only causal comparison,pvelad_restricted_confirmation_v2,whole,known_crack_recall,2,2,0,0,2,0,0,0,0,2,0,0,0,2
+Predeclared literal numerical recipe sensitivity versus selected port; not xi-only causal comparison,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,2,2,0,0,2,0,0,0,0,2,0,0,0,2
+Predeclared literal numerical recipe sensitivity versus selected port; not xi-only causal comparison,pvelad_restricted_confirmation_v2,whole,box_point_hit_rate,2,2,0,0,2,0,0,2,0,0,0,0,0,2
+Predeclared literal numerical recipe sensitivity versus selected port; not xi-only causal comparison,scdd_publication_v1,whole,AUROC,2,2,0,0,2,0,0,0,0,2,0,0,2,0
+Predeclared literal numerical recipe sensitivity versus selected port; not xi-only causal comparison,scdd_publication_v1,whole,average_precision,2,2,0,0,2,0,0,2,0,0,0,0,2,0
+Predeclared literal numerical recipe sensitivity versus selected port; not xi-only causal comparison,scdd_publication_v1,whole,recall_at_source_threshold,2,2,0,1,0,1,0,0,0,2,0,0,2,0
+Predeclared literal numerical recipe sensitivity versus selected port; not xi-only causal comparison,scdd_publication_v1,whole,review_rate_at_source_threshold,2,2,0,2,0,0,2,0,0,0,0,0,2,0
+Predeclared literal numerical recipe sensitivity versus selected port; not xi-only causal comparison,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,2,2,0,2,0,0,0,0,0,2,0,0,2,0
+Predeclared literal numerical recipe sensitivity versus selected port; not xi-only causal comparison,scdd_publication_v1,whole,positive_image_Dice,2,2,0,0,2,0,0,0,0,2,0,2,0,0
+Predeclared literal numerical recipe sensitivity versus selected port; not xi-only causal comparison,scdd_publication_v1,whole,positive_image_IoU,2,2,0,0,2,0,0,1,0,1,0,2,0,0
+Predeclared literal numerical recipe sensitivity versus selected port; not xi-only causal comparison,scdd_publication_v1,whole,normal_structure_pixel_FPR,2,2,0,2,0,0,2,0,0,0,2,0,0,0
+Predeclared literal numerical recipe sensitivity versus selected port; not xi-only causal comparison,scdd_publication_v1,whole,pooled_native_pixel_AP,2,2,0,0,2,0,0,0,0,2,0,0,0,2
+Predeclared literal numerical recipe sensitivity versus selected port; not xi-only causal comparison,ucf_reported_real_confirmation_v1,whole,AUROC,2,2,0,0,2,0,0,1,0,1,0,0,2,0
+Predeclared literal numerical recipe sensitivity versus selected port; not xi-only causal comparison,ucf_reported_real_confirmation_v1,whole,average_precision,2,2,0,0,2,0,0,2,0,0,0,2,0,0
+Predeclared literal numerical recipe sensitivity versus selected port; not xi-only causal comparison,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,2,2,0,0,1,1,0,0,0,2,0,0,2,0
+Predeclared literal numerical recipe sensitivity versus selected port; not xi-only causal comparison,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,2,2,0,2,0,0,0,0,0,2,1,0,1,0
+Predeclared literal numerical recipe sensitivity versus selected port; not xi-only causal comparison,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,2,2,0,2,0,0,0,0,0,2,1,0,1,0
+Predeclared literal numerical recipe sensitivity versus selected port; not xi-only causal comparison,ucf_reported_real_confirmation_v1,whole,positive_image_Dice,2,2,0,0,2,0,0,2,0,0,0,2,0,0
+Predeclared literal numerical recipe sensitivity versus selected port; not xi-only causal comparison,ucf_reported_real_confirmation_v1,whole,positive_image_IoU,2,2,0,0,2,0,0,2,0,0,0,2,0,0
+Predeclared literal numerical recipe sensitivity versus selected port; not xi-only causal comparison,ucf_reported_real_confirmation_v1,whole,pooled_native_pixel_AP,2,2,0,0,2,0,0,2,0,0,0,0,0,2
+Correlated ensemble versus primary within literal numerical sensitivity,pvelad_restricted_confirmation_v2,whole,known_crack_recall,1,1,0,0,0,1,0,0,1,0,0,0,0,1
+Correlated ensemble versus primary within literal numerical sensitivity,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,1,1,0,1,0,0,0,0,0,1,0,0,0,1
+Correlated ensemble versus primary within literal numerical sensitivity,pvelad_restricted_confirmation_v2,whole,box_point_hit_rate,1,1,0,1,0,0,0,0,0,1,0,0,0,1
+Correlated ensemble versus primary within literal numerical sensitivity,scdd_publication_v1,whole,AUROC,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+Correlated ensemble versus primary within literal numerical sensitivity,scdd_publication_v1,whole,average_precision,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+Correlated ensemble versus primary within literal numerical sensitivity,scdd_publication_v1,whole,recall_at_source_threshold,1,1,0,1,0,0,0,0,0,1,0,0,1,0
+Correlated ensemble versus primary within literal numerical sensitivity,scdd_publication_v1,whole,review_rate_at_source_threshold,1,1,0,0,0,1,0,0,1,0,0,0,1,0
+Correlated ensemble versus primary within literal numerical sensitivity,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+Correlated ensemble versus primary within literal numerical sensitivity,scdd_publication_v1,whole,positive_image_Dice,1,1,0,1,0,0,0,0,0,1,0,0,1,0
+Correlated ensemble versus primary within literal numerical sensitivity,scdd_publication_v1,whole,positive_image_IoU,1,1,0,1,0,0,0,0,0,1,0,0,1,0
+Correlated ensemble versus primary within literal numerical sensitivity,scdd_publication_v1,whole,normal_structure_pixel_FPR,1,1,0,1,0,0,0,0,0,1,0,0,1,0
+Correlated ensemble versus primary within literal numerical sensitivity,scdd_publication_v1,whole,pooled_native_pixel_AP,1,1,0,0,1,0,0,1,0,0,0,0,0,1
+Correlated ensemble versus primary within literal numerical sensitivity,ucf_reported_real_confirmation_v1,whole,AUROC,1,1,0,1,0,0,0,0,0,1,0,0,1,0
+Correlated ensemble versus primary within literal numerical sensitivity,ucf_reported_real_confirmation_v1,whole,average_precision,1,1,0,1,0,0,1,0,0,0,0,0,1,0
+Correlated ensemble versus primary within literal numerical sensitivity,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,1,1,0,0,1,0,0,0,0,1,0,1,0,0
+Correlated ensemble versus primary within literal numerical sensitivity,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,1,1,0,0,1,0,0,0,0,1,0,1,0,0
+Correlated ensemble versus primary within literal numerical sensitivity,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,1,1,0,0,1,0,0,0,0,1,0,1,0,0
+Correlated ensemble versus primary within literal numerical sensitivity,ucf_reported_real_confirmation_v1,whole,positive_image_Dice,1,1,0,1,0,0,0,0,0,1,0,0,1,0
+Correlated ensemble versus primary within literal numerical sensitivity,ucf_reported_real_confirmation_v1,whole,positive_image_IoU,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+Correlated ensemble versus primary within literal numerical sensitivity,ucf_reported_real_confirmation_v1,whole,pooled_native_pixel_AP,1,1,0,1,0,0,0,0,0,1,0,0,0,1
+"All matched UCF20% DINO control systems, same86training+144validation masks",pvelad_restricted_confirmation_v2,whole,known_crack_recall,2,2,0,0,2,0,0,0,0,2,0,0,0,2
+"All matched UCF20% DINO control systems, same86training+144validation masks",pvelad_restricted_confirmation_v2,whole,author_normal_FPR,2,2,0,0,2,0,0,0,0,2,0,0,0,2
+"All matched UCF20% DINO control systems, same86training+144validation masks",pvelad_restricted_confirmation_v2,whole,box_point_hit_rate,2,2,0,2,0,0,1,0,0,1,0,0,0,2
+"All matched UCF20% DINO control systems, same86training+144validation masks",scdd_publication_v1,whole,AUROC,2,2,0,2,0,0,2,0,0,0,2,0,0,0
+"All matched UCF20% DINO control systems, same86training+144validation masks",scdd_publication_v1,whole,average_precision,2,2,0,2,0,0,2,0,0,0,2,0,0,0
+"All matched UCF20% DINO control systems, same86training+144validation masks",scdd_publication_v1,whole,recall_at_source_threshold,2,2,0,0,2,0,0,0,0,2,0,2,0,0
+"All matched UCF20% DINO control systems, same86training+144validation masks",scdd_publication_v1,whole,review_rate_at_source_threshold,2,2,0,0,2,0,0,0,0,2,0,2,0,0
+"All matched UCF20% DINO control systems, same86training+144validation masks",scdd_publication_v1,whole,false_positive_rate_at_source_threshold,2,2,0,0,2,0,0,0,0,2,0,2,0,0
+"All matched UCF20% DINO control systems, same86training+144validation masks",scdd_publication_v1,whole,positive_image_Dice,2,2,0,2,0,0,1,0,0,1,1,0,1,0
+"All matched UCF20% DINO control systems, same86training+144validation masks",scdd_publication_v1,whole,positive_image_IoU,2,2,0,2,0,0,1,0,0,1,1,0,1,0
+"All matched UCF20% DINO control systems, same86training+144validation masks",scdd_publication_v1,whole,normal_structure_pixel_FPR,2,2,0,0,2,0,0,1,0,1,0,2,0,0
+"All matched UCF20% DINO control systems, same86training+144validation masks",scdd_publication_v1,whole,pooled_native_pixel_AP,2,2,0,2,0,0,2,0,0,0,0,0,0,2
+"All matched UCF20% DINO control systems, same86training+144validation masks",ucf_reported_real_confirmation_v1,whole,AUROC,2,2,0,2,0,0,2,0,0,0,2,0,0,0
+"All matched UCF20% DINO control systems, same86training+144validation masks",ucf_reported_real_confirmation_v1,whole,average_precision,2,2,0,2,0,0,1,0,0,1,2,0,0,0
+"All matched UCF20% DINO control systems, same86training+144validation masks",ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,2,2,0,1,1,0,0,0,0,2,0,0,2,0
+"All matched UCF20% DINO control systems, same86training+144validation masks",ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,2,2,0,0,2,0,0,0,0,2,0,1,1,0
+"All matched UCF20% DINO control systems, same86training+144validation masks",ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,2,2,0,0,2,0,0,0,0,2,0,1,1,0
+"All matched UCF20% DINO control systems, same86training+144validation masks",ucf_reported_real_confirmation_v1,whole,positive_image_Dice,2,2,0,2,0,0,0,0,0,2,2,0,0,0
+"All matched UCF20% DINO control systems, same86training+144validation masks",ucf_reported_real_confirmation_v1,whole,positive_image_IoU,2,2,0,2,0,0,1,0,0,1,2,0,0,0
+"All matched UCF20% DINO control systems, same86training+144validation masks",ucf_reported_real_confirmation_v1,whole,pooled_native_pixel_AP,2,2,0,2,0,0,2,0,0,0,0,0,0,2
+Matched UCF20% frozen decoder versus source normal reference,pvelad_restricted_confirmation_v2,whole,known_crack_recall,1,1,0,1,0,0,0,0,0,1,0,0,0,1
+Matched UCF20% frozen decoder versus source normal reference,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,1,1,0,1,0,0,1,0,0,0,0,0,0,1
+Matched UCF20% frozen decoder versus source normal reference,pvelad_restricted_confirmation_v2,whole,box_point_hit_rate,1,1,0,0,1,0,0,0,0,1,0,0,0,1
+Matched UCF20% frozen decoder versus source normal reference,scdd_publication_v1,whole,AUROC,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+Matched UCF20% frozen decoder versus source normal reference,scdd_publication_v1,whole,average_precision,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+Matched UCF20% frozen decoder versus source normal reference,scdd_publication_v1,whole,recall_at_source_threshold,1,1,0,0,0,1,0,0,1,0,0,0,1,0
+Matched UCF20% frozen decoder versus source normal reference,scdd_publication_v1,whole,review_rate_at_source_threshold,1,1,0,1,0,0,0,0,0,1,0,0,1,0
+Matched UCF20% frozen decoder versus source normal reference,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,1,1,0,1,0,0,0,0,0,1,0,0,1,0
+Matched UCF20% frozen decoder versus source normal reference,scdd_publication_v1,whole,positive_image_Dice,1,1,0,0,1,0,0,1,0,0,0,1,0,0
+Matched UCF20% frozen decoder versus source normal reference,scdd_publication_v1,whole,positive_image_IoU,1,1,0,0,1,0,0,1,0,0,0,1,0,0
+Matched UCF20% frozen decoder versus source normal reference,scdd_publication_v1,whole,normal_structure_pixel_FPR,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+Matched UCF20% frozen decoder versus source normal reference,scdd_publication_v1,whole,pooled_native_pixel_AP,1,1,0,0,1,0,0,0,0,1,0,0,0,1
+Matched UCF20% frozen decoder versus source normal reference,ucf_reported_real_confirmation_v1,whole,AUROC,1,1,0,0,1,0,0,0,0,1,0,1,0,0
+Matched UCF20% frozen decoder versus source normal reference,ucf_reported_real_confirmation_v1,whole,average_precision,1,1,0,0,1,0,0,0,0,1,0,1,0,0
+Matched UCF20% frozen decoder versus source normal reference,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+Matched UCF20% frozen decoder versus source normal reference,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,1,1,0,1,0,0,0,0,0,1,1,0,0,0
+Matched UCF20% frozen decoder versus source normal reference,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,1,1,0,1,0,0,0,0,0,1,1,0,0,0
+Matched UCF20% frozen decoder versus source normal reference,ucf_reported_real_confirmation_v1,whole,positive_image_Dice,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+Matched UCF20% frozen decoder versus source normal reference,ucf_reported_real_confirmation_v1,whole,positive_image_IoU,1,1,0,0,1,0,0,0,0,1,0,0,1,0
+Matched UCF20% frozen decoder versus source normal reference,ucf_reported_real_confirmation_v1,whole,pooled_native_pixel_AP,1,1,0,1,0,0,0,0,0,1,0,0,0,1
+Original UCF-only reference future-transfer comparison,pvelad_restricted_confirmation_v2,whole,known_crack_recall,4,4,0,2,2,0,2,2,0,0,0,0,0,4
+Original UCF-only reference future-transfer comparison,pvelad_restricted_confirmation_v2,whole,author_normal_FPR,4,4,0,2,2,0,2,1,0,1,0,0,0,4
+Original UCF-only reference future-transfer comparison,pvelad_restricted_confirmation_v2,whole,box_point_hit_rate,4,4,0,1,3,0,0,1,0,3,0,0,0,4
+Original UCF-only reference future-transfer comparison,scdd_publication_v1,whole,AUROC,4,4,0,2,2,0,2,2,0,0,2,1,1,0
+Original UCF-only reference future-transfer comparison,scdd_publication_v1,whole,average_precision,4,4,0,2,2,0,2,2,0,0,2,1,1,0
+Original UCF-only reference future-transfer comparison,scdd_publication_v1,whole,recall_at_source_threshold,4,4,0,1,2,1,1,1,0,2,0,1,3,0
+Original UCF-only reference future-transfer comparison,scdd_publication_v1,whole,review_rate_at_source_threshold,4,4,0,2,2,0,0,1,0,3,0,2,2,0
+Original UCF-only reference future-transfer comparison,scdd_publication_v1,whole,false_positive_rate_at_source_threshold,4,4,0,2,2,0,0,1,0,3,0,1,3,0
+Original UCF-only reference future-transfer comparison,scdd_publication_v1,whole,positive_image_Dice,4,4,0,1,3,0,0,1,0,3,0,2,2,0
+Original UCF-only reference future-transfer comparison,scdd_publication_v1,whole,positive_image_IoU,4,4,0,1,3,0,0,1,0,3,0,2,2,0
+Original UCF-only reference future-transfer comparison,scdd_publication_v1,whole,normal_structure_pixel_FPR,4,4,0,2,2,0,1,2,0,1,1,2,1,0
+Original UCF-only reference future-transfer comparison,scdd_publication_v1,whole,pooled_native_pixel_AP,4,4,0,1,3,0,0,1,0,3,0,0,0,4
+Original UCF-only reference future-transfer comparison,ucf_reported_real_confirmation_v1,whole,AUROC,4,4,0,1,3,0,1,3,0,0,1,2,1,0
+Original UCF-only reference future-transfer comparison,ucf_reported_real_confirmation_v1,whole,average_precision,4,4,0,1,3,0,1,3,0,0,1,2,1,0
+Original UCF-only reference future-transfer comparison,ucf_reported_real_confirmation_v1,whole,recall_at_source_threshold,4,4,0,2,2,0,0,1,0,3,0,2,2,0
+Original UCF-only reference future-transfer comparison,ucf_reported_real_confirmation_v1,whole,review_rate_at_source_threshold,4,4,0,2,2,0,2,1,0,1,2,2,0,0
+Original UCF-only reference future-transfer comparison,ucf_reported_real_confirmation_v1,whole,false_positive_rate_at_source_threshold,4,4,0,2,2,0,2,1,0,1,2,2,0,0
+Original UCF-only reference future-transfer comparison,ucf_reported_real_confirmation_v1,whole,positive_image_Dice,4,4,0,1,3,0,0,2,0,2,0,3,1,0
+Original UCF-only reference future-transfer comparison,ucf_reported_real_confirmation_v1,whole,positive_image_IoU,4,4,0,1,3,0,0,2,0,2,0,3,1,0
+Original UCF-only reference future-transfer comparison,ucf_reported_real_confirmation_v1,whole,pooled_native_pixel_AP,4,4,0,2,2,0,0,2,0,2,0,0,0,4

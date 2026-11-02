@@ -1,0 +1,388 @@
+{
+  "rows": [
+    {
+      "folder": "main_page_rasters",
+      "page": "page-01.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "9832efe39b5832007faaa88b74ea717a4b39109328318cf22ad2cfaf015bb571"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "main_page_rasters",
+      "page": "page-02.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "c8fe16f64694cd0246baae4e19f29a7d34ebec79053c20d4e0de25cb8cf6f6c4"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "main_page_rasters",
+      "page": "page-03.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "d3ee81ec319967ff5920fb316acffb3358764498a16e79912f5afa27d8befafd"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "main_page_rasters",
+      "page": "page-04.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "38f7bb4c9d7d6dfcec283b96445c6362a57021f694dd698a4b6307d77aee447d"
+      ],
+      "exact_RGB_match_prior_review": true
+    },
+    {
+      "folder": "main_page_rasters",
+      "page": "page-05.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "052cc0bbecec6c868016480965c890279c3062eadfc25689615ded4a2ec281c4"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "main_page_rasters",
+      "page": "page-06.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "8c53a0be2b3ae375fd20cc3e0581a43633c6cb96cae1b4c4f46fbb670ac0a266"
+      ],
+      "exact_RGB_match_prior_review": true
+    },
+    {
+      "folder": "main_page_rasters",
+      "page": "page-07.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "76fd6609b0afb31bb69530ed68a9f9f69f405f641503e8c4f93e5e301a54582f"
+      ],
+      "exact_RGB_match_prior_review": true
+    },
+    {
+      "folder": "main_page_rasters",
+      "page": "page-08.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "9cde4a1d493662179a587c46f8ec4a68ac4007c94454e8f7f2c9125c602b24ab"
+      ],
+      "exact_RGB_match_prior_review": true
+    },
+    {
+      "folder": "main_page_rasters",
+      "page": "page-09.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "ae246acc663822c6b764d10e9156ba7b1cdf7164c6d0fd372ca701c42a103e38"
+      ],
+      "exact_RGB_match_prior_review": true
+    },
+    {
+      "folder": "main_page_rasters",
+      "page": "page-10.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "f39e0a5713f25518df9638e47fc024f44e0a49045ab46f5ec00b27c4c9974027"
+      ],
+      "exact_RGB_match_prior_review": true
+    },
+    {
+      "folder": "main_page_rasters",
+      "page": "page-11.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "f23eec4cdfb1a58a609b628cf73ad2a6f0bf0fa2411c3e84c55dfe4490226f48"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "main_page_rasters",
+      "page": "page-12.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "f4044c48ab90adb1358a8bd7690287f28d56c613894fa6f2ef089d4e0b42436f"
+      ],
+      "exact_RGB_match_prior_review": true
+    },
+    {
+      "folder": "supplement_page_rasters",
+      "page": "page-01.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "b3ce2efc0eb49139e50be6428519971e245d6642e40f6bdbd4f7b5f3ac73ae5f"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "supplement_page_rasters",
+      "page": "page-02.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "93c43d04960a35f36661738aa79c413dcad9a022f1487f646681280f40330a8e"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "supplement_page_rasters",
+      "page": "page-03.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "e2b9ee224a87a9280e37dd05d1d478d700d76b1d4a1356e53bf217d034ebfd47"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "supplement_page_rasters",
+      "page": "page-04.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "46e015d9886a3174c5c28f23d791a0bea54ff3baa719536037481a14367f9a09"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "supplement_page_rasters",
+      "page": "page-05.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "614b881a4a103654bffac5b98042645236d28add991c405de9d7fe9576b83268"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "supplement_page_rasters",
+      "page": "page-06.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "824388c64745b6337ac2d79ac8a15cf4ac124f5ccb774dd1d5165629ba566084"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "supplement_page_rasters",
+      "page": "page-07.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "f83f900dca67cbf782e2e3e231447923f3a74fe9860fb131492dc8b55c94ff3d"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "supplement_page_rasters",
+      "page": "page-08.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "cdb4c0a423a6c9a2198ac7c090891edecbc5430321407ab9a32b1e19d9ab2502"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "supplement_page_rasters",
+      "page": "page-09.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "f77a0efefe858e8a1ae1c3823536f8498a12d7ab9dcefe476cbac4d69df08e22"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "supplement_page_rasters",
+      "page": "page-10.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "b2c2bad40ee582f284d2cd45e64cbabc54e41a159a69da9969fa2ece5dcb905e"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "supplement_page_rasters",
+      "page": "page-11.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "8fc5043fb4fd80ee022a26173bd1bd7c082963e09ca7e417ad3e533082b77da8"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "supplement_page_rasters",
+      "page": "page-12.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "3fa7ddc96b100fe26250bcff2e2f540fc9b099b83e3c38c79f69bdbd7e108b87"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "supplement_page_rasters",
+      "page": "page-13.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "f22a200095fab71048b39d2876d679d1104b26480c8dd28236a9121164675e79"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "supplement_page_rasters",
+      "page": "page-14.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "47772f7e2b466599bfc03eb018b91005109d4179cdb4fa7cabf40a76f54d0760"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "supplement_page_rasters",
+      "page": "page-15.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "cf960962e3742a9a34da5633d5f4ee8154d04cce814b6ee78e888ebde4b1c04f"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "supplement_page_rasters",
+      "page": "page-16.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "1a05cfcdf94b0c21a5f1fc43fcf44866cf7fe981ddaaa549be4780161e946c62"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "supplement_page_rasters",
+      "page": "page-17.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "70ca2b79d44f634b77078a38da593dcff8b63817bb19bdba5cb914ff3695cd1b"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "supplement_page_rasters",
+      "page": "page-18.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "195b653279680c03b25b2e5d85d70f69e105a3cf0573a71b875626abf8a7ef38"
+      ],
+      "exact_RGB_match_prior_review": false
+    },
+    {
+      "folder": "supplement_page_rasters",
+      "page": "page-19.png",
+      "RGB_sha256": [
+        [
+          1224,
+          1584
+        ],
+        "5dc8f3879767950dd19662386f823b95acae52a9d9dea23b13f49969729287be"
+      ],
+      "exact_RGB_match_prior_review": false
+    }
+  ],
+  "bounds": [
+    {
+      "file": "main_article.pdf",
+      "pages": 12,
+      "all_text_within_page": true
+    },
+    {
+      "file": "supplementary_record.pdf",
+      "pages": 19,
+      "all_text_within_page": true
+    }
+  ]
+}

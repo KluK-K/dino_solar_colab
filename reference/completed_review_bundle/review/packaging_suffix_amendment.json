@@ -1,0 +1,14 @@
+{
+  "at": "2026-10-29T02:54:45.011267+00:00",
+  "original_builder_sha256": "3b1f4e8e5170ef87ee3a64ed954a14fd5faa1f65f52ec92873152268c115386b",
+  "prior_manifest": {
+    "path": "artifacts/publication_20261017/article_review_bundles_v1/revision54_2026-10-29T00-21-04.907577+00-00/MANIFEST.json",
+    "sha256": "8d11ab4bb39aa896b351c2875adcfaefccf9e718390a54f9c4552b065f48ed6e"
+  },
+  "actual_prior_advanced_dense_folder_files": 0,
+  "defect": "Path.suffix values include a leading dot; the original selector compared them to dotless strings.",
+  "repair": "Version2 explicitly accepts .pdf/.png/.svg/.csv and verifies all3PDF+3CSV files.",
+  "original_scientific_outputs_unchanged": true,
+  "prior_bundle_manifests_and_code_preserved": true,
+  "prior_private_article55_same_selector_omission": true
+}

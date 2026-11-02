@@ -1,0 +1,70 @@
+{
+  "at": "2026-10-29T05:17:23.472469+00:00",
+  "version": 3,
+  "read_audit_default": true,
+  "receipt_scope": "Byte/AST/coverage only; no model/scientific test/replay is executed by the bundle verifier.",
+  "exact_owner_input_files_verified": 26259,
+  "exact_saved_job_files_verified": 11142,
+  "result_prediction_pairs": 1683,
+  "fixed_maps": 3780,
+  "original_retirement_receipts": 630,
+  "input_and_output_inventories_included": false,
+  "four_author_files": {
+    "recipe": "code/frozen_20261027/workspace/elpv_research/references/verification_sources_manifest_v1.json",
+    "mandatory_PV_S3_oracle": "test_confidence_loss_matches_released_five_class_math",
+    "exact_files": [
+      {
+        "repository": "abj247/PV-S3",
+        "commit": "e062f81d602aea4cbae45c13ec85cfe79f95aa7e",
+        "url": "https://raw.githubusercontent.com/abj247/PV-S3/e062f81d602aea4cbae45c13ec85cfe79f95aa7e/main/Utils/losses.py",
+        "destination": "references/publication_20261017/PV-S3_upstream_code/main/Utils/losses.py",
+        "sha256": "9492a93dd570a01286689ae97094faf9c732959cd85bac3d10fbc7917a9b68bb",
+        "license_observation": "No explicit code license verified in pinned author tree; local numerical-oracle acquisition, no redistribution grant."
+      },
+      {
+        "repository": "yyliu01/PS-MT",
+        "commit": "058cdc3bd8fe5faa83dbc798cfb4c136b74207fd",
+        "url": "https://raw.githubusercontent.com/yyliu01/PS-MT/058cdc3bd8fe5faa83dbc798cfb4c136b74207fd/VocCode/Model/Deeplabv3_plus/encoder_decoder.py",
+        "destination": "references/publication_20261017/PS-MT_upstream_code/VocCode/Model/Deeplabv3_plus/encoder_decoder.py",
+        "sha256": "662a435cf49f9275235d88d2e4b12a8513a80b3fc9783d988a3d5e66664700ee",
+        "license_observation": "MIT; retain original copyright/license with copied architecture code."
+      },
+      {
+        "repository": "yyliu01/PS-MT",
+        "commit": "058cdc3bd8fe5faa83dbc798cfb4c136b74207fd",
+        "url": "https://raw.githubusercontent.com/yyliu01/PS-MT/058cdc3bd8fe5faa83dbc798cfb4c136b74207fd/VocCode/Model/Deeplabv3_plus/Backbones/resnet.py",
+        "destination": "references/publication_20261017/PS-MT_upstream_code/VocCode/Model/Deeplabv3_plus/Backbones/resnet.py",
+        "sha256": "c1844ce3a1090c79f229a2fc73e0fce1cb1e57350f2faec13f6a6e889e5f006b",
+        "license_observation": "MIT; retain original copyright/license with copied architecture code."
+      },
+      {
+        "repository": "yyliu01/PS-MT",
+        "commit": "058cdc3bd8fe5faa83dbc798cfb4c136b74207fd",
+        "url": "https://raw.githubusercontent.com/yyliu01/PS-MT/058cdc3bd8fe5faa83dbc798cfb4c136b74207fd/LICENSE.md",
+        "destination": "references/publication_20261017/PS-MT_upstream_code/LICENSE.md",
+        "sha256": "4b1838713c9d872e20fe699ed2e309fdd2e92cedceebba1e9f96c21775b879db",
+        "license_observation": "MIT; retain original copyright/license with copied architecture code."
+      }
+    ],
+    "unknown_licensed_PV_S3_source_included": false,
+    "missing_oracle_must_fail_not_skip": true
+  },
+  "required_authorized_worktree_inputs": [
+    "original observed registry and full preparation/source identities",
+    "all authorized raw datasets, metadata and masks/boxes",
+    "official pretrained initializers and exact fitted checkpoints/archive bases",
+    "normal-reference memories, original optimizer/RNG/history where required",
+    "all saved result/prediction pairs and fixed maps",
+    "both frozen population/native-failure policies and exact input/output identity closure"
+  ],
+  "original_host": "32GiB Apple M2 Max/MPS",
+  "literal_owner_interpreter": "/Users/lukuan/Desktop/ECE 4608/elpv_research/.venv/bin/python",
+  "original_absolute_path_guards_must_not_be_bypassed": true,
+  "same_host_saved_output_statistical_replay": "complete_exact_match_all1683_jobs_and6212_contrasts_original_analysis_bytes_preserved",
+  "independent_algorithm_cross_device_or_training_population_reproduction_complete": false,
+  "no_new_registry_scoring_training_thresholds_or_course_test_access": true,
+  "same_host_replay_verification": {
+    "path": "artifacts/publication_20261017/saved_statistical_replay_v1/original_analysis_4d30aed026c4/verification.json",
+    "sha256": "fa90848301401fe6fe758246d5aee1ad923b9e834e1a83ab3e8f826aae1da991"
+  }
+}

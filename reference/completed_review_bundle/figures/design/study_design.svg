@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="734.4pt" height="460.8pt" viewBox="0 0 734.4 460.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-28T18:47:19.138068</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 460.8 
+L 734.4 460.8 
+L 734.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 19.44 229.32 
+L 174.96 229.32 
+Q 178.92 229.32 178.92 225.36 
+L 178.92 71.28 
+Q 178.92 67.32 174.96 67.32 
+L 19.44 67.32 
+Q 15.48 67.32 15.48 71.28 
+L 15.48 225.36 
+Q 15.48 229.32 19.44 229.32 
+z
+" clip-path="url(#p38002b76a1)" style="fill: #edf5f8; stroke: #c7d8e2; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 203.04 229.32 
+L 358.56 229.32 
+Q 362.52 229.32 362.52 225.36 
+L 362.52 71.28 
+Q 362.52 67.32 358.56 67.32 
+L 203.04 67.32 
+Q 199.08 67.32 199.08 71.28 
+L 199.08 225.36 
+Q 199.08 229.32 203.04 229.32 
+z
+" clip-path="url(#p38002b76a1)" style="fill: #edf5f8; stroke: #c7d8e2; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 386.64 229.32 
+L 520.56 229.32 
+Q 524.52 229.32 524.52 225.36 
+L 524.52 71.28 
+Q 524.52 67.32 520.56 67.32 
+L 386.64 67.32 
+Q 382.68 67.32 382.68 71.28 
+L 382.68 225.36 
+Q 382.68 229.32 386.64 229.32 
+z
+" clip-path="url(#p38002b76a1)" style="fill: #f0f1f6; stroke: #c7d8e2; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 548.64 229.32 
+L 714.96 229.32 
+Q 718.92 229.32 718.92 225.36 
+L 718.92 71.28 
+Q 718.92 67.32 714.96 67.32 
+L 548.64 67.32 
+Q 544.68 67.32 544.68 71.28 
+L 544.68 225.36 
+Q 544.68 229.32 548.64 229.32 
+z
+" clip-path="url(#p38002b76a1)" style="fill: #f0f1f6; stroke: #c7d8e2; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 180.56083 148.32 
+Q 189.002529 148.32 196.214391 148.32 
+" clip-path="url(#p38002b76a1)" style="fill: none; stroke: #096b88; stroke-width: 1.1; stroke-linecap: round"/>
+    <path d="M 192.214391 146.32 
+L 196.214391 148.32 
+L 192.214391 150.32 
+z
+" clip-path="url(#p38002b76a1)" style="fill: #096b88; stroke: #096b88; stroke-width: 1.1; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 364.16083 148.32 
+Q 372.602529 148.32 379.814391 148.32 
+" clip-path="url(#p38002b76a1)" style="fill: none; stroke: #096b88; stroke-width: 1.1; stroke-linecap: round"/>
+    <path d="M 375.814391 146.32 
+L 379.814391 148.32 
+L 375.814391 150.32 
+z
+" clip-path="url(#p38002b76a1)" style="fill: #096b88; stroke: #096b88; stroke-width: 1.1; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 526.16083 148.32 
+Q 534.602529 148.32 541.814391 148.32 
+" clip-path="url(#p38002b76a1)" style="fill: none; stroke: #096b88; stroke-width: 1.1; stroke-linecap: round"/>
+    <path d="M 537.814391 146.32 
+L 541.814391 148.32 
+L 537.814391 150.32 
+z
+" clip-path="url(#p38002b76a1)" style="fill: #096b88; stroke: #096b88; stroke-width: 1.1; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 19.44 373.32 
+L 358.56 373.32 
+Q 362.52 373.32 362.52 369.36 
+L 362.52 260.64 
+Q 362.52 256.68 358.56 256.68 
+L 19.44 256.68 
+Q 15.48 256.68 15.48 260.64 
+L 15.48 369.36 
+Q 15.48 373.32 19.44 373.32 
+z
+" clip-path="url(#p38002b76a1)" style="fill: #fff7ed; stroke: #e4ccb1; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 386.64 373.32 
+L 714.96 373.32 
+Q 718.92 373.32 718.92 369.36 
+L 718.92 260.64 
+Q 718.92 256.68 714.96 256.68 
+L 386.64 256.68 
+Q 382.68 256.68 382.68 260.64 
+L 382.68 369.36 
+Q 382.68 373.32 386.64 373.32 
+z
+" clip-path="url(#p38002b76a1)" style="fill: #f0f1f6; stroke: #c7d8e2; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 631.44 230.958369 
+Q 631.44 242.997882 631.44 253.807557 
+" clip-path="url(#p38002b76a1)" style="fill: none; stroke: #096b88; stroke-width: 1.1; stroke-linecap: round"/>
+    <path d="M 633.44 249.807557 
+L 631.44 253.807557 
+L 629.44 249.807557 
+z
+" clip-path="url(#p38002b76a1)" style="fill: #096b88; stroke: #096b88; stroke-width: 1.1; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172b40" x="18" y="21.6" transform="rotate(-0 18 21.6)">Study design and information exposure</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52677b" x="18" y="43.92" transform="rotate(-0 18 43.92)">One source-reviewed freeze; complete systems, annotation budgets and failure strata retained</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 10.1px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172b40" x="27.36" y="89.034422" transform="rotate(-0 27.36 89.034422)">A  Development inputs</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(27.36 113.785313)">SCDD: 351 train + 120 val</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(27.36 127.285313)">UCF: 430 train + 144 val</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(27.36 140.785312)">Source masks inform dense fits</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(27.36 153.413437)">Validation selects checkpoints,</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(27.36 166.913437)">rates, temperature and</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(27.36 180.413438)">the image operating threshold</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 10.1px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172b40" x="210.96" y="89.034422" transform="rotate(-0 210.96 89.034422)">B  Complete recipes</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(210.96 113.431641)">Frozen DINOv3 / LoRA / full</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(210.96 126.413437)">Adapted CNNs and local ports</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(210.96 140.326172)">Classical, reference and</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(210.96 153.413437)">optimization controls</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(210.96 167.326172)">427 families; 1,061 views</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 10.1px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172b40" x="394.56" y="89.033633" transform="rotate(-0 394.56 89.033633)">C  Frozen once</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(394.56 112.70825)">Original weights and rules</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(394.56 125.90825)">1,683 prediction jobs</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(394.56 139.10825)">6,212 endpoint contrasts</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(394.56 152.30825)">Fixed populations and cases</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(394.56 165.50825)">No target-driven changes</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 10.1px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172b40" x="556.56" y="89.034422" transform="rotate(-0 556.56 89.034422)">D  Saved predictions</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(556.56 112.70825)">SCDD: 117 images; 1,061 jobs</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(556.56 125.90825)">UCF: 507 images; 311 jobs</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(556.56 139.10825)">PVEL: 12,326 images; 311 jobs</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(556.56 152.30825)">Same saved PVEL scores yield</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(556.56 165.50825)">primary 12,292 + sensitivities</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 10.1px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172b40" x="27.36" y="278.394422" transform="rotate(-0 27.36 278.394422)">Study-wide design exposure</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(27.36 302.06825)">Both UCF and SCDD development informed the study.</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(27.36 315.26825)">86 UCF training + 144 validation masks are inside 574 HPO images.</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(27.36 328.46825)">18 SCDD training masks at 5% require 120 validation masks too.</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(27.36 341.66825)">Sample-disjoint prediction does not erase research-selection exposure.</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 10.1px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172b40" x="394.56" y="278.394422" transform="rotate(-0 394.56 278.394422)">Complete analysis and narrower inference</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(394.56 302.06825)">Matching held-source SCDD strata: ARTS 43 / CFVS 27 / CSIR 47.</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(394.56 315.26825)">All declared contrasts and both frozen secondary policies.</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(394.56 328.46825)">Conditional, unadjusted family intervals; pooled pixel AP point-only.</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #172b40" transform="translate(394.56 341.66825)">PVEL boxes cannot support mask Dice or a capture-family CI.</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52677b" x="19.44" y="406.08" transform="rotate(-0 19.44 406.08)">Separate evidence: 97 source cost cases; ELPV: 24 outer fits / 480 inner-grid fits on 1,968 development images.</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52677b" x="19.44" y="427.68" transform="rotate(-0 19.44 427.68)">Views and deterministic reuse are not new training replications. Physical modules and pretraining membership remain unverified.</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52677b" x="19.44" y="449.28" transform="rotate(-0 19.44 449.28)">This diagram summarizes the frozen design. It contains no predictive results, model ranking or added scientific choice.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p38002b76a1">
+   <rect x="0" y="0" width="734.4" height="460.8"/>
+  </clipPath>
+ </defs>
+</svg>

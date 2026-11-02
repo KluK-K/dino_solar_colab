@@ -1,0 +1,2384 @@
+{
+  "points": [
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "auc",
+      "value": 0.7881373043917212
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "auc",
+      "value": 0.7679510372461832
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "auc",
+      "value": 0.7470786896318812
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "auc",
+      "value": 0.7840785539548791
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "auc",
+      "value": 0.8948174322732627
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "auc",
+      "value": 0.8872470285897848
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "auc",
+      "value": 0.8795001688618711
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "auc",
+      "value": 0.8976284316390324
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "auc",
+      "value": 0.7552919400975939
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "auc",
+      "value": 0.7224035031362538
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "auc",
+      "value": 0.7068389057750761
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "auc",
+      "value": 0.7135940472954608
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "auc",
+      "value": 0.893891973750631
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "auc",
+      "value": 0.8874330059005529
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "auc",
+      "value": 0.8873184734886862
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "auc",
+      "value": 0.8969149225332972
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "auc",
+      "value": 0.8414100622581189
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "auc",
+      "value": 0.8404652814174852
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "auc",
+      "value": 0.8098446470786895
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "auc",
+      "value": 0.861324408806741
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "auc",
+      "value": 0.9029446407538281
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "auc",
+      "value": 0.9036806600503828
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "auc",
+      "value": 0.9009118541033434
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "auc",
+      "value": 0.9121364501223159
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "average_precision",
+      "value": 0.7697600331090501
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "average_precision",
+      "value": 0.7369539345429572
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "average_precision",
+      "value": 0.7172489745892391
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "average_precision",
+      "value": 0.7659687009571524
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "average_precision",
+      "value": 0.8903928342193121
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "average_precision",
+      "value": 0.8741176905766932
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "average_precision",
+      "value": 0.8786771179849653
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "average_precision",
+      "value": 0.8932056907854644
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "average_precision",
+      "value": 0.7263350909404375
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "average_precision",
+      "value": 0.6824652551638666
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "average_precision",
+      "value": 0.6705957938815028
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "average_precision",
+      "value": 0.6852801406314031
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "average_precision",
+      "value": 0.888957214763911
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "average_precision",
+      "value": 0.8742107600772209
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "average_precision",
+      "value": 0.8877899426700204
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "average_precision",
+      "value": 0.8923481413793961
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "average_precision",
+      "value": 0.7984966653245229
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "average_precision",
+      "value": 0.8202125319645962
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "average_precision",
+      "value": 0.7956322279721739
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "average_precision",
+      "value": 0.843470286734546
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "average_precision",
+      "value": 0.8987635155583152
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "average_precision",
+      "value": 0.8959084002370503
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "average_precision",
+      "value": 0.8996282595660934
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "average_precision",
+      "value": 0.8996917564875012
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "macro_f1",
+      "value": 0.7267195599280651
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "macro_f1",
+      "value": 0.6949201049367995
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "macro_f1",
+      "value": 0.6978846846083808
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "macro_f1",
+      "value": 0.7216517151994322
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "macro_f1",
+      "value": 0.8210816649801675
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "macro_f1",
+      "value": 0.7945352583223959
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "macro_f1",
+      "value": 0.7996453201970444
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "macro_f1",
+      "value": 0.8183296620086735
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "macro_f1",
+      "value": 0.7087737192154863
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "macro_f1",
+      "value": 0.6875245728111297
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "macro_f1",
+      "value": 0.6500136798905609
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "macro_f1",
+      "value": 0.6761879475144746
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "macro_f1",
+      "value": 0.8146173042081154
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "macro_f1",
+      "value": 0.7945352583223959
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "macro_f1",
+      "value": 0.8183184683490962
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "macro_f1",
+      "value": 0.8115325728333298
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "macro_f1",
+      "value": 0.7625951714713346
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "macro_f1",
+      "value": 0.7352992178850437
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "macro_f1",
+      "value": 0.7375669375669376
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "macro_f1",
+      "value": 0.7653129868290611
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "macro_f1",
+      "value": 0.8307873538621908
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "macro_f1",
+      "value": 0.8236258108569479
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "macro_f1",
+      "value": 0.8389114489210163
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "macro_f1",
+      "value": 0.8446308839627805
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "balanced_accuracy",
+      "value": 0.7255594817432274
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "balanced_accuracy",
+      "value": 0.6923005393342012
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "balanced_accuracy",
+      "value": 0.6973150962512664
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "balanced_accuracy",
+      "value": 0.7188604240282686
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "balanced_accuracy",
+      "value": 0.8172724213360256
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "balanced_accuracy",
+      "value": 0.7924493211828156
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "balanced_accuracy",
+      "value": 0.793161094224924
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "balanced_accuracy",
+      "value": 0.8149293286219081
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "balanced_accuracy",
+      "value": 0.7071260306242638
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "balanced_accuracy",
+      "value": 0.6852334015250139
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "balanced_accuracy",
+      "value": 0.6505065856129686
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "balanced_accuracy",
+      "value": 0.675039073117695
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "balanced_accuracy",
+      "value": 0.810743732121824
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "balanced_accuracy",
+      "value": 0.7924493211828156
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "balanced_accuracy",
+      "value": 0.8122087132725431
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "balanced_accuracy",
+      "value": 0.8077177901603697
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "balanced_accuracy",
+      "value": 0.7578243311458859
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "balanced_accuracy",
+      "value": 0.7305442372394204
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "balanced_accuracy",
+      "value": 0.7389564336372847
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "balanced_accuracy",
+      "value": 0.7594964664310955
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "balanced_accuracy",
+      "value": 0.8286387346458017
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "balanced_accuracy",
+      "value": 0.8209376637868362
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "balanced_accuracy",
+      "value": 0.8367274569402229
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "balanced_accuracy",
+      "value": 0.8425013590649633
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "accuracy",
+      "value": 0.7342799188640974
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "accuracy",
+      "value": 0.709349593495935
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "accuracy",
+      "value": 0.7052845528455285
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "accuracy",
+      "value": 0.7331975560081466
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "accuracy",
+      "value": 0.8275862068965517
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "accuracy",
+      "value": 0.8008130081300813
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "accuracy",
+      "value": 0.8109756097560976
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "accuracy",
+      "value": 0.824847250509165
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "accuracy",
+      "value": 0.718052738336714
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "accuracy",
+      "value": 0.7012195121951219
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "accuracy",
+      "value": 0.6565040650406504
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "accuracy",
+      "value": 0.6863543788187373
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "accuracy",
+      "value": 0.821501014198783
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "accuracy",
+      "value": 0.8008130081300813
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "accuracy",
+      "value": 0.8272357723577236
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "accuracy",
+      "value": 0.8187372708757638
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "accuracy",
+      "value": 0.7748478701825557
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "accuracy",
+      "value": 0.7540650406504065
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "accuracy",
+      "value": 0.741869918699187
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "accuracy",
+      "value": 0.780040733197556
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "accuracy",
+      "value": 0.8356997971602435
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "accuracy",
+      "value": 0.8292682926829268
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "accuracy",
+      "value": 0.8434959349593496
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "accuracy",
+      "value": 0.8492871690427699
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "recall",
+      "value": 0.6666666666666666
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "recall",
+      "value": 0.5789473684210527
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "recall",
+      "value": 0.6428571428571429
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "recall",
+      "value": 0.625
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "recall",
+      "value": 0.7476190476190476
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "recall",
+      "value": 0.7368421052631579
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "recall",
+      "value": 0.6714285714285714
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "recall",
+      "value": 0.75
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "recall",
+      "value": 0.6333333333333333
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "recall",
+      "value": 0.5789473684210527
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "recall",
+      "value": 0.6095238095238096
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "recall",
+      "value": 0.6009615384615384
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "recall",
+      "value": 0.7380952380952381
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "recall",
+      "value": 0.7368421052631579
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "recall",
+      "value": 0.7095238095238096
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "recall",
+      "value": 0.7355769230769231
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "recall",
+      "value": 0.6428571428571429
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "recall",
+      "value": 0.5741626794258373
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "recall",
+      "value": 0.719047619047619
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "recall",
+      "value": 0.625
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "recall",
+      "value": 0.780952380952381
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "recall",
+      "value": 0.7655502392344498
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "recall",
+      "value": 0.7904761904761904
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "recall",
+      "value": 0.7980769230769231
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "precision",
+      "value": 0.6965174129353234
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "precision",
+      "value": 0.6875
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "precision",
+      "value": 0.6585365853658537
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "precision",
+      "value": 0.7103825136612022
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "precision",
+      "value": 0.8306878306878307
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "precision",
+      "value": 0.7817258883248731
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "precision",
+      "value": 0.8545454545454545
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "precision",
+      "value": 0.8210526315789474
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "precision",
+      "value": 0.6820512820512821
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "precision",
+      "value": 0.6722222222222223
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "precision",
+      "value": 0.5953488372093023
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "precision",
+      "value": 0.6377551020408163
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "precision",
+      "value": 0.824468085106383
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "precision",
+      "value": 0.7817258883248731
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "precision",
+      "value": 0.861271676300578
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "precision",
+      "value": 0.8181818181818182
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "precision",
+      "value": 0.7894736842105263
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "precision",
+      "value": 0.7894736842105263
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "precision",
+      "value": 0.6894977168949772
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "precision",
+      "value": 0.8125
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "precision",
+      "value": 0.8241206030150754
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "precision",
+      "value": 0.8205128205128205
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "precision",
+      "value": 0.8341708542713567
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "precision",
+      "value": 0.8383838383838383
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "review_rate",
+      "value": 0.4077079107505071
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "review_rate",
+      "value": 0.35772357723577236
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "review_rate",
+      "value": 0.4166666666666667
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "review_rate",
+      "value": 0.3727087576374745
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "review_rate",
+      "value": 0.38336713995943206
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "review_rate",
+      "value": 0.40040650406504064
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "review_rate",
+      "value": 0.3353658536585366
+    },
+    {
+      "study": "ELPV",
+      "classifier": "logistic",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "review_rate",
+      "value": 0.3869653767820774
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "review_rate",
+      "value": 0.39553752535496955
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "review_rate",
+      "value": 0.36585365853658536
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "review_rate",
+      "value": 0.4369918699186992
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "review_rate",
+      "value": 0.39918533604887985
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "review_rate",
+      "value": 0.3813387423935091
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "review_rate",
+      "value": 0.40040650406504064
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "review_rate",
+      "value": 0.3516260162601626
+    },
+    {
+      "study": "ELPV",
+      "classifier": "linear_svm",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "review_rate",
+      "value": 0.38085539714867617
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 0,
+      "metric": "review_rate",
+      "value": 0.34685598377281945
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 1,
+      "metric": "review_rate",
+      "value": 0.3089430894308943
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 2,
+      "metric": "review_rate",
+      "value": 0.4451219512195122
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "hog_stats",
+      "fold": 3,
+      "metric": "review_rate",
+      "value": 0.3258655804480652
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 0,
+      "metric": "review_rate",
+      "value": 0.40365111561866124
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 1,
+      "metric": "review_rate",
+      "value": 0.39634146341463417
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 2,
+      "metric": "review_rate",
+      "value": 0.40447154471544716
+    },
+    {
+      "study": "ELPV",
+      "classifier": "rbf_svm",
+      "feature": "dinov3_cls",
+      "fold": 3,
+      "metric": "review_rate",
+      "value": 0.40325865580448067
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 11,
+      "metric": "AUROC",
+      "value": 0.8797113071371292
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 22,
+      "metric": "AUROC",
+      "value": 0.8582598235765838
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 33,
+      "metric": "AUROC",
+      "value": 0.9047714514835605
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 11,
+      "metric": "AUROC",
+      "value": 0.881916599839615
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 22,
+      "metric": "AUROC",
+      "value": 0.85084202085004
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 33,
+      "metric": "AUROC",
+      "value": 0.8071371291098637
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 11,
+      "metric": "AUROC",
+      "value": 0.9143945469125901
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 22,
+      "metric": "AUROC",
+      "value": 0.8684843624699278
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 33,
+      "metric": "AUROC",
+      "value": 0.9434643143544507
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 11,
+      "metric": "AUROC",
+      "value": 0.917802726543705
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 22,
+      "metric": "AUROC",
+      "value": 0.7574178027265437
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 33,
+      "metric": "AUROC",
+      "value": 0.8037289494787491
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 11,
+      "metric": "positive_image_Dice",
+      "value": 0.26324978833957335
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 22,
+      "metric": "positive_image_Dice",
+      "value": 0.3621036946953176
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 33,
+      "metric": "positive_image_Dice",
+      "value": 0.2963408968357118
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 11,
+      "metric": "positive_image_Dice",
+      "value": 0.3423533165206767
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 22,
+      "metric": "positive_image_Dice",
+      "value": 0.43233541762178485
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 33,
+      "metric": "positive_image_Dice",
+      "value": 0.220574317320291
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 11,
+      "metric": "positive_image_Dice",
+      "value": 0.43471608902096043
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 22,
+      "metric": "positive_image_Dice",
+      "value": 0.4024935403169319
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 33,
+      "metric": "positive_image_Dice",
+      "value": 0.3774574205954359
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 11,
+      "metric": "positive_image_Dice",
+      "value": 0.4534957521860286
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 22,
+      "metric": "positive_image_Dice",
+      "value": 0.3418527068147653
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 33,
+      "metric": "positive_image_Dice",
+      "value": 0.24783572861698688
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 11,
+      "metric": "normal_structure_pixel_FPR",
+      "value": null
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 22,
+      "metric": "normal_structure_pixel_FPR",
+      "value": null
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 33,
+      "metric": "normal_structure_pixel_FPR",
+      "value": null
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 11,
+      "metric": "normal_structure_pixel_FPR",
+      "value": null
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 22,
+      "metric": "normal_structure_pixel_FPR",
+      "value": null
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 33,
+      "metric": "normal_structure_pixel_FPR",
+      "value": null
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 11,
+      "metric": "normal_structure_pixel_FPR",
+      "value": null
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 22,
+      "metric": "normal_structure_pixel_FPR",
+      "value": null
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 33,
+      "metric": "normal_structure_pixel_FPR",
+      "value": null
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 11,
+      "metric": "normal_structure_pixel_FPR",
+      "value": null
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 22,
+      "metric": "normal_structure_pixel_FPR",
+      "value": null
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 33,
+      "metric": "normal_structure_pixel_FPR",
+      "value": null
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 11,
+      "metric": "recall_at_source_threshold",
+      "value": 0.9655172413793104
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 22,
+      "metric": "recall_at_source_threshold",
+      "value": 0.9655172413793104
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 33,
+      "metric": "recall_at_source_threshold",
+      "value": 0.9655172413793104
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 11,
+      "metric": "recall_at_source_threshold",
+      "value": 0.9655172413793104
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 22,
+      "metric": "recall_at_source_threshold",
+      "value": 0.9655172413793104
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 33,
+      "metric": "recall_at_source_threshold",
+      "value": 0.9655172413793104
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 11,
+      "metric": "recall_at_source_threshold",
+      "value": 0.9655172413793104
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 22,
+      "metric": "recall_at_source_threshold",
+      "value": 0.9655172413793104
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 33,
+      "metric": "recall_at_source_threshold",
+      "value": 0.9655172413793104
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 11,
+      "metric": "recall_at_source_threshold",
+      "value": 0.9655172413793104
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 22,
+      "metric": "recall_at_source_threshold",
+      "value": 0.9655172413793104
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 33,
+      "metric": "recall_at_source_threshold",
+      "value": 0.9655172413793104
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 11,
+      "metric": "review_rate_at_source_threshold",
+      "value": 0.7777777777777778
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 22,
+      "metric": "review_rate_at_source_threshold",
+      "value": 0.8055555555555556
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 33,
+      "metric": "review_rate_at_source_threshold",
+      "value": 0.6458333333333334
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 11,
+      "metric": "review_rate_at_source_threshold",
+      "value": 0.7152777777777778
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 22,
+      "metric": "review_rate_at_source_threshold",
+      "value": 0.8541666666666666
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 33,
+      "metric": "review_rate_at_source_threshold",
+      "value": 0.9236111111111112
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 11,
+      "metric": "review_rate_at_source_threshold",
+      "value": 0.6597222222222222
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 22,
+      "metric": "review_rate_at_source_threshold",
+      "value": 0.9513888888888888
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 33,
+      "metric": "review_rate_at_source_threshold",
+      "value": 0.6319444444444444
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 11,
+      "metric": "review_rate_at_source_threshold",
+      "value": 0.6736111111111112
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 22,
+      "metric": "review_rate_at_source_threshold",
+      "value": 0.9166666666666666
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 33,
+      "metric": "review_rate_at_source_threshold",
+      "value": 0.9305555555555556
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 11,
+      "metric": "pooled_native_pixel_AP",
+      "value": 0.5883790019091604
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 22,
+      "metric": "pooled_native_pixel_AP",
+      "value": 0.6977823930444815
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 33,
+      "metric": "pooled_native_pixel_AP",
+      "value": 0.6369246560504284
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 11,
+      "metric": "pooled_native_pixel_AP",
+      "value": 0.6433492847862795
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 22,
+      "metric": "pooled_native_pixel_AP",
+      "value": 0.6604343388598253
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 33,
+      "metric": "pooled_native_pixel_AP",
+      "value": 0.5008576602134869
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 11,
+      "metric": "pooled_native_pixel_AP",
+      "value": 0.7242648236110023
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 22,
+      "metric": "pooled_native_pixel_AP",
+      "value": 0.7002559236902599
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 33,
+      "metric": "pooled_native_pixel_AP",
+      "value": 0.6355015535768205
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 11,
+      "metric": "pooled_native_pixel_AP",
+      "value": 0.672447046276699
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 22,
+      "metric": "pooled_native_pixel_AP",
+      "value": 0.6147102313414156
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 33,
+      "metric": "pooled_native_pixel_AP",
+      "value": 0.537842409185392
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 11,
+      "metric": "average_precision",
+      "value": 0.8724553564361308
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 22,
+      "metric": "average_precision",
+      "value": 0.8545859264376552
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 33,
+      "metric": "average_precision",
+      "value": 0.8965067234455106
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 11,
+      "metric": "average_precision",
+      "value": 0.8733689545724604
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 22,
+      "metric": "average_precision",
+      "value": 0.8783242518549707
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 33,
+      "metric": "average_precision",
+      "value": 0.8248951161889337
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 11,
+      "metric": "average_precision",
+      "value": 0.9104505383319654
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 22,
+      "metric": "average_precision",
+      "value": 0.889946662082062
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 33,
+      "metric": "average_precision",
+      "value": 0.9421746821310277
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 11,
+      "metric": "average_precision",
+      "value": 0.9094243086222503
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 22,
+      "metric": "average_precision",
+      "value": 0.7822660795512998
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 33,
+      "metric": "average_precision",
+      "value": 0.8245291686047296
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 11,
+      "metric": "false_positive_rate_at_source_threshold",
+      "value": 0.6511627906976745
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 22,
+      "metric": "false_positive_rate_at_source_threshold",
+      "value": 0.6976744186046512
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 33,
+      "metric": "false_positive_rate_at_source_threshold",
+      "value": 0.43023255813953487
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 11,
+      "metric": "false_positive_rate_at_source_threshold",
+      "value": 0.5465116279069767
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 22,
+      "metric": "false_positive_rate_at_source_threshold",
+      "value": 0.7790697674418605
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 33,
+      "metric": "false_positive_rate_at_source_threshold",
+      "value": 0.8953488372093024
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 11,
+      "metric": "false_positive_rate_at_source_threshold",
+      "value": 0.45348837209302323
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 22,
+      "metric": "false_positive_rate_at_source_threshold",
+      "value": 0.9418604651162791
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 33,
+      "metric": "false_positive_rate_at_source_threshold",
+      "value": 0.4069767441860465
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 11,
+      "metric": "false_positive_rate_at_source_threshold",
+      "value": 0.47674418604651164
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 22,
+      "metric": "false_positive_rate_at_source_threshold",
+      "value": 0.8837209302325582
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 33,
+      "metric": "false_positive_rate_at_source_threshold",
+      "value": 0.9069767441860465
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 11,
+      "metric": "positive_image_IoU",
+      "value": 0.1880242417305556
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 22,
+      "metric": "positive_image_IoU",
+      "value": 0.2700809339424911
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 33,
+      "metric": "positive_image_IoU",
+      "value": 0.21848330525735235
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 11,
+      "metric": "positive_image_IoU",
+      "value": 0.2512396024495445
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 22,
+      "metric": "positive_image_IoU",
+      "value": 0.32014339947859954
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 33,
+      "metric": "positive_image_IoU",
+      "value": 0.15811592971471194
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 11,
+      "metric": "positive_image_IoU",
+      "value": 0.33219644764493367
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 22,
+      "metric": "positive_image_IoU",
+      "value": 0.30209124860634734
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 33,
+      "metric": "positive_image_IoU",
+      "value": 0.2792883531563314
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 11,
+      "metric": "positive_image_IoU",
+      "value": 0.3396409537990849
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 22,
+      "metric": "positive_image_IoU",
+      "value": 0.24850612514046835
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 33,
+      "metric": "positive_image_IoU",
+      "value": 0.17788320910819164
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 11,
+      "metric": "mean_negative_field_pixel_FPR",
+      "value": 0.00018519879638948463
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 22,
+      "metric": "mean_negative_field_pixel_FPR",
+      "value": 0.0012432461259104298
+    },
+    {
+      "study": "matched_UCF",
+      "system": "published_deeplab_fsl",
+      "seed": 33,
+      "metric": "mean_negative_field_pixel_FPR",
+      "value": 8.316384814102009e-06
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 11,
+      "metric": "mean_negative_field_pixel_FPR",
+      "value": 0.00013902663555742935
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 22,
+      "metric": "mean_negative_field_pixel_FPR",
+      "value": 0.0002137421386343632
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_frozen_ucf20",
+      "seed": 33,
+      "metric": "mean_negative_field_pixel_FPR",
+      "value": 0.0004770890697113632
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 11,
+      "metric": "mean_negative_field_pixel_FPR",
+      "value": 0.00016607214179880189
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 22,
+      "metric": "mean_negative_field_pixel_FPR",
+      "value": 0.0
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_lora_ucf20",
+      "seed": 33,
+      "metric": "mean_negative_field_pixel_FPR",
+      "value": 0.0
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 11,
+      "metric": "mean_negative_field_pixel_FPR",
+      "value": 0.0022174496585958634
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 22,
+      "metric": "mean_negative_field_pixel_FPR",
+      "value": 1.0676751788192354e-05
+    },
+    {
+      "study": "matched_UCF",
+      "system": "dinov3_reference_ucf20",
+      "seed": 33,
+      "metric": "mean_negative_field_pixel_FPR",
+      "value": 3.751376184198008e-05
+    }
+  ],
+  "stored_points": 312,
+  "null_points_retained": 12,
+  "visual_QA": false,
+  "native_article_integration": false
+}

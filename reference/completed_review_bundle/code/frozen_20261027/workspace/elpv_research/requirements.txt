@@ -1,0 +1,16 @@
+torch==2.8.0
+torchvision==0.23.0
+transformers==4.56.2
+numpy>=2.2,<3
+scipy>=1.14,<2
+scikit-learn>=1.6,<2
+scikit-image>=0.25,<0.27
+pandas>=2.2,<4
+matplotlib>=3.9,<4
+pillow>=11,<13
+requests>=2.32
+safetensors>=0.6
+pytest>=8,<10
+pypdf==6.20.0
+pymupdf==1.28.2
+reportlab==5.0.1

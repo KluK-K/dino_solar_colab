@@ -1,0 +1,76 @@
+{
+  "at": "2026-10-29T05:16:48.341706+00:00",
+  "revision": 61,
+  "source": {
+    "path": "manuscript/research_manuscript_v04.tex",
+    "sha256": "9276e86276c95a657f0acc426df75b6b7897a49abf62f8f6965cf341168114f6"
+  },
+  "main_pages": 12,
+  "supplement_pages": 19,
+  "total_pages": 31,
+  "actual_changed_main_pages_individually_viewed": [
+    1,
+    2,
+    3,
+    5,
+    11
+  ],
+  "actual_changed_supplement_pages_individually_viewed": [
+    18,
+    19
+  ],
+  "unchanged_main_pages_exact_RGB_reuse": [
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    12
+  ],
+  "unchanged_supplement_pages_exact_RGB_reuse": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "prior_actual31_page_review": {
+    "path": "output/pdf/article_v04_revision60_836fb452b83d/actual_current_article_page_review_2026-10-29T02-51-33.597226+00-00.json",
+    "sha256": "7afc2bfc0455db2987b271dde99bbef74325935c5ac5d8281b6d2fef362d3f2a"
+  },
+  "main_comparison": {
+    "path": "output/pdf/article_v04_revision61_9276e86276c9/raster_identity_comparison_to_revision60.json",
+    "sha256": "99f687db54bb98e056c7f43f7e7b54233432ef2411528bff939b37d858d257a5"
+  },
+  "supplement_same_renderer_comparison": {
+    "path": "output/pdf/article_v04_revision61_9276e86276c9/supplement_identical_renderer_comparison.json",
+    "sha256": "25b3a08de622b74919d4f9f7aa01f992890fcb20eaf3d37ac90e5efd83cdd92c"
+  },
+  "findings": [
+    "All seven changed actual PDF pages inspected individually: title/abstract, data table and methods, optimization table, conclusion and reproducibility, source context and provenance fit without clipping or overlap.",
+    "The stale unfinished-status box is removed. Completed same-host replay is reported with explicit independent-implementation/device/training limits.",
+    "Other24 page layouts exactly match previously inspected RGB rasters. Different-renderer pixel differences were diagnosed explicitly; like-for-like renderer comparison establishes actual reuse."
+  ],
+  "all31_current_page_layouts_reviewed": true,
+  "all_current_crossreferences_resolved": true,
+  "no_overfull_boxes": true,
+  "native_compile": {
+    "path": "output/pdf/article_v04_revision61_9276e86276c9/native_snapshot_compile_success.json",
+    "sha256": "8cf3d3b7e89e67c3c0168ae1c27bd3b740e2149b4f76918e8f54fbbcb72045c8"
+  },
+  "authors_and_journal_intentionally_blank": true,
+  "journal_specific_submission_ready": false
+}

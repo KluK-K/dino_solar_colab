@@ -1,0 +1,14 @@
+{
+  "registry_id": "868f841774008801a57081a8406b93e476fdd3084ea594c3988e44baaafa1daf",
+  "original_registry_sha256": "eb28c73d11482ad0881600a1e7d3fedee826f66f09b2e96e98f7de222881eb3f",
+  "models_or_views": 1061,
+  "recipe_groups": 427,
+  "jobs": 1683,
+  "primary_endpoint_contrasts": 6212,
+  "prepared_plan_id": "e7d35787e0f9f61c7e7e5648b6182fbc2e7a741461c2d68b367628045a84609b",
+  "source_and_confirmation_pipeline_is_already_observed": true,
+  "new_recipient_default": "Read and verify only. Never launch duplicate training/scoring or create another registry.",
+  "full_registry_and_authorized_input_payloads_included": false,
+  "final_scoring_complete": false,
+  "final_research_package": false
+}

@@ -1,0 +1,347 @@
+{
+  "main_page_rasters": [
+    {
+      "page": "page-01.png",
+      "same_RGB_as_revision59": false,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "be04503d5f20a01189168ff3a1f5305e1b6df7db78cbc039d30316d0f7370dbe"
+      ]
+    },
+    {
+      "page": "page-02.png",
+      "same_RGB_as_revision59": true,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "f3c1a987da44a74f450617791d6d9b8547f3876390e9e3aa20db7b89126d4a5c"
+      ]
+    },
+    {
+      "page": "page-03.png",
+      "same_RGB_as_revision59": true,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "4c3e4f0a4027515ceee12a6c22ca5a96103f1deeb2d252aed44b988421581b85"
+      ]
+    },
+    {
+      "page": "page-04.png",
+      "same_RGB_as_revision59": true,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "38f7bb4c9d7d6dfcec283b96445c6362a57021f694dd698a4b6307d77aee447d"
+      ]
+    },
+    {
+      "page": "page-05.png",
+      "same_RGB_as_revision59": true,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "8b449a8ba278a254a316056b37e5c96ec9e74354b5fb749a3fc8db4279be6775"
+      ]
+    },
+    {
+      "page": "page-06.png",
+      "same_RGB_as_revision59": true,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "8c53a0be2b3ae375fd20cc3e0581a43633c6cb96cae1b4c4f46fbb670ac0a266"
+      ]
+    },
+    {
+      "page": "page-07.png",
+      "same_RGB_as_revision59": true,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "76fd6609b0afb31bb69530ed68a9f9f69f405f641503e8c4f93e5e301a54582f"
+      ]
+    },
+    {
+      "page": "page-08.png",
+      "same_RGB_as_revision59": true,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "9cde4a1d493662179a587c46f8ec4a68ac4007c94454e8f7f2c9125c602b24ab"
+      ]
+    },
+    {
+      "page": "page-09.png",
+      "same_RGB_as_revision59": true,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "ae246acc663822c6b764d10e9156ba7b1cdf7164c6d0fd372ca701c42a103e38"
+      ]
+    },
+    {
+      "page": "page-10.png",
+      "same_RGB_as_revision59": true,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "f39e0a5713f25518df9638e47fc024f44e0a49045ab46f5ec00b27c4c9974027"
+      ]
+    },
+    {
+      "page": "page-11.png",
+      "same_RGB_as_revision59": true,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "e91e5c48a603ee402167d8a45abb3472613899c6d8bf4c853672c03cc2d56ef0"
+      ]
+    },
+    {
+      "page": "page-12.png",
+      "same_RGB_as_revision59": true,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "f4044c48ab90adb1358a8bd7690287f28d56c613894fa6f2ef089d4e0b42436f"
+      ]
+    }
+  ],
+  "supplement_page_rasters": [
+    {
+      "page": "page-01.png",
+      "same_RGB_as_revision59": true,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "2f4131f37d994500dcc00d5208a0702015ad57a2a27933274ba94e6aeb66ebee"
+      ]
+    },
+    {
+      "page": "page-02.png",
+      "same_RGB_as_revision59": true,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "204f317c274c09e1c1381f927d9271bd56ddc27ae8e7c8d9adf5e476f8752419"
+      ]
+    },
+    {
+      "page": "page-03.png",
+      "same_RGB_as_revision59": true,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "ae64f58cd166d47155626280fb8d557f546f39db7cc241b9b2f0934c8130ec91"
+      ]
+    },
+    {
+      "page": "page-04.png",
+      "same_RGB_as_revision59": true,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "a7d46babbeffb1e7c1840fcd0fe366294f5517c8c177a4b50631b8bba34f5bfa"
+      ]
+    },
+    {
+      "page": "page-05.png",
+      "same_RGB_as_revision59": true,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "5e5b84162cabb33542adda3a86aaf6e611d0856030f76935d73fd956b134d45d"
+      ]
+    },
+    {
+      "page": "page-06.png",
+      "same_RGB_as_revision59": true,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "081ee082e8c4e5337ec03b87c5551cfb427478370189a61b46f88a90ceb973a2"
+      ]
+    },
+    {
+      "page": "page-07.png",
+      "same_RGB_as_revision59": false,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "9fe7a1398d2b3f58b49dafb6a668b9dc6b0b59feacfd5cbd4cf7bea97d785e21"
+      ]
+    },
+    {
+      "page": "page-08.png",
+      "same_RGB_as_revision59": false,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "c541adf535653c95b799380894e3a23e9d5e9d953a9e9a2e3d3f6f14a6e5fb90"
+      ]
+    },
+    {
+      "page": "page-09.png",
+      "same_RGB_as_revision59": false,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "d29db7c85ae8fc8dce691ed5975d0339818ce1417fc5bc08b25cb56ed73b8211"
+      ]
+    },
+    {
+      "page": "page-10.png",
+      "same_RGB_as_revision59": false,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "eae60dc762ad0fb0ab59bcfd91ce617698bc11f8eb15cfe7e78ad43d46f97b7f"
+      ]
+    },
+    {
+      "page": "page-11.png",
+      "same_RGB_as_revision59": false,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "b7a479cba592a22bb73ca894d5963204dfde42e2d11b5121c516a1b6e74e0544"
+      ]
+    },
+    {
+      "page": "page-12.png",
+      "same_RGB_as_revision59": false,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "4a14bd34fc0fab948eb82223a96af01566cdc5bd2114f60063eca4cb1c9ca658"
+      ]
+    },
+    {
+      "page": "page-13.png",
+      "same_RGB_as_revision59": false,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "afba76b3db058bdf1c3a52ef62c88d1dc6e47d588072e1316e3a8022f3439794"
+      ]
+    },
+    {
+      "page": "page-14.png",
+      "same_RGB_as_revision59": false,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "444f9dc4e92981642a8dc9e404a34f1d0aec3831014ad8045de61e3b6aa980b9"
+      ]
+    },
+    {
+      "page": "page-15.png",
+      "same_RGB_as_revision59": false,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "563ef423fefb03da2deaa26f73c287a32b2b38535f9ed41f6f9a407f92fa953d"
+      ]
+    },
+    {
+      "page": "page-16.png",
+      "same_RGB_as_revision59": false,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "b763bdf90ec27f877f4968d33ab3ad54da88259551db6da121774db2db76ecb1"
+      ]
+    },
+    {
+      "page": "page-17.png",
+      "same_RGB_as_revision59": true,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "9164f0044c082e251d81ce65ebcfb56aa3eb5ae1a2dee1f3f2214dd04b28b73d"
+      ]
+    },
+    {
+      "page": "page-18.png",
+      "same_RGB_as_revision59": true,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "03eca513b1d995a2c7f9c9d66cdc20c5103b9a4e684aee66ef0a76e3c4353428"
+      ]
+    },
+    {
+      "page": "page-19.png",
+      "same_RGB_as_revision59": true,
+      "RGB_identity": [
+        [
+          1224,
+          1584
+        ],
+        "4ec0eaaef14cfc4bbd5904ef9e7a58bb121cb7f3d1d6ed8cd396cb3361857cc4"
+      ]
+    }
+  ]
+}

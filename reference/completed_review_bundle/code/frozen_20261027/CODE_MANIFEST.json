@@ -1,0 +1,1275 @@
+{
+  "at": "2026-10-27T06:51:14.563302+00:00",
+  "code_tree_identity": "f0d8d238ce8be5614848e3fb77037e762e0a54153e2e87bd0ca95913a25400a4",
+  "frozen_registry_id": "868f841774008801a57081a8406b93e476fdd3084ea594c3988e44baaafa1daf",
+  "files": [
+    {
+      "path": "FROZEN_CONTEXT.json",
+      "sha256": "578deba9acb9048f09d739b5e77d69032008c8e44c238fdf97c07ce94a56c3f6",
+      "bytes": 700
+    },
+    {
+      "path": "README.md",
+      "sha256": "1ddee3d8d1f558e0247e67da3e1994dfba1010d134657b4f5b616c82c6035d85",
+      "bytes": 4500
+    },
+    {
+      "path": "verify_snapshot.py",
+      "sha256": "781b6da787d8113b790a785b90a48fd580f3e2a4ffcf57880300c8a68c951374",
+      "bytes": 2642
+    },
+    {
+      "path": "workspace/elpv_midterm/data.py",
+      "sha256": "ec4c9b44780ea86097862b064dced8abfe756d8ec4cff3a88d0582872717fa1c",
+      "bytes": 8606
+    },
+    {
+      "path": "workspace/elpv_research/analyze_advisor_head_study.py",
+      "sha256": "94f68dc4afe065cf65f94f4e553c9de4e972359aee87f8b28e4e5f623f62e4ab",
+      "bytes": 16586
+    },
+    {
+      "path": "workspace/elpv_research/analyze_classical_development.py",
+      "sha256": "b779ec055e319dd08bc9439e739c4bc8dd4d7dd4f66f450de9f3288164cab51d",
+      "bytes": 10876
+    },
+    {
+      "path": "workspace/elpv_research/analyze_cnn_training_fit.py",
+      "sha256": "d250743fcd2e27ceff02f0e8ce611d0001d14e047f9f844ca2b6a16f2452107f",
+      "bytes": 4538
+    },
+    {
+      "path": "workspace/elpv_research/analyze_complete_efficiency_v1.py",
+      "sha256": "5594e0ca9ae0089b376c2a9d4ea8a9c0f2d34624d915013244d433d8bad843a1",
+      "bytes": 17704
+    },
+    {
+      "path": "workspace/elpv_research/analyze_complete_elpv_supplement_v1.py",
+      "sha256": "0d39397743fe8dba74789e52b152af064d4fec4958cbae7161ac3aa14f731cb3",
+      "bytes": 13060
+    },
+    {
+      "path": "workspace/elpv_research/analyze_dense_development_uncertainty.py",
+      "sha256": "106cdbd54e75c23e8bba04837737b40f00ec3088b79c5636426260a2f33cdd6d",
+      "bytes": 12819
+    },
+    {
+      "path": "workspace/elpv_research/analyze_dense_failures.py",
+      "sha256": "3d6e04ad5c54025f0d2a1bd6572fd880e3247c4ca430ee0c306937487da5a918",
+      "bytes": 4808
+    },
+    {
+      "path": "workspace/elpv_research/analyze_dense_source_localization.py",
+      "sha256": "c679e68061211cce53907df0f36d6de52b79358ff968b1d93470ce442cd3dfcb",
+      "bytes": 9100
+    },
+    {
+      "path": "workspace/elpv_research/analyze_full_architectures.py",
+      "sha256": "ace7e02df75c613b82a96eb9ad690f25ab0e5e8eb8cb519a3b11fd26890b46fd",
+      "bytes": 2099
+    },
+    {
+      "path": "workspace/elpv_research/analyze_grouping_sensitivity.py",
+      "sha256": "fd5e1f24ad18bbadde7602e9f4737e9eda31c88ee50f672dbbbd846963d9bd79",
+      "bytes": 4718
+    },
+    {
+      "path": "workspace/elpv_research/analyze_held_source_uncertainty.py",
+      "sha256": "8d35337dfd87ef17e3f0468d6d83ff6c90295188f22f4eb3ac990474199006c5",
+      "bytes": 4892
+    },
+    {
+      "path": "workspace/elpv_research/analyze_image_failures.py",
+      "sha256": "5606ac40735cfdf4aff59fc0138c6ce2e510fe41819f8bb84c1ac6aaf9b9396e",
+      "bytes": 16569
+    },
+    {
+      "path": "workspace/elpv_research/analyze_matched_UCF_source_readout_v1.py",
+      "sha256": "79209dada294f8789e9e74a16c6d5718fa166ebdbb15220a3dc64da5335f0d1e",
+      "bytes": 14863
+    },
+    {
+      "path": "workspace/elpv_research/analyze_native_annotation_support.py",
+      "sha256": "e9df80802ecaaa5abdf9f8dcfb035ff6afefd046938cb7381ed0db6d97249f10",
+      "bytes": 10651
+    },
+    {
+      "path": "workspace/elpv_research/analyze_published_complete_development.py",
+      "sha256": "bd44aa4bec80adbc9c99de1d1f0e679c547976679509976f57d96925d96c7b14",
+      "bytes": 20499
+    },
+    {
+      "path": "workspace/elpv_research/analyze_published_complete_internal.py",
+      "sha256": "765beea22cbcf186c5d6a78cea4c9a5fca7534b474de28b9f34ccfb5c9ebf515",
+      "bytes": 20269
+    },
+    {
+      "path": "workspace/elpv_research/analyze_published_source_calibration.py",
+      "sha256": "f27780d3637c5e3b44d8586eb4c2fb5c4024dff3e05404e8c1ea5a7730bdbb84",
+      "bytes": 11928
+    },
+    {
+      "path": "workspace/elpv_research/analyze_published_vat_sensitivity.py",
+      "sha256": "709b4e3dd980eb1aa772bff11d2f5b2a360debb7be4a6af0cb8265334b273d20",
+      "bytes": 12200
+    },
+    {
+      "path": "workspace/elpv_research/analyze_source_shortcuts.py",
+      "sha256": "429426c5205ea50f732aa96880442d3aaa71d109492a546e4d49cfeee881f915",
+      "bytes": 6633
+    },
+    {
+      "path": "workspace/elpv_research/analyze_training_effort.py",
+      "sha256": "6dd87c4a7d996a0f399d88d06b8154304dd0c8b771d056329de47ca2be30ddb0",
+      "bytes": 19003
+    },
+    {
+      "path": "workspace/elpv_research/audit_complete_confirmation_candidates_v1.py",
+      "sha256": "f7ba8f2d9fc13f3e3659d42debf3950e4245e9042968c342439fa2c4626ce232",
+      "bytes": 8228
+    },
+    {
+      "path": "workspace/elpv_research/audit_complete_confirmation_candidates_v2.py",
+      "sha256": "20634bff513be23ab6ceb2e15c89f9296eed3282225b9345f4d3904d275441ce",
+      "bytes": 8232
+    },
+    {
+      "path": "workspace/elpv_research/build_annotation_support_report.py",
+      "sha256": "87d00ae4100f4bef0f3364d62432fb23cce4944f25fa412f8899b7df10889df0",
+      "bytes": 7185
+    },
+    {
+      "path": "workspace/elpv_research/build_architecture_and_exposure.py",
+      "sha256": "07051787b8a5e72775fedcc89a6f9a627606ee899cef88f86333b905cbba5fcf",
+      "bytes": 14986
+    },
+    {
+      "path": "workspace/elpv_research/build_cfvs20_training_diagnostics.py",
+      "sha256": "63496e2df6f682c63b66194a3962ea3f6242d029cb22c5b5b6e56782baa44463",
+      "bytes": 15157
+    },
+    {
+      "path": "workspace/elpv_research/build_classical_report.py",
+      "sha256": "535dd5eab2106f270b8467dacea778348e6432d004032071bca6b10312afef11",
+      "bytes": 8337
+    },
+    {
+      "path": "workspace/elpv_research/build_complete_efficiency_figures_v1.py",
+      "sha256": "7976ec54f67d0718ef03164f01400876e4c79200a210b8a451f80a5506dc5831",
+      "bytes": 8088
+    },
+    {
+      "path": "workspace/elpv_research/build_complete_mechanism_summary.py",
+      "sha256": "1c2efd6f84e41154479c3f3440b6d64ef4d97dfedb254be874e56a9cc0a63fd3",
+      "bytes": 11209
+    },
+    {
+      "path": "workspace/elpv_research/build_complete_source_catalog_append_only_v1.py",
+      "sha256": "4d49e7bcd3d8c9ef18eefbdfbc9f7e41e21a5d88013376820ea1dce5ce5d9985",
+      "bytes": 3444
+    },
+    {
+      "path": "workspace/elpv_research/build_complete_source_catalog_v2.py",
+      "sha256": "7530fe78a4a7f880989c1443884131d6360894a1ed60148459492ff3a871d32b",
+      "bytes": 6895
+    },
+    {
+      "path": "workspace/elpv_research/build_completed_source_controls.py",
+      "sha256": "e47a1628ff06aca12a485303945f22daadf69355e7ddb03c2114dbe1a11af6f7",
+      "bytes": 24899
+    },
+    {
+      "path": "workspace/elpv_research/build_completed_source_supplement_figures_v1.py",
+      "sha256": "0de567824c2fc970840df760ee517fa558d3cbbcde2e2c313fcd99e550d2c009",
+      "bytes": 8346
+    },
+    {
+      "path": "workspace/elpv_research/build_completed_source_supplement_figures_v2.py",
+      "sha256": "8a2714090e72d2ebb0166185147de131f7a3e90ee41d65907f3840a9a1f6db97",
+      "bytes": 9279
+    },
+    {
+      "path": "workspace/elpv_research/build_component_method_provenance_review.py",
+      "sha256": "3402e5dea8ffdd8f8d6a679ea227633deb781dac31212962487bb4758a5d3613",
+      "bytes": 12849
+    },
+    {
+      "path": "workspace/elpv_research/build_confirmation_catalog.py",
+      "sha256": "34ef2d2c3db9e0a1bd55b7dd207a951b59cb978f30a8e8fa0d8ee82c389a90c7",
+      "bytes": 9668
+    },
+    {
+      "path": "workspace/elpv_research/build_confirmation_source_index.py",
+      "sha256": "4be7132ea0045978426bc92693fdee427b249ae0d7db854833ebb18d09c09b0f",
+      "bytes": 2201
+    },
+    {
+      "path": "workspace/elpv_research/build_data_quality_evidence.py",
+      "sha256": "cb09ab09a2342a74d78bddf86e41616589b6b489c4813e48af7767e9033284ad",
+      "bytes": 12284
+    },
+    {
+      "path": "workspace/elpv_research/build_dense_budget_curve.py",
+      "sha256": "6297f42f7f15fd8858eb5ea1ed4e974505075e12eb2d5993893a20509ed31a99",
+      "bytes": 6781
+    },
+    {
+      "path": "workspace/elpv_research/build_dense_calibration_report.py",
+      "sha256": "40dde918d8d4ffcc979adcab4e04cebe229a10f45e68270b367260439a4cd972",
+      "bytes": 14326
+    },
+    {
+      "path": "workspace/elpv_research/build_dense_development_gallery.py",
+      "sha256": "2d9e7f879081ff6def91eef101fefdb069db6fe2ef86d8e7eae81afacd37636a",
+      "bytes": 12918
+    },
+    {
+      "path": "workspace/elpv_research/build_dense_development_progress.py",
+      "sha256": "3b9769a2d608afa2a3f49ad76bf21e9ff93896eb542ce1d17f7a448eaa1b8b16",
+      "bytes": 12001
+    },
+    {
+      "path": "workspace/elpv_research/build_dense_held_native_gallery.py",
+      "sha256": "519a5492491f4077f7ae3c5725d3e766bda99dcab12e5a39eabada9b983daa18",
+      "bytes": 16390
+    },
+    {
+      "path": "workspace/elpv_research/build_dense_localization_diagnostic.py",
+      "sha256": "00840cae1d7f96fe0f0600ca91821fe324de55d23f577f227ca1ff12966bd8ee",
+      "bytes": 9974
+    },
+    {
+      "path": "workspace/elpv_research/build_dense_operating_readout.py",
+      "sha256": "3183350f2a02d53c010b95bfc55c7eca47d443ee6ef8accac3b106cefdf8703d",
+      "bytes": 9334
+    },
+    {
+      "path": "workspace/elpv_research/build_dense_transfer_readout.py",
+      "sha256": "ae8eb3f9fcf815e1f735e6227c9c1f2ec3844e4ab87ccd7d88ae6fd484a93277",
+      "bytes": 9560
+    },
+    {
+      "path": "workspace/elpv_research/build_dense_transfer_summary.py",
+      "sha256": "82c5950fa1c85105545746c24a648eac6db8f2cc07db1dedd47e3ebfbdd1231c",
+      "bytes": 9126
+    },
+    {
+      "path": "workspace/elpv_research/build_dense_uncertainty_report.py",
+      "sha256": "7df901f0a84f16ef70af12265535a084be1d00e53695cd83d8703bf17da2aaf0",
+      "bytes": 10713
+    },
+    {
+      "path": "workspace/elpv_research/build_failure_report.py",
+      "sha256": "02bd4be6b682b819db84c6d4248373cf382f4469f3652f7b79927939526a2b0f",
+      "bytes": 8887
+    },
+    {
+      "path": "workspace/elpv_research/build_held_source_contrasts.py",
+      "sha256": "2d8cb86e6066347a9bdaf312a940c5ba1cf3ddffc535c328a9214a0a4648ea47",
+      "bytes": 4107
+    },
+    {
+      "path": "workspace/elpv_research/build_held_source_matrix.py",
+      "sha256": "293a7600a0dddcc3250874ad5c774ab46870d3302892d797b795246391804a28",
+      "bytes": 3868
+    },
+    {
+      "path": "workspace/elpv_research/build_held_source_progress.py",
+      "sha256": "32eda8544acadb378ab96493b2aff6f0d21ff019285f15c430b533547df4ba42",
+      "bytes": 6597
+    },
+    {
+      "path": "workspace/elpv_research/build_inspection_tradeoff.py",
+      "sha256": "5e51dc7dbb478871daa2cd26ecbe46e997deafbb42ce6f19dff22af5f90d89cd",
+      "bytes": 5668
+    },
+    {
+      "path": "workspace/elpv_research/build_manuscript.py",
+      "sha256": "a73f14c4e8869ce32614e8cb3fdaea67f6c77da0c58f34893c9a71c659fdadbc",
+      "bytes": 38203
+    },
+    {
+      "path": "workspace/elpv_research/build_mechanistic_progress_readout.py",
+      "sha256": "dee78a8331b18497a47047e411596a046f7958eb3114822485f891e8cb4e5fe9",
+      "bytes": 23968
+    },
+    {
+      "path": "workspace/elpv_research/build_mechanistic_source_gallery.py",
+      "sha256": "f3cb6285b23ce52e920533f1e0a23103a1adcdaca231e4c6f8c1a6ae0ec48f77",
+      "bytes": 13369
+    },
+    {
+      "path": "workspace/elpv_research/build_method_provenance_review.py",
+      "sha256": "b2243a70781d448312bef1de6400896edf82f86ee9aecaf4d19591ef854debe4",
+      "bytes": 16355
+    },
+    {
+      "path": "workspace/elpv_research/build_postlora_pair_readout.py",
+      "sha256": "9066ceccb1299fcca76b48d64b252b8d57bf913d15750a032285b589777c45a3",
+      "bytes": 4709
+    },
+    {
+      "path": "workspace/elpv_research/build_publication_development_figures.py",
+      "sha256": "81fa4541d8dd8bc7fb1591b1818100833a60dc7e2634fcd2a817beaa866116d0",
+      "bytes": 4952
+    },
+    {
+      "path": "workspace/elpv_research/build_publication_progress.py",
+      "sha256": "b58f23ff649d507c72816fcdaaf98f47a41367d8edbc2a1f5bac1a59def7b41e",
+      "bytes": 114907
+    },
+    {
+      "path": "workspace/elpv_research/build_published_calibration_report.py",
+      "sha256": "f75dc0a4f10fd36d9babaefdd3fac0339b53352d990e512330f13cfc5c3ad95c",
+      "bytes": 13595
+    },
+    {
+      "path": "workspace/elpv_research/build_published_complete_development_figures.py",
+      "sha256": "f3b82827cc5f538f283518388037a990075dc432e364113f09635dead1baec08",
+      "bytes": 13002
+    },
+    {
+      "path": "workspace/elpv_research/build_published_complete_development_figures_v2.py",
+      "sha256": "97940c2db97b2946f39f4fe3a2752f9e1f856b8657f2d31ec4787d41553c189e",
+      "bytes": 13475
+    },
+    {
+      "path": "workspace/elpv_research/build_published_complete_development_figures_v3.py",
+      "sha256": "e83e3351742d42da3932ff20b115431e88b6518e5a13d6c115cbbcd9d96ab384",
+      "bytes": 13650
+    },
+    {
+      "path": "workspace/elpv_research/build_published_complete_internal_report.py",
+      "sha256": "058c700bcc22207194bc9929d2437522106d3b2f891a83736bebbd9a68ed260f",
+      "bytes": 11081
+    },
+    {
+      "path": "workspace/elpv_research/build_published_internal_native_gallery.py",
+      "sha256": "e5a8f3043d2c795e184c611b2bb15d0dc0393147d2f9c10b7c05abea744e4a2e",
+      "bytes": 18154
+    },
+    {
+      "path": "workspace/elpv_research/build_published_vat_sensitivity_report.py",
+      "sha256": "5fe3f26f59760fcb269c5df440b499dca5a65af4298022c1e752e7a94168ce79",
+      "bytes": 11416
+    },
+    {
+      "path": "workspace/elpv_research/build_reviewed_confirmation_specification_v1.py",
+      "sha256": "a150a9c55451a4c0adea11d1541f886e0ab15ac9a20ee641cfdf971344506296",
+      "bytes": 20895
+    },
+    {
+      "path": "workspace/elpv_research/build_source_access_report.py",
+      "sha256": "63ccf712d58ec158c82514dab31d871cf01b15a0a45d4dd067d678b7916a9695",
+      "bytes": 13336
+    },
+    {
+      "path": "workspace/elpv_research/build_ucf_reference_readout.py",
+      "sha256": "6bb8d7d915721ccc97f5f18ce8a1572857e673af41f4240817ded85316da70ef",
+      "bytes": 10900
+    },
+    {
+      "path": "workspace/elpv_research/config.json",
+      "sha256": "badabac6fe8d5b68c547acc5ca98122423efb689d1dd6f35abcf0a2daecaec44",
+      "bytes": 994
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/__init__.py",
+      "sha256": "81873df9b81577ccdb27de401907c8c18ed4f5031493475c1bb788ba77a6f0b7",
+      "bytes": 63
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/acquire.py",
+      "sha256": "75dba37ccd6cec65ce09a45bead0f3d188c06dc970a4a6751cdbcf3ab7ee3682",
+      "bytes": 8420
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/adapt.py",
+      "sha256": "e76e947af4343b51e241c7fe99d118a73109045dbb77cde4599d4cabbc157330",
+      "bytes": 7844
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/anomaly.py",
+      "sha256": "b8f25af65acf369d8ca986859b8e308ab98c4c18d10237a49ff55cb8718f35ed",
+      "bytes": 3622
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/classical_features.py",
+      "sha256": "f0b3d4efe950664a52d37c073e3f9461aab5a215ae5949f84de8780f6e159f58",
+      "bytes": 5692
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/classical_training.py",
+      "sha256": "de294d0e315208ae1503c84ac7fff69af381501526e662c366a54b81aeb75839",
+      "bytes": 6947
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/classification_heads.py",
+      "sha256": "2f9eb5ba6b65eb677bcb8a9d2c41e823d42f68ca1e6e3f02d682c5bed5f67f4b",
+      "bytes": 1030
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/common.py",
+      "sha256": "db4e294cec7d9ebd81ba505dc355693556e161a9d72bcd35916bbd0264ef8753",
+      "bytes": 1231
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/confirmation_analysis.py",
+      "sha256": "e3eda037915c22a61a85b0cc8ad9cdf79125ed3540efcb702be96d92cb7e8d5f",
+      "bytes": 18024
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/confirmation_data.py",
+      "sha256": "ddf727dd8c7e85bd8159ffdaf6af800fe5f28cb6c77036b5688bad3bdb15d862",
+      "bytes": 2368
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/confirmation_evaluate.py",
+      "sha256": "cb9de26a8d82cc3854bca83fdc7110ec88e296e7a26800380f442089452bd2a9",
+      "bytes": 11923
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/confirmation_population.py",
+      "sha256": "2eb8c433fae34519392cb20a369afd98460c9e80b23f2cb298685f195e673a77",
+      "bytes": 4152
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/confirmation_predict.py",
+      "sha256": "1f36aa885ef07a8cac0e722429b174ea26d2bfa311f88bde820850db79f50e86",
+      "bytes": 6870
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/confirmation_registry.py",
+      "sha256": "e905f8e8e5d29d5011927b16a3f633239578894c187b91ef3ed57a4127e125dc",
+      "bytes": 25658
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/confirmation_workflow.py",
+      "sha256": "e1dc671170579261505078eda9e9b59636ccc48da489be75a20f25e93389c7a2",
+      "bytes": 27876
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/data.py",
+      "sha256": "037117876f33e6cfd9a80a25d20a78152565e9a3bda4996f227cdeaf2e02d16c",
+      "bytes": 9225
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/dense_evaluate.py",
+      "sha256": "7a700f956f5f95dca9c4a53358bc8c74dc8278ec40bacc4c28a1f8905a4ae408",
+      "bytes": 5486
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/dense_train.py",
+      "sha256": "dc4e7542f002a952a2309006cb1573c5f7a532b66b811ada1782d2d716127bad",
+      "bytes": 11429
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/efficiency_evidence.py",
+      "sha256": "d2ff56110d2f46ec107eea9ff86396d65bf622d583e7a7431b596e452569d94e",
+      "bytes": 6715
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/elpv_supplement.py",
+      "sha256": "b7d6b2268ab3af489d6a215bf183eb3ab1b6f806348c48d87ecedcc16d2d459a",
+      "bytes": 11822
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/encoders.py",
+      "sha256": "6398bb2b8b8d47bf0cdc53ea3cc1e57a55f1ab10ab8a91b87a3e40d078f42eaa",
+      "bytes": 10678
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/evaluate.py",
+      "sha256": "17f790844b99f30d54b0db05ffe19a0cbc11f1d22d496a1726772b28e862a25f",
+      "bytes": 9091
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/full_models.py",
+      "sha256": "f4aa867aa0b77c4b01b7aac63779b39c7162190ef9373ab4c7ce05abe4b3b650",
+      "bytes": 7847
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/heads.py",
+      "sha256": "258aa662c002e8733563b959e1ab1e4930c0fc85a8bf6f5cd0a9c97b596418cd",
+      "bytes": 12066
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/image_classification.py",
+      "sha256": "bc05cd41b266dd2a905c4710ec9e0e6dacd783df5f3263b4153717ccebb9c1bc",
+      "bytes": 14072
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/inference_efficiency.py",
+      "sha256": "2c220826ad4611cb5e01fc0c76975263613b68e092076488d3afbda35b0e8148",
+      "bytes": 16250
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/inspection_scenarios.py",
+      "sha256": "2d364aa46b5b69e26e756984d63c9bcf27528d688cbe3a67998f81efb44a9b04",
+      "bytes": 3388
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/licenses/PSMT_MIT_LICENSE.txt",
+      "sha256": "4b1838713c9d872e20fe699ed2e309fdd2e92cedceebba1e9f96c21775b879db",
+      "bytes": 1067
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/localization_metrics.py",
+      "sha256": "360f6c3f5302d1fe677711c70cfd74be45ebddb3f44c3670e5cbde51027d78a3",
+      "bytes": 6360
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/lossless_state.py",
+      "sha256": "2caf84071e66e7263a9f4b887fa6bf8ad67040d00afdc4777fa729a623387070",
+      "bytes": 3428
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/mechanistic_evaluate.py",
+      "sha256": "7ef8a7a54f6d79645990944f973218d29f1249a98a717c97eeca7f35a5d8c5af",
+      "bytes": 3271
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/mechanistic_models.py",
+      "sha256": "335bcfee2468cd2eb1bce2ee429f0824e5175e77ef67058fcf0a2510e72b0b56",
+      "bytes": 7666
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/mechanistic_train.py",
+      "sha256": "817a7cec631e50d2c043db5ad49456da0c1dc9d2b98f7153daeb7cd90ac69e90",
+      "bytes": 12702
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/metrics.py",
+      "sha256": "ba11e7b3516284a38fd4a8afd8459e57ffad5e622d50758b5a5e891a179339b9",
+      "bytes": 2621
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/near_duplicate_audit.py",
+      "sha256": "b77b47cda0a5968f85847f547bb1116bbfa2a689bc46071ef41b62b5aef8cfc9",
+      "bytes": 12304
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/normal_distance_fit.py",
+      "sha256": "ec87698514b12aa3738111bb24368f5cb7e5cbe1cbbbf2e5b47c19bc8f14c895",
+      "bytes": 6175
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/packed_normal_bank.py",
+      "sha256": "619ce840b68a1fe8f456c2569737c36ce896e4cc25e1676da6c43fa27c99e7cf",
+      "bytes": 8599
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/postadapt_encoder.py",
+      "sha256": "bc63106b4896acefa845d29838be89ae96d4034baa568f20a286144cc9031b24",
+      "bytes": 7272
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/preflight.py",
+      "sha256": "0f569aa8b0255c46f5834ffa8d06d6a76a3e5e057ca8b4a350c855f40244a675",
+      "bytes": 6690
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/probes.py",
+      "sha256": "000984a138b7100577460621797ba91b3aa4cef0a036eae41be5538d9efaa3bc",
+      "bytes": 6402
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/publication_data.py",
+      "sha256": "eac70583c4486a8a784fce08ffd984d7582d14f9023341854c728ef4cb6de49e",
+      "bytes": 12171
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/publication_dense_data.py",
+      "sha256": "f818e704229233ee9a1fb7377bf6b7d43a088938fd7fac455b3fae7ae7b003b6",
+      "bytes": 3778
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/publication_dense_evaluate.py",
+      "sha256": "4dab6c1ad91edee02d3942bf843d398f2c0a31961b366d3d1c961fb08e6c7f8e",
+      "bytes": 3000
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/publication_dense_models.py",
+      "sha256": "596848db270982220b665beacf6495d8c9d2fbf376d649f774c47dc741523d05",
+      "bytes": 4454
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/publication_dense_train.py",
+      "sha256": "5c70900164d8072304605ff3b393359bd790488c7c9517c1cba1b62def2f3052",
+      "bytes": 16026
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/publication_evaluate.py",
+      "sha256": "12b06131f8767e75dd2dc17f93008298c49739c0c08aeb1a482f45d2674bbd6b",
+      "bytes": 3883
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/publication_models.py",
+      "sha256": "2bb559899ce157214fbee5300984fc52402ce32b68fb53c2822337bac4fbca4d",
+      "bytes": 3498
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/publication_normal_bank.py",
+      "sha256": "f9f865220f50c6db601670ad349b6bdb74185a6a61de0fa009727cccaea5e6de",
+      "bytes": 7338
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/publication_splits.py",
+      "sha256": "0934b6951efbd4d0fbdc591380f2784924c184b78765ad49c8cf31ece973a3a9",
+      "bytes": 5758
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/publication_statistics.py",
+      "sha256": "f4358dc32730a36d999a23f640aa9577c056d150099f40601467051777853a2d",
+      "bytes": 4676
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/publication_train.py",
+      "sha256": "44a49d7d360934d7736296fb6b17f15973eaca8664a02c3c8e86ba9d07ccf2b3",
+      "bytes": 13472
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/published_archive.py",
+      "sha256": "1926f2eef79de10cbe6dbe9b55a6029b696a765d1627505849f4c8aa2cb2f423",
+      "bytes": 3258
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/published_data.py",
+      "sha256": "2a93b2972a8d88d919f042a5eaeb9942316bdab35ea8dd05b7288f6e4a6fdc58",
+      "bytes": 3211
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/published_evaluate.py",
+      "sha256": "f19d9a817560be82f8b10e15d94b88074f3efc97e95060adf72c4c98c80ec888",
+      "bytes": 2755
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/published_psmt_architecture.py",
+      "sha256": "1f132aa2b9706e20abb5208a329290dbae0f87014b58a7ebd6d9a5d7d5d78fdc",
+      "bytes": 9842
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/published_psmt_resnet.py",
+      "sha256": "2d64528791d6ab43f5f5a1ce818ed42f8e313b7aa57e06bd78030d1f7d5b306a",
+      "bytes": 8288
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/published_semisup.py",
+      "sha256": "8d07692f15ad16049ba0f44bd17939e6f07e384dcd136a37d08bc35c9434ab18",
+      "bytes": 8143
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/published_train.py",
+      "sha256": "68b85d8ef6d954523993ae5dfd60e3b5bf341ac89ba6516395e2722626e68083",
+      "bytes": 15592
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/published_weights.py",
+      "sha256": "aec4228c7e24c82c5b6d03acf9f0057db1d2cefc121733c1b447ef4bcf1f95bb",
+      "bytes": 2524
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/pvelad_data.py",
+      "sha256": "1596532b4b394c734fdf7f2ce743ad8074f7fafa14295d76b68f340fa39479bd",
+      "bytes": 8564
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/report.py",
+      "sha256": "ba386645f775c748523de61d8ab734c105721e5aa09890a24c9648c7b176a2f7",
+      "bytes": 10565
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/representation_features.py",
+      "sha256": "c32a4b665e5679385c830c4bc742773f3259f225cedb55bad5137bc47b323688",
+      "bytes": 10104
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/representation_training.py",
+      "sha256": "874b1a501e64bdfb02db4a9208c6e3f231050f3d6e000478e13ac7515a91d986",
+      "bytes": 4324
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/secondary_failure_analysis.py",
+      "sha256": "5928d218e115b7bb6fd0ecab7b385f572788294ad363b07432a9704cf15ca1fd",
+      "bytes": 3470
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/source_diagnostics.py",
+      "sha256": "37140cb2952c0947289bb67dd79c10e96f3d2d53842c0f484772db41e3c470a0",
+      "bytes": 1976
+    },
+    {
+      "path": "workspace/elpv_research/elresearch/streaming_inference.py",
+      "sha256": "f452bb1109a42df6f08b9a0465874504c0203ff3eebec3a8bc99e8a1e566aa21",
+      "bytes": 4044
+    },
+    {
+      "path": "workspace/elpv_research/fetch_verification_sources.py",
+      "sha256": "ea1ef3c1dbbd6543168a6fc3f29de412075d1d048d50717c591dce96fe822d32",
+      "bytes": 3757
+    },
+    {
+      "path": "workspace/elpv_research/pytest.ini",
+      "sha256": "b9988cf46b4fea767f9c4e111f5881c0054aef7ac41a5c21fb9c8443bf422c12",
+      "bytes": 86
+    },
+    {
+      "path": "workspace/elpv_research/references/verification_sources_manifest_v1.json",
+      "sha256": "eeaa03a6f643699ea6fd39ec58ab0ad724f8e95ecc0946dd177173b39907fc69",
+      "bytes": 2514
+    },
+    {
+      "path": "workspace/elpv_research/requirements-lock.txt",
+      "sha256": "3105bfa1aa986e18b51e51d4b814c7bdd11e63b5583169b54eac9bf5c3a66b6f",
+      "bytes": 905
+    },
+    {
+      "path": "workspace/elpv_research/requirements.txt",
+      "sha256": "b567297de38359ee50ae90da06dae82f059c8761b965b8633b210e321c24d8e0",
+      "bytes": 271
+    },
+    {
+      "path": "workspace/elpv_research/review_complete_efficiency_v1.py",
+      "sha256": "f95dc1c8d2af208bd4ad5d4934c72a52573da66e5529065a0dc5a57fcccbf309",
+      "bytes": 9830
+    },
+    {
+      "path": "workspace/elpv_research/review_complete_source_evidence_v1.py",
+      "sha256": "c0af556ee93634191236fd623d0a15139e9b7de2a599cb81c37238a046539a11",
+      "bytes": 20719
+    },
+    {
+      "path": "workspace/elpv_research/review_completed_source_supplements_v1.py",
+      "sha256": "b7fe4970470aa73bf09e87015c9d5e717d49974064494c98f5f53a7a49ee789b",
+      "bytes": 9274
+    },
+    {
+      "path": "workspace/elpv_research/review_published_cfvs20_complete.py",
+      "sha256": "d4b3420c47ccbf87f173f0a3863c5ea7f878607d676187398874576efcde0ecd",
+      "bytes": 8694
+    },
+    {
+      "path": "workspace/elpv_research/review_published_csir100_complete.py",
+      "sha256": "6dc26574d99174314e42b6155a3aae96d2406af6c6997fe9207b8bce0be61ca9",
+      "bytes": 9174
+    },
+    {
+      "path": "workspace/elpv_research/review_published_csir20_complete.py",
+      "sha256": "40db0f805aeccb88570c4b4e414726371c10b0e911ad24d0b82c6a129611fe0a",
+      "bytes": 10658
+    },
+    {
+      "path": "workspace/elpv_research/review_similarity_candidates.py",
+      "sha256": "92b6bf6287d33eb2e0c63a6f4700d721600f636b10e4c4d2f2e7c218e419105a",
+      "bytes": 3732
+    },
+    {
+      "path": "workspace/elpv_research/run_classical_controls.py",
+      "sha256": "96ee8ada5d010981913aac334b8d235d4a44ac5275344c044bc923ce34753e9f",
+      "bytes": 14984
+    },
+    {
+      "path": "workspace/elpv_research/run_cnn_stability_controls.py",
+      "sha256": "ebf3e7642406ca231a15883e54a8e5482f0f4523716925adaeebee0ca14ea75c",
+      "bytes": 5578
+    },
+    {
+      "path": "workspace/elpv_research/run_confirmation_workflow.py",
+      "sha256": "c1e906f6a447913da9e2c97d4d190bed40993c81d99854248cd9a08b5e96bbda",
+      "bytes": 3244
+    },
+    {
+      "path": "workspace/elpv_research/run_elpv_supplement.py",
+      "sha256": "00961ae6c2ed5c1116344be3e096f83704980cdfe36a8cf32c2e4375401490d0",
+      "bytes": 4517
+    },
+    {
+      "path": "workspace/elpv_research/run_inference_efficiency.py",
+      "sha256": "ad90d0d72c9b9c4b436b3be5db86aed95b0cc2b5ed67299745eacbe6fbe533fe",
+      "bytes": 18377
+    },
+    {
+      "path": "workspace/elpv_research/run_mechanistic_controls.py",
+      "sha256": "23a1ca4a1fa149cd4b1ad7b005592ad38adaa2e2cacb4b6b5075ee17fc6e89f8",
+      "bytes": 14861
+    },
+    {
+      "path": "workspace/elpv_research/run_near_duplicate_audit.py",
+      "sha256": "ac54989ce53aa120a069dfbe18cf61c54ba254882644f9405c25dd17395b0294",
+      "bytes": 3136
+    },
+    {
+      "path": "workspace/elpv_research/run_publication_dense_study.py",
+      "sha256": "4b9d7a808bcd783490b567c562606205c5d001869804d057678a6e509db8d446",
+      "bytes": 13696
+    },
+    {
+      "path": "workspace/elpv_research/run_publication_study.py",
+      "sha256": "dffb77ce683b181ca6e65f7838a44be3d6aba49b743769e6c2ede0b06dfe2868",
+      "bytes": 10060
+    },
+    {
+      "path": "workspace/elpv_research/run_published_methods.py",
+      "sha256": "4e0f71e81b5ad35e702b7372c4e3139a9a108fb6b2bedeb9ecb5577c8e45711d",
+      "bytes": 17261
+    },
+    {
+      "path": "workspace/elpv_research/run_published_methods_reporting_recovery_v1.py",
+      "sha256": "c0221b2092e869e799880a5185d6a45d89a10cfea27fc6ed386d037d9369f14b",
+      "bytes": 5661
+    },
+    {
+      "path": "workspace/elpv_research/run_representation_scale_controls.py",
+      "sha256": "d813f4464bef8f06efc86612417003fd0f09f0b7e36856a795239325b9e449cc",
+      "bytes": 14012
+    },
+    {
+      "path": "workspace/elpv_research/run_ucf_reference_transfer_controls.py",
+      "sha256": "15ef4f58b7206fc4039b0f02f8c828b6b7f8af08842b439219e02f5266ce374b",
+      "bytes": 7386
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_adaptation.py",
+      "sha256": "cbb3c920c5e3159ec71edf3f98a12b1b5a5e6490fe6500006f8e69c5f72be605",
+      "bytes": 1454
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_classical_controls.py",
+      "sha256": "c718dc4b57bff9655b8e5aa849a37d8acc1e74dff84dabf6da0c331f3bd0cddc",
+      "bytes": 2717
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_classification_heads.py",
+      "sha256": "97a18e4bd9ed7bac835f9430999d9694be12ae3f5f08c3654d30bf3a395d1bd3",
+      "bytes": 3791
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_confirmation.py",
+      "sha256": "1727caebe1f3e3a02e36d4565a857ee34ef49d96bdd684f2f0f25182c0229bed",
+      "bytes": 21988
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_confirmation_analysis.py",
+      "sha256": "71fc44232a1573eea8301c512ca714b1249aba64445825e186583293ef335042",
+      "bytes": 9909
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_confirmation_catalog.py",
+      "sha256": "1d7006d0c23b2aba74419bc3938437afd69c6bce5cd4102f30ef199bb8ad2e18",
+      "bytes": 1151
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_confirmation_population.py",
+      "sha256": "10bb5a60df4c78d6f8070cc1aced4c45981bc26dfcab72bda53eb62a885488ff",
+      "bytes": 8236
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_confirmation_workflow.py",
+      "sha256": "14f5522dc6e245f0323f263f27ffeb36d02215a54b97847a1a6f09560c3df53f",
+      "bytes": 10247
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_dense.py",
+      "sha256": "3cbbd6dccff70462dc5403267f7b3f2168ca3cc43270f197462cc55973c4ffb9",
+      "bytes": 1754
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_dense_development_uncertainty.py",
+      "sha256": "b6f24ffc90292c4d0c9843f2b81db1ccdbae2141ef25e1259a1266f58b40c29c",
+      "bytes": 3721
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_dense_source_localization.py",
+      "sha256": "0180fc64aa1b5622b98426fd032ce37b92d90660abd46af0a0d211aef60563c4",
+      "bytes": 1936
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_elpv_supplement.py",
+      "sha256": "b54ebba5b9dec719081457c163f5a93a5cf2aa74298e2342c391a70a60bc7d6c",
+      "bytes": 3568
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_image_failure_analysis.py",
+      "sha256": "237942df94b4c1ada008c75b04bb8ec0d06b04cfa66b66f0843372fa29738f7e",
+      "bytes": 3260
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_inference_efficiency.py",
+      "sha256": "a59154d66331c13e773638fd901250948b5f5a934a7ee6f17071bea7151b1cfa",
+      "bytes": 9085
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_inspection_scenarios.py",
+      "sha256": "a48123e0390bc08071d532ffb900bc4dff31d067634335521b79f9533e6f78da",
+      "bytes": 1452
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_localization_metrics.py",
+      "sha256": "099f30c18a6669f6d1cd60afa7f313285ce451dbc32dc10839563411b9f96f67",
+      "bytes": 2264
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_mechanistic_controls.py",
+      "sha256": "f5a288c5696e99c29282bdff05d6112dab6cb66cbd0b5bfcc7362a6fff2f6229",
+      "bytes": 12460
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_native_replay_guard.py",
+      "sha256": "28d729517aba68eb2226aee1b030465fcc66f9151dbb107cdc251820687e4137",
+      "bytes": 1594
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_near_duplicate_audit.py",
+      "sha256": "3d03cbafaf3e34a95ac6c413e4fd363fa5a9e4a6e2d4c0291c79ad92da5088c9",
+      "bytes": 3671
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_protocol.py",
+      "sha256": "9d4297d59525a8772287409f03391d85446b290c52ddf2249e7c8e4891f4b027",
+      "bytes": 6057
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_publication.py",
+      "sha256": "3eb261dad1ec07d81c672a6a04b0a2d31ec45fff63ac6c4370b4347f154cf5ad",
+      "bytes": 7553
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_publication_dense.py",
+      "sha256": "a90f2103dbe017291eede92fb7b3e41c83e0c76ddc116a445aa4f4555f94124d",
+      "bytes": 8170
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_publication_statistics.py",
+      "sha256": "c75b8f5cf676e38957ceeff68568b36857e10ef88d81f0940a10655418919157",
+      "bytes": 1473
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_published_methods.py",
+      "sha256": "63ee37b92133652e53ce22aa3e260d1f531d884ae1620882a5f42ef317ddc2b5",
+      "bytes": 7440
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_pvelad_annotations.py",
+      "sha256": "9b4984b7dab3f84da7f470fe26c53f6af9810d5c36a538d615a76ad2651a459d",
+      "bytes": 2401
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_representation_controls.py",
+      "sha256": "22b8097097486126610338cea5db48962aef30a38575b5ad1eee6ef1bde2c697",
+      "bytes": 5240
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_secondary_failure_analysis.py",
+      "sha256": "c96972801cc3274606b81bf70838fd034181381ef1731d5aa29c6463ee71011a",
+      "bytes": 8424
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_source_diagnostics.py",
+      "sha256": "893afab2e2df0e2e7c57b0662dbaf10734612b82acfdecf8d48ef377d5998bfb",
+      "bytes": 858
+    },
+    {
+      "path": "workspace/elpv_research/tests/test_streaming_inference.py",
+      "sha256": "f497e67a13d09c0694191884f9a4a4b33c9221c6f2ece389efbd33f2c8fe1559",
+      "bytes": 2305
+    },
+    {
+      "path": "workspace/elpv_research/verify_matched_dino_source_outputs.py",
+      "sha256": "45ecbf261c03be582c180aa928bfd874a61e38443841aac7f6a95220fdd37a6d",
+      "bytes": 19196
+    },
+    {
+      "path": "workspace/elpv_research/verify_matched_dino_source_outputs_v2.py",
+      "sha256": "3e54ef0ef242e70a7bd325c89d0d2d606c1cc6c3dac1c1e0fba15ab39d2b86ee",
+      "bytes": 20647
+    },
+    {
+      "path": "workspace/elpv_research/verify_reviewed_confirmation_preparation_v1.py",
+      "sha256": "3ea11ed93e788f85316471b702d352c7e4253ed94588b0759a0cc954b28b065a",
+      "bytes": 5602
+    }
+  ],
+  "frozen_python_closure": [
+    {
+      "source_path": "analyze_dense_source_localization.py",
+      "snapshot_path": "workspace/elpv_research/analyze_dense_source_localization.py",
+      "sha256": "c679e68061211cce53907df0f36d6de52b79358ff968b1d93470ce442cd3dfcb"
+    },
+    {
+      "source_path": "elresearch/adapt.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/adapt.py",
+      "sha256": "e76e947af4343b51e241c7fe99d118a73109045dbb77cde4599d4cabbc157330"
+    },
+    {
+      "source_path": "elresearch/classical_features.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/classical_features.py",
+      "sha256": "f0b3d4efe950664a52d37c073e3f9461aab5a215ae5949f84de8780f6e159f58"
+    },
+    {
+      "source_path": "elresearch/classical_training.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/classical_training.py",
+      "sha256": "de294d0e315208ae1503c84ac7fff69af381501526e662c366a54b81aeb75839"
+    },
+    {
+      "source_path": "elresearch/classification_heads.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/classification_heads.py",
+      "sha256": "2f9eb5ba6b65eb677bcb8a9d2c41e823d42f68ca1e6e3f02d682c5bed5f67f4b"
+    },
+    {
+      "source_path": "elresearch/common.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/common.py",
+      "sha256": "db4e294cec7d9ebd81ba505dc355693556e161a9d72bcd35916bbd0264ef8753"
+    },
+    {
+      "source_path": "elresearch/confirmation_analysis.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/confirmation_analysis.py",
+      "sha256": "e3eda037915c22a61a85b0cc8ad9cdf79125ed3540efcb702be96d92cb7e8d5f"
+    },
+    {
+      "source_path": "elresearch/confirmation_data.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/confirmation_data.py",
+      "sha256": "ddf727dd8c7e85bd8159ffdaf6af800fe5f28cb6c77036b5688bad3bdb15d862"
+    },
+    {
+      "source_path": "elresearch/confirmation_evaluate.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/confirmation_evaluate.py",
+      "sha256": "cb9de26a8d82cc3854bca83fdc7110ec88e296e7a26800380f442089452bd2a9"
+    },
+    {
+      "source_path": "elresearch/confirmation_population.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/confirmation_population.py",
+      "sha256": "2eb8c433fae34519392cb20a369afd98460c9e80b23f2cb298685f195e673a77"
+    },
+    {
+      "source_path": "elresearch/confirmation_predict.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/confirmation_predict.py",
+      "sha256": "1f36aa885ef07a8cac0e722429b174ea26d2bfa311f88bde820850db79f50e86"
+    },
+    {
+      "source_path": "elresearch/confirmation_registry.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/confirmation_registry.py",
+      "sha256": "e905f8e8e5d29d5011927b16a3f633239578894c187b91ef3ed57a4127e125dc"
+    },
+    {
+      "source_path": "elresearch/confirmation_workflow.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/confirmation_workflow.py",
+      "sha256": "e1dc671170579261505078eda9e9b59636ccc48da489be75a20f25e93389c7a2"
+    },
+    {
+      "source_path": "elresearch/data.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/data.py",
+      "sha256": "037117876f33e6cfd9a80a25d20a78152565e9a3bda4996f227cdeaf2e02d16c"
+    },
+    {
+      "source_path": "elresearch/efficiency_evidence.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/efficiency_evidence.py",
+      "sha256": "d2ff56110d2f46ec107eea9ff86396d65bf622d583e7a7431b596e452569d94e"
+    },
+    {
+      "source_path": "elresearch/elpv_supplement.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/elpv_supplement.py",
+      "sha256": "b7d6b2268ab3af489d6a215bf183eb3ab1b6f806348c48d87ecedcc16d2d459a"
+    },
+    {
+      "source_path": "elresearch/encoders.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/encoders.py",
+      "sha256": "6398bb2b8b8d47bf0cdc53ea3cc1e57a55f1ab10ab8a91b87a3e40d078f42eaa"
+    },
+    {
+      "source_path": "elresearch/full_models.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/full_models.py",
+      "sha256": "f4aa867aa0b77c4b01b7aac63779b39c7162190ef9373ab4c7ce05abe4b3b650"
+    },
+    {
+      "source_path": "elresearch/image_classification.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/image_classification.py",
+      "sha256": "bc05cd41b266dd2a905c4710ec9e0e6dacd783df5f3263b4153717ccebb9c1bc"
+    },
+    {
+      "source_path": "elresearch/inference_efficiency.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/inference_efficiency.py",
+      "sha256": "2c220826ad4611cb5e01fc0c76975263613b68e092076488d3afbda35b0e8148"
+    },
+    {
+      "source_path": "elresearch/inspection_scenarios.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/inspection_scenarios.py",
+      "sha256": "2d364aa46b5b69e26e756984d63c9bcf27528d688cbe3a67998f81efb44a9b04"
+    },
+    {
+      "source_path": "elresearch/localization_metrics.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/localization_metrics.py",
+      "sha256": "360f6c3f5302d1fe677711c70cfd74be45ebddb3f44c3670e5cbde51027d78a3"
+    },
+    {
+      "source_path": "elresearch/lossless_state.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/lossless_state.py",
+      "sha256": "2caf84071e66e7263a9f4b887fa6bf8ad67040d00afdc4777fa729a623387070"
+    },
+    {
+      "source_path": "elresearch/mechanistic_evaluate.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/mechanistic_evaluate.py",
+      "sha256": "7ef8a7a54f6d79645990944f973218d29f1249a98a717c97eeca7f35a5d8c5af"
+    },
+    {
+      "source_path": "elresearch/mechanistic_models.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/mechanistic_models.py",
+      "sha256": "335bcfee2468cd2eb1bce2ee429f0824e5175e77ef67058fcf0a2510e72b0b56"
+    },
+    {
+      "source_path": "elresearch/mechanistic_train.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/mechanistic_train.py",
+      "sha256": "817a7cec631e50d2c043db5ad49456da0c1dc9d2b98f7153daeb7cd90ac69e90"
+    },
+    {
+      "source_path": "elresearch/metrics.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/metrics.py",
+      "sha256": "ba11e7b3516284a38fd4a8afd8459e57ffad5e622d50758b5a5e891a179339b9"
+    },
+    {
+      "source_path": "elresearch/near_duplicate_audit.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/near_duplicate_audit.py",
+      "sha256": "b77b47cda0a5968f85847f547bb1116bbfa2a689bc46071ef41b62b5aef8cfc9"
+    },
+    {
+      "source_path": "elresearch/normal_distance_fit.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/normal_distance_fit.py",
+      "sha256": "ec87698514b12aa3738111bb24368f5cb7e5cbe1cbbbf2e5b47c19bc8f14c895"
+    },
+    {
+      "source_path": "elresearch/packed_normal_bank.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/packed_normal_bank.py",
+      "sha256": "619ce840b68a1fe8f456c2569737c36ce896e4cc25e1676da6c43fa27c99e7cf"
+    },
+    {
+      "source_path": "elresearch/postadapt_encoder.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/postadapt_encoder.py",
+      "sha256": "bc63106b4896acefa845d29838be89ae96d4034baa568f20a286144cc9031b24"
+    },
+    {
+      "source_path": "elresearch/publication_dense_data.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/publication_dense_data.py",
+      "sha256": "f818e704229233ee9a1fb7377bf6b7d43a088938fd7fac455b3fae7ae7b003b6"
+    },
+    {
+      "source_path": "elresearch/publication_dense_models.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/publication_dense_models.py",
+      "sha256": "596848db270982220b665beacf6495d8c9d2fbf376d649f774c47dc741523d05"
+    },
+    {
+      "source_path": "elresearch/publication_dense_train.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/publication_dense_train.py",
+      "sha256": "5c70900164d8072304605ff3b393359bd790488c7c9517c1cba1b62def2f3052"
+    },
+    {
+      "source_path": "elresearch/publication_models.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/publication_models.py",
+      "sha256": "2bb559899ce157214fbee5300984fc52402ce32b68fb53c2822337bac4fbca4d"
+    },
+    {
+      "source_path": "elresearch/publication_normal_bank.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/publication_normal_bank.py",
+      "sha256": "f9f865220f50c6db601670ad349b6bdb74185a6a61de0fa009727cccaea5e6de"
+    },
+    {
+      "source_path": "elresearch/publication_splits.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/publication_splits.py",
+      "sha256": "0934b6951efbd4d0fbdc591380f2784924c184b78765ad49c8cf31ece973a3a9"
+    },
+    {
+      "source_path": "elresearch/publication_statistics.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/publication_statistics.py",
+      "sha256": "f4358dc32730a36d999a23f640aa9577c056d150099f40601467051777853a2d"
+    },
+    {
+      "source_path": "elresearch/publication_train.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/publication_train.py",
+      "sha256": "44a49d7d360934d7736296fb6b17f15973eaca8664a02c3c8e86ba9d07ccf2b3"
+    },
+    {
+      "source_path": "elresearch/published_archive.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/published_archive.py",
+      "sha256": "1926f2eef79de10cbe6dbe9b55a6029b696a765d1627505849f4c8aa2cb2f423"
+    },
+    {
+      "source_path": "elresearch/published_data.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/published_data.py",
+      "sha256": "2a93b2972a8d88d919f042a5eaeb9942316bdab35ea8dd05b7288f6e4a6fdc58"
+    },
+    {
+      "source_path": "elresearch/published_evaluate.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/published_evaluate.py",
+      "sha256": "f19d9a817560be82f8b10e15d94b88074f3efc97e95060adf72c4c98c80ec888"
+    },
+    {
+      "source_path": "elresearch/published_psmt_architecture.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/published_psmt_architecture.py",
+      "sha256": "1f132aa2b9706e20abb5208a329290dbae0f87014b58a7ebd6d9a5d7d5d78fdc"
+    },
+    {
+      "source_path": "elresearch/published_psmt_resnet.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/published_psmt_resnet.py",
+      "sha256": "2d64528791d6ab43f5f5a1ce818ed42f8e313b7aa57e06bd78030d1f7d5b306a"
+    },
+    {
+      "source_path": "elresearch/published_semisup.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/published_semisup.py",
+      "sha256": "8d07692f15ad16049ba0f44bd17939e6f07e384dcd136a37d08bc35c9434ab18"
+    },
+    {
+      "source_path": "elresearch/published_train.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/published_train.py",
+      "sha256": "68b85d8ef6d954523993ae5dfd60e3b5bf341ac89ba6516395e2722626e68083"
+    },
+    {
+      "source_path": "elresearch/published_weights.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/published_weights.py",
+      "sha256": "aec4228c7e24c82c5b6d03acf9f0057db1d2cefc121733c1b447ef4bcf1f95bb"
+    },
+    {
+      "source_path": "elresearch/pvelad_data.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/pvelad_data.py",
+      "sha256": "1596532b4b394c734fdf7f2ce743ad8074f7fafa14295d76b68f340fa39479bd"
+    },
+    {
+      "source_path": "elresearch/representation_features.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/representation_features.py",
+      "sha256": "c32a4b665e5679385c830c4bc742773f3259f225cedb55bad5137bc47b323688"
+    },
+    {
+      "source_path": "elresearch/representation_training.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/representation_training.py",
+      "sha256": "874b1a501e64bdfb02db4a9208c6e3f231050f3d6e000478e13ac7515a91d986"
+    },
+    {
+      "source_path": "elresearch/secondary_failure_analysis.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/secondary_failure_analysis.py",
+      "sha256": "5928d218e115b7bb6fd0ecab7b385f572788294ad363b07432a9704cf15ca1fd"
+    },
+    {
+      "source_path": "elresearch/streaming_inference.py",
+      "snapshot_path": "workspace/elpv_research/elresearch/streaming_inference.py",
+      "sha256": "f452bb1109a42df6f08b9a0465874504c0203ff3eebec3a8bc99e8a1e566aa21"
+    },
+    {
+      "source_path": "review_similarity_candidates.py",
+      "snapshot_path": "workspace/elpv_research/review_similarity_candidates.py",
+      "sha256": "92b6bf6287d33eb2e0c63a6f4700d721600f636b10e4c4d2f2e7c218e419105a"
+    },
+    {
+      "source_path": "run_confirmation_workflow.py",
+      "snapshot_path": "workspace/elpv_research/run_confirmation_workflow.py",
+      "sha256": "c1e906f6a447913da9e2c97d4d190bed40993c81d99854248cd9a08b5e96bbda"
+    },
+    {
+      "source_path": "run_elpv_supplement.py",
+      "snapshot_path": "workspace/elpv_research/run_elpv_supplement.py",
+      "sha256": "00961ae6c2ed5c1116344be3e096f83704980cdfe36a8cf32c2e4375401490d0"
+    },
+    {
+      "source_path": "run_near_duplicate_audit.py",
+      "snapshot_path": "workspace/elpv_research/run_near_duplicate_audit.py",
+      "sha256": "ac54989ce53aa120a069dfbe18cf61c54ba254882644f9405c25dd17395b0294"
+    }
+  ],
+  "scope": "Code-only PRIVATE preparation. No implementation-suite or performance replay, no new registry/target inference and no release authorization."
+}

@@ -1,0 +1,865 @@
+fold,budget,family,seed,endpoint,value,training_images,validation_images,population,cell_id
+internal,0.05,deeplabv3plus_full,11,image_AUROC,0.7034231200897868,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,deeplabv3plus_full,11,native_pixel_AP,0.1734176638872666,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,deeplabv3plus_full,11,positive_image_Dice,0.10670023296097098,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,deeplabv3plus_full,11,positive_image_IoU,0.061928587223846546,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,deeplabv3plus_full,11,image_recall,0.9629629629629629,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,deeplabv3plus_full,11,review_fraction,0.9583333333333334,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,deeplabv3plus_full,22,image_AUROC,0.5561167227833894,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,deeplabv3plus_full,22,native_pixel_AP,0.21621934092996642,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,deeplabv3plus_full,22,positive_image_Dice,0.049833701544492646,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,deeplabv3plus_full,22,positive_image_IoU,0.030351522984325856,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,deeplabv3plus_full,22,image_recall,0.9629629629629629,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,deeplabv3plus_full,22,review_fraction,0.95,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,deeplabv3plus_full,33,image_AUROC,0.7264309764309764,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,deeplabv3plus_full,33,native_pixel_AP,0.15287936539010716,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,deeplabv3plus_full,33,positive_image_Dice,0.0,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,deeplabv3plus_full,33,positive_image_IoU,0.0,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,deeplabv3plus_full,33,image_recall,0.9629629629629629,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,deeplabv3plus_full,33,review_fraction,0.9166666666666666,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_frozen,11,image_AUROC,0.6007295173961841,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_frozen,11,native_pixel_AP,0.10052797336211575,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_frozen,11,positive_image_Dice,0.0,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_frozen,11,positive_image_IoU,0.0,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_frozen,11,image_recall,0.9629629629629629,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_frozen,11,review_fraction,0.95,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_frozen,22,image_AUROC,0.5836139169472503,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_frozen,22,native_pixel_AP,0.21532909593788385,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_frozen,22,positive_image_Dice,0.09127312205422003,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_frozen,22,positive_image_IoU,0.05307931125782045,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_frozen,22,image_recall,0.9629629629629629,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_frozen,22,review_fraction,0.875,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_frozen,33,image_AUROC,0.7918069584736251,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_frozen,33,native_pixel_AP,0.15651345094242722,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_frozen,33,positive_image_Dice,0.06749677514583853,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_frozen,33,positive_image_IoU,0.03887462530414509,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_frozen,33,image_recall,0.9629629629629629,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_frozen,33,review_fraction,0.775,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_lora,11,image_AUROC,0.7847923681257014,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_lora,11,native_pixel_AP,0.13257000540481462,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_lora,11,positive_image_Dice,0.13802037295040015,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_lora,11,positive_image_IoU,0.07861378092510288,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_lora,11,image_recall,0.9629629629629629,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_lora,11,review_fraction,0.875,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_lora,22,image_AUROC,0.8274410774410774,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_lora,22,native_pixel_AP,0.22848896686975476,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_lora,22,positive_image_Dice,0.10053939593647712,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_lora,22,positive_image_IoU,0.058550677242670816,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_lora,22,image_recall,0.9629629629629629,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_lora,22,review_fraction,0.7416666666666667,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_lora,33,image_AUROC,0.8720538720538721,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_lora,33,native_pixel_AP,0.17003241073809203,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_lora,33,positive_image_Dice,0.13222027703434924,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_lora,33,positive_image_IoU,0.07461556278149732,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_lora,33,image_recall,0.9629629629629629,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_lora,33,review_fraction,0.7833333333333333,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_full,11,image_AUROC,0.7312008978675646,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_full,11,native_pixel_AP,0.13742770844042007,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_full,11,positive_image_Dice,0.12659581459252933,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_full,11,positive_image_IoU,0.07316572511858678,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_full,11,image_recall,0.9629629629629629,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_full,11,review_fraction,0.9416666666666667,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_full,22,image_AUROC,0.6315937149270483,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_full,22,native_pixel_AP,0.2128715486098395,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_full,22,positive_image_Dice,0.12615790185689527,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_full,22,positive_image_IoU,0.07259351600753335,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_full,22,image_recall,0.9629629629629629,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_full,22,review_fraction,0.8583333333333333,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_full,33,image_AUROC,0.8897306397306397,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_full,33,native_pixel_AP,0.19515771206619678,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_full,33,positive_image_Dice,0.0762044629399119,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_full,33,positive_image_IoU,0.04451653220044697,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_full,33,image_recall,0.9629629629629629,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_full,33,review_fraction,0.7583333333333333,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_reference,11,image_AUROC,0.7174523007856339,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_reference,11,native_pixel_AP,0.1294970240618388,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_reference,11,positive_image_Dice,0.15957730381743446,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_reference,11,positive_image_IoU,0.09125208386374845,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_reference,11,image_recall,0.9629629629629629,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_reference,11,review_fraction,0.9333333333333333,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_reference,22,image_AUROC,0.6372053872053872,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_reference,22,native_pixel_AP,0.19697986682866456,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_reference,22,positive_image_Dice,0.15186534730084503,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_reference,22,positive_image_IoU,0.08712116093075703,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_reference,22,image_recall,0.9629629629629629,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_reference,22,review_fraction,0.825,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_reference,33,image_AUROC,0.8055555555555555,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_reference,33,native_pixel_AP,0.1565946120657999,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_reference,33,positive_image_Dice,0.07061931050820587,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_reference,33,positive_image_IoU,0.04058196643328383,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_reference,33,image_recall,0.9629629629629629,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.05,dinov3_dense_reference,33,review_fraction,0.8,18,120,source validation reused for checkpoint selection,b52a8173eafa46b25882
+internal,0.1,deeplabv3plus_full,11,image_AUROC,0.7797418630751964,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,deeplabv3plus_full,11,native_pixel_AP,0.21660446999923091,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,deeplabv3plus_full,11,positive_image_Dice,0.1440772952116783,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,deeplabv3plus_full,11,positive_image_IoU,0.08446743265845154,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,deeplabv3plus_full,11,image_recall,0.9629629629629629,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,deeplabv3plus_full,11,review_fraction,0.9166666666666666,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,deeplabv3plus_full,22,image_AUROC,0.7171717171717171,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,deeplabv3plus_full,22,native_pixel_AP,0.2169796582350785,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,deeplabv3plus_full,22,positive_image_Dice,0.10140020537286709,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,deeplabv3plus_full,22,positive_image_IoU,0.05917769898632527,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,deeplabv3plus_full,22,image_recall,0.9629629629629629,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,deeplabv3plus_full,22,review_fraction,0.95,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,deeplabv3plus_full,33,image_AUROC,0.8925364758698092,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,deeplabv3plus_full,33,native_pixel_AP,0.30085844346626295,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,deeplabv3plus_full,33,positive_image_Dice,0.25470774466096774,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,deeplabv3plus_full,33,positive_image_IoU,0.1556476637981683,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,deeplabv3plus_full,33,image_recall,0.9629629629629629,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,deeplabv3plus_full,33,review_fraction,0.75,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_frozen,11,image_AUROC,0.6722783389450055,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_frozen,11,native_pixel_AP,0.133348361419521,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_frozen,11,positive_image_Dice,0.0,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_frozen,11,positive_image_IoU,0.0,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_frozen,11,image_recall,0.9629629629629629,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_frozen,11,review_fraction,0.9166666666666666,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_frozen,22,image_AUROC,0.6916386083052749,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_frozen,22,native_pixel_AP,0.19678506629482825,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_frozen,22,positive_image_Dice,0.10978531751224416,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_frozen,22,positive_image_IoU,0.06352699003083764,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_frozen,22,image_recall,0.9629629629629629,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_frozen,22,review_fraction,0.8916666666666667,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_frozen,33,image_AUROC,0.7988215488215489,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_frozen,33,native_pixel_AP,0.19740003505086615,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_frozen,33,positive_image_Dice,0.13602509870849333,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_frozen,33,positive_image_IoU,0.07765197827992051,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_frozen,33,image_recall,0.9629629629629629,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_frozen,33,review_fraction,0.7583333333333333,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_lora,11,image_AUROC,0.8599887766554433,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_lora,11,native_pixel_AP,0.2009220997787739,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_lora,11,positive_image_Dice,0.16815499473965032,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_lora,11,positive_image_IoU,0.09820622449607679,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_lora,11,image_recall,0.9629629629629629,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_lora,11,review_fraction,0.75,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_lora,22,image_AUROC,0.9276094276094277,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_lora,22,native_pixel_AP,0.22484017769154785,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_lora,22,positive_image_Dice,0.16626114303234932,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_lora,22,positive_image_IoU,0.0966494235728082,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_lora,22,image_recall,0.9629629629629629,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_lora,22,review_fraction,0.7,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_lora,33,image_AUROC,0.9009539842873177,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_lora,33,native_pixel_AP,0.22985603909174002,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_lora,33,positive_image_Dice,0.0500817652385466,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_lora,33,positive_image_IoU,0.029930694937534457,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_lora,33,image_recall,0.9629629629629629,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_lora,33,review_fraction,0.8666666666666667,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_full,11,image_AUROC,0.8313692480359147,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_full,11,native_pixel_AP,0.20279026505069858,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_full,11,positive_image_Dice,0.161340096873764,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_full,11,positive_image_IoU,0.09450324244998486,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_full,11,image_recall,0.9629629629629629,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_full,11,review_fraction,0.9083333333333333,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_full,22,image_AUROC,0.8453984287317621,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_full,22,native_pixel_AP,0.17992481406608216,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_full,22,positive_image_Dice,0.08502388628937795,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_full,22,positive_image_IoU,0.049119356918290384,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_full,22,image_recall,0.9629629629629629,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_full,22,review_fraction,0.7666666666666667,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_full,33,image_AUROC,0.9026374859708194,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_full,33,native_pixel_AP,0.19987383383337493,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_full,33,positive_image_Dice,0.12014029976922952,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_full,33,positive_image_IoU,0.06953394455562309,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_full,33,image_recall,0.9629629629629629,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_full,33,review_fraction,0.7416666666666667,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_reference,11,image_AUROC,0.8162177328843996,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_reference,11,native_pixel_AP,0.17222204146922193,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_reference,11,positive_image_Dice,0.14644149587829694,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_reference,11,positive_image_IoU,0.08296806278937525,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_reference,11,image_recall,0.9629629629629629,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_reference,11,review_fraction,0.775,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_reference,22,image_AUROC,0.717452300785634,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_reference,22,native_pixel_AP,0.21205595801060853,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_reference,22,positive_image_Dice,0.1346839642001432,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_reference,22,positive_image_IoU,0.07726588148058271,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_reference,22,image_recall,0.9629629629629629,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_reference,22,review_fraction,0.925,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_reference,33,image_AUROC,0.787037037037037,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_reference,33,native_pixel_AP,0.1768280984283636,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_reference,33,positive_image_Dice,0.03560980192548294,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_reference,33,positive_image_IoU,0.019969822658694916,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_reference,33,image_recall,0.9629629629629629,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.1,dinov3_dense_reference,33,review_fraction,0.8166666666666667,36,120,source validation reused for checkpoint selection,4174ebd4079e6899a060
+internal,0.2,deeplabv3plus_full,11,image_AUROC,0.7533670033670034,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,deeplabv3plus_full,11,native_pixel_AP,0.20928363141936743,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,deeplabv3plus_full,11,positive_image_Dice,0.11493010281948221,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,deeplabv3plus_full,11,positive_image_IoU,0.06780935102813296,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,deeplabv3plus_full,11,image_recall,0.9629629629629629,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,deeplabv3plus_full,11,review_fraction,0.9083333333333333,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,deeplabv3plus_full,22,image_AUROC,0.8167789001122334,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,deeplabv3plus_full,22,native_pixel_AP,0.2185194621687867,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,deeplabv3plus_full,22,positive_image_Dice,0.15957039086277153,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,deeplabv3plus_full,22,positive_image_IoU,0.09236328945335498,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,deeplabv3plus_full,22,image_recall,0.9629629629629629,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,deeplabv3plus_full,22,review_fraction,0.9,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,deeplabv3plus_full,33,image_AUROC,0.8726150392817059,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,deeplabv3plus_full,33,native_pixel_AP,0.24430511414433725,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,deeplabv3plus_full,33,positive_image_Dice,0.19087279342704894,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,deeplabv3plus_full,33,positive_image_IoU,0.11106547590334424,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,deeplabv3plus_full,33,image_recall,0.9629629629629629,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,deeplabv3plus_full,33,review_fraction,0.725,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_frozen,11,image_AUROC,0.8344556677890012,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_frozen,11,native_pixel_AP,0.17952075937637074,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_frozen,11,positive_image_Dice,0.1347727592642664,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_frozen,11,positive_image_IoU,0.07561426493412417,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_frozen,11,image_recall,0.9629629629629629,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_frozen,11,review_fraction,0.85,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_frozen,22,image_AUROC,0.7457912457912458,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_frozen,22,native_pixel_AP,0.21020254069405897,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_frozen,22,positive_image_Dice,0.09391171174946608,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_frozen,22,positive_image_IoU,0.05680221485080303,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_frozen,22,image_recall,0.9629629629629629,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_frozen,22,review_fraction,0.825,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_frozen,33,image_AUROC,0.7884399551066217,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_frozen,33,native_pixel_AP,0.11186589131831531,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_frozen,33,positive_image_Dice,0.05337120056758057,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_frozen,33,positive_image_IoU,0.03155462376827699,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_frozen,33,image_recall,0.9629629629629629,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_frozen,33,review_fraction,0.8333333333333334,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_lora,11,image_AUROC,0.9343434343434344,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_lora,11,native_pixel_AP,0.19491247757334565,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_lora,11,positive_image_Dice,0.17478090271009236,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_lora,11,positive_image_IoU,0.10044124052663748,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_lora,11,image_recall,0.9629629629629629,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_lora,11,review_fraction,0.5833333333333334,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_lora,22,image_AUROC,0.9478114478114478,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_lora,22,native_pixel_AP,0.19785080445357794,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_lora,22,positive_image_Dice,0.17579549106139108,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_lora,22,positive_image_IoU,0.10137149360752423,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_lora,22,image_recall,0.9629629629629629,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_lora,22,review_fraction,0.625,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_lora,33,image_AUROC,0.9267676767676768,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_lora,33,native_pixel_AP,0.2057901853516935,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_lora,33,positive_image_Dice,0.12992550268565653,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_lora,33,positive_image_IoU,0.07424107358679033,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_lora,33,image_recall,0.9629629629629629,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_lora,33,review_fraction,0.775,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_full,11,image_AUROC,0.9200336700336701,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_full,11,native_pixel_AP,0.22356453628807596,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_full,11,positive_image_Dice,0.10456291156535837,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_full,11,positive_image_IoU,0.06119553058853762,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_full,11,image_recall,0.9629629629629629,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_full,11,review_fraction,0.7333333333333333,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_full,22,image_AUROC,0.9385521885521886,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_full,22,native_pixel_AP,0.2240185134942618,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_full,22,positive_image_Dice,0.16901964803745656,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_full,22,positive_image_IoU,0.09940242561689584,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_full,22,image_recall,0.9629629629629629,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_full,22,review_fraction,0.7333333333333333,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_full,33,image_AUROC,0.9236812570145904,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_full,33,native_pixel_AP,0.1950385566768635,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_full,33,positive_image_Dice,0.17878259734453475,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_full,33,positive_image_IoU,0.10324171792272951,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_full,33,image_recall,0.9629629629629629,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_full,33,review_fraction,0.775,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_reference,11,image_AUROC,0.8282828282828282,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_reference,11,native_pixel_AP,0.18453742696801223,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_reference,11,positive_image_Dice,0.15816538549158052,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_reference,11,positive_image_IoU,0.09026404938059927,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_reference,11,image_recall,0.9629629629629629,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_reference,11,review_fraction,0.8583333333333333,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_reference,22,image_AUROC,0.6952861952861953,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_reference,22,native_pixel_AP,0.20142663053808693,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_reference,22,positive_image_Dice,0.09940574629945322,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_reference,22,positive_image_IoU,0.05683560857833361,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_reference,22,image_recall,0.9629629629629629,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_reference,22,review_fraction,0.8916666666666667,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_reference,33,image_AUROC,0.8251964085297419,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_reference,33,native_pixel_AP,0.23286259886118052,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_reference,33,positive_image_Dice,0.1565073109298368,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_reference,33,positive_image_IoU,0.08891124926565076,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_reference,33,image_recall,0.9629629629629629,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_dense_reference,33,review_fraction,0.825,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_no_position,11,image_AUROC,0.8150953984287318,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_no_position,11,native_pixel_AP,0.1569487700987148,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_no_position,11,positive_image_Dice,0.14567754178199874,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_no_position,11,positive_image_IoU,0.08227617011402914,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_no_position,11,image_recall,0.9629629629629629,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_no_position,11,review_fraction,0.8166666666666667,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_no_position,22,image_AUROC,0.7584175084175084,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_no_position,22,native_pixel_AP,0.21061495794912813,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_no_position,22,positive_image_Dice,0.15764853062802708,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_no_position,22,positive_image_IoU,0.0917458004065483,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_no_position,22,image_recall,0.9629629629629629,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_no_position,22,review_fraction,0.8166666666666667,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_no_position,33,image_AUROC,0.839786756453423,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_no_position,33,native_pixel_AP,0.2282499998332272,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_no_position,33,positive_image_Dice,0.16824109686557412,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_no_position,33,positive_image_IoU,0.09530426200227515,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_no_position,33,image_recall,0.9629629629629629,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_no_position,33,review_fraction,0.8,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_mean_evidence,11,image_AUROC,0.8170594837261504,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_mean_evidence,11,native_pixel_AP,0.1917584957260882,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_mean_evidence,11,positive_image_Dice,0.16778634763635647,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_mean_evidence,11,positive_image_IoU,0.09558920787805801,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_mean_evidence,11,image_recall,0.9629629629629629,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_mean_evidence,11,review_fraction,0.8583333333333333,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_mean_evidence,22,image_AUROC,0.7202581369248034,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_mean_evidence,22,native_pixel_AP,0.2307060320189393,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_mean_evidence,22,positive_image_Dice,0.1371362935375235,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_mean_evidence,22,positive_image_IoU,0.0795806784082128,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_mean_evidence,22,image_recall,0.9629629629629629,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_mean_evidence,22,review_fraction,0.8333333333333334,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_mean_evidence,33,image_AUROC,0.7676767676767677,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_mean_evidence,33,native_pixel_AP,0.14385239895051524,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_mean_evidence,33,positive_image_Dice,0.0,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_mean_evidence,33,positive_image_IoU,0.0,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_mean_evidence,33,image_recall,0.9629629629629629,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,0.2,dinov3_reference_mean_evidence,33,review_fraction,0.8333333333333334,70,120,source validation reused for checkpoint selection,b4a1cb91db4c3aff36cb
+internal,1.0,deeplabv3plus_full,11,image_AUROC,0.8664421997755332,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,deeplabv3plus_full,11,native_pixel_AP,0.24282607296670386,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,deeplabv3plus_full,11,positive_image_Dice,0.1987662937313914,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,deeplabv3plus_full,11,positive_image_IoU,0.11531197310773267,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,deeplabv3plus_full,11,image_recall,0.9629629629629629,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,deeplabv3plus_full,11,review_fraction,0.6583333333333333,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,deeplabv3plus_full,22,image_AUROC,0.9001122334455668,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,deeplabv3plus_full,22,native_pixel_AP,0.2536537257110542,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,deeplabv3plus_full,22,positive_image_Dice,0.18512518594071303,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,deeplabv3plus_full,22,positive_image_IoU,0.10727916635118968,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,deeplabv3plus_full,22,image_recall,0.9629629629629629,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,deeplabv3plus_full,22,review_fraction,0.7583333333333333,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,deeplabv3plus_full,33,image_AUROC,0.7811447811447811,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,deeplabv3plus_full,33,native_pixel_AP,0.25164793602999086,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,deeplabv3plus_full,33,positive_image_Dice,0.20947176124158404,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,deeplabv3plus_full,33,positive_image_IoU,0.12335400731424491,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,deeplabv3plus_full,33,image_recall,0.9629629629629629,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,deeplabv3plus_full,33,review_fraction,0.825,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_frozen,11,image_AUROC,0.8585858585858586,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_frozen,11,native_pixel_AP,0.22132136561516122,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_frozen,11,positive_image_Dice,0.08885577091444102,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_frozen,11,positive_image_IoU,0.05084251517035748,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_frozen,11,image_recall,0.9629629629629629,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_frozen,11,review_fraction,0.7083333333333334,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_frozen,22,image_AUROC,0.8846801346801347,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_frozen,22,native_pixel_AP,0.21307089979371457,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_frozen,22,positive_image_Dice,0.09770980084231543,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_frozen,22,positive_image_IoU,0.05745574307168445,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_frozen,22,image_recall,0.9629629629629629,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_frozen,22,review_fraction,0.7,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_frozen,33,image_AUROC,0.872895622895623,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_frozen,33,native_pixel_AP,0.1846834723026933,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_frozen,33,positive_image_Dice,0.15006163659740032,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_frozen,33,positive_image_IoU,0.08632722212676332,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_frozen,33,image_recall,0.9629629629629629,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_frozen,33,review_fraction,0.725,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_lora,11,image_AUROC,0.952300785634119,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_lora,11,native_pixel_AP,0.23264744342295898,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_lora,11,positive_image_Dice,0.09300136893804911,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_lora,11,positive_image_IoU,0.05584204483156516,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_lora,11,image_recall,0.9629629629629629,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_lora,11,review_fraction,0.6916666666666667,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_lora,22,image_AUROC,0.9677328843995511,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_lora,22,native_pixel_AP,0.23039668168039235,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_lora,22,positive_image_Dice,0.16598651006464207,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_lora,22,positive_image_IoU,0.09607609315193966,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_lora,22,image_recall,0.9629629629629629,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_lora,22,review_fraction,0.6583333333333333,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_lora,33,image_AUROC,0.962682379349046,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_lora,33,native_pixel_AP,0.2103559204661486,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_lora,33,positive_image_Dice,0.18764176199066107,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_lora,33,positive_image_IoU,0.11042922386108983,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_lora,33,image_recall,0.9629629629629629,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_lora,33,review_fraction,0.6833333333333333,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_full,11,image_AUROC,0.9663299663299664,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_full,11,native_pixel_AP,0.2517097849730038,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_full,11,positive_image_Dice,0.15227287542840826,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_full,11,positive_image_IoU,0.0867718979483864,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_full,11,image_recall,0.9629629629629629,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_full,11,review_fraction,0.6666666666666666,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_full,22,image_AUROC,0.9534231200897868,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_full,22,native_pixel_AP,0.24735001209327306,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_full,22,positive_image_Dice,0.14045234939817094,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_full,22,positive_image_IoU,0.0823408761721119,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_full,22,image_recall,0.9629629629629629,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_full,22,review_fraction,0.6833333333333333,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_full,33,image_AUROC,0.962962962962963,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_full,33,native_pixel_AP,0.18762375229896314,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_full,33,positive_image_Dice,0.1479347226909518,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_full,33,positive_image_IoU,0.08435577560459562,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_full,33,image_recall,0.9629629629629629,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_full,33,review_fraction,0.675,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_reference,11,image_AUROC,0.877665544332211,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_reference,11,native_pixel_AP,0.21802875811523686,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_reference,11,positive_image_Dice,0.13463653341165077,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_reference,11,positive_image_IoU,0.07732567065587428,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_reference,11,image_recall,0.9629629629629629,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_reference,11,review_fraction,0.6416666666666667,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_reference,22,image_AUROC,0.8712121212121212,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_reference,22,native_pixel_AP,0.20364567353533475,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_reference,22,positive_image_Dice,0.15998347496624366,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_reference,22,positive_image_IoU,0.09262915068257514,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_reference,22,image_recall,0.9629629629629629,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_reference,22,review_fraction,0.7666666666666667,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_reference,33,image_AUROC,0.872053872053872,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_reference,33,native_pixel_AP,0.2009830104174279,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_reference,33,positive_image_Dice,0.12323682314139998,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_reference,33,positive_image_IoU,0.0713807302506876,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_reference,33,image_recall,0.9629629629629629,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_dense_reference,33,review_fraction,0.775,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_no_position,11,image_AUROC,0.8653198653198654,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_no_position,11,native_pixel_AP,0.1968625305406356,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_no_position,11,positive_image_Dice,0.1374919403179483,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_no_position,11,positive_image_IoU,0.0786058573247064,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_no_position,11,image_recall,0.9629629629629629,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_no_position,11,review_fraction,0.6583333333333333,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_no_position,22,image_AUROC,0.888327721661055,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_no_position,22,native_pixel_AP,0.22825264677868198,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_no_position,22,positive_image_Dice,0.14445734626688136,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_no_position,22,positive_image_IoU,0.0829584123973733,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_no_position,22,image_recall,0.9629629629629629,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_no_position,22,review_fraction,0.6666666666666666,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_no_position,33,image_AUROC,0.8827160493827161,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_no_position,33,native_pixel_AP,0.1727358078356941,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_no_position,33,positive_image_Dice,0.14925305986670134,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_no_position,33,positive_image_IoU,0.08485687783173174,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_no_position,33,image_recall,0.9629629629629629,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_no_position,33,review_fraction,0.7,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_mean_evidence,11,image_AUROC,0.8821548821548821,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_mean_evidence,11,native_pixel_AP,0.24521174611061486,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_mean_evidence,11,positive_image_Dice,0.19369665773900951,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_mean_evidence,11,positive_image_IoU,0.11128071159984633,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_mean_evidence,11,image_recall,0.9629629629629629,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_mean_evidence,11,review_fraction,0.625,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_mean_evidence,22,image_AUROC,0.8869248035914702,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_mean_evidence,22,native_pixel_AP,0.24389732852261276,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_mean_evidence,22,positive_image_Dice,0.1715751550842398,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_mean_evidence,22,positive_image_IoU,0.09862424847759926,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_mean_evidence,22,image_recall,0.9629629629629629,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_mean_evidence,22,review_fraction,0.65,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_mean_evidence,33,image_AUROC,0.8709315375982042,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_mean_evidence,33,native_pixel_AP,0.20069656687718687,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_mean_evidence,33,positive_image_Dice,0.1490098069239704,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_mean_evidence,33,positive_image_IoU,0.08636938418898694,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_mean_evidence,33,image_recall,0.9629629629629629,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+internal,1.0,dinov3_reference_mean_evidence,33,review_fraction,0.675,351,120,source validation reused for checkpoint selection,500fb2f1d0e7ef394a78
+holdout_ARTS,0.2,deeplabv3plus_full,11,image_AUROC,0.6427672955974844,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,deeplabv3plus_full,11,native_pixel_AP,0.04113996780458131,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,deeplabv3plus_full,11,positive_image_Dice,0.09865196530111767,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,deeplabv3plus_full,11,positive_image_IoU,0.05562122088198007,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,deeplabv3plus_full,11,image_recall,0.8666666666666667,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,deeplabv3plus_full,11,review_fraction,0.8874172185430463,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,deeplabv3plus_full,22,image_AUROC,0.3427672955974843,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,deeplabv3plus_full,22,native_pixel_AP,0.001421124057291493,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,deeplabv3plus_full,22,positive_image_Dice,0.0,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,deeplabv3plus_full,22,positive_image_IoU,0.0,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,deeplabv3plus_full,22,image_recall,0.13333333333333333,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,deeplabv3plus_full,22,review_fraction,0.23841059602649006,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,deeplabv3plus_full,33,image_AUROC,0.7213836477987421,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,deeplabv3plus_full,33,native_pixel_AP,0.08243470987898495,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,deeplabv3plus_full,33,positive_image_Dice,0.2112303590406324,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,deeplabv3plus_full,33,positive_image_IoU,0.12660476207825527,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,deeplabv3plus_full,33,image_recall,0.8888888888888888,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,deeplabv3plus_full,33,review_fraction,0.6688741721854304,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_frozen,11,image_AUROC,0.6452830188679246,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_frozen,11,native_pixel_AP,0.031356721077076974,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_frozen,11,positive_image_Dice,0.03990019389276668,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_frozen,11,positive_image_IoU,0.02164521209374533,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_frozen,11,image_recall,0.7333333333333333,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_frozen,11,review_fraction,0.6291390728476821,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_frozen,22,image_AUROC,0.5106918238993711,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_frozen,22,native_pixel_AP,0.018057382994376824,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_frozen,22,positive_image_Dice,0.03541349228078902,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_frozen,22,positive_image_IoU,0.019448412684557194,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_frozen,22,image_recall,0.6888888888888889,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_frozen,22,review_fraction,0.7086092715231788,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_frozen,33,image_AUROC,0.6186582809224318,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_frozen,33,native_pixel_AP,0.056658706311584345,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_frozen,33,positive_image_Dice,0.09036477301799883,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_frozen,33,positive_image_IoU,0.04925522021947384,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_frozen,33,image_recall,0.3333333333333333,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_frozen,33,review_fraction,0.24503311258278146,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_lora,11,image_AUROC,0.7712788259958071,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_lora,11,native_pixel_AP,0.030384498224717976,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_lora,11,positive_image_Dice,0.05145271982547011,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_lora,11,positive_image_IoU,0.028231639225508677,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_lora,11,image_recall,0.7333333333333333,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_lora,11,review_fraction,0.37748344370860926,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_lora,22,image_AUROC,0.8763102725366877,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_lora,22,native_pixel_AP,0.0756767167344536,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_lora,22,positive_image_Dice,0.1152698187221444,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_lora,22,positive_image_IoU,0.06431862792601961,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_lora,22,image_recall,0.8888888888888888,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_lora,22,review_fraction,0.6225165562913907,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_lora,33,image_AUROC,0.8287211740041929,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_lora,33,native_pixel_AP,0.05285110573892133,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_lora,33,positive_image_Dice,0.10072714304175173,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_lora,33,positive_image_IoU,0.057472123194729434,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_lora,33,image_recall,0.6666666666666666,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_lora,33,review_fraction,0.32450331125827814,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_reference,11,image_AUROC,0.6448637316561845,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_reference,11,native_pixel_AP,0.03637586255965897,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_reference,11,positive_image_Dice,0.07093796747526539,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_reference,11,positive_image_IoU,0.0389178755596318,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_reference,11,image_recall,0.7333333333333333,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_reference,11,review_fraction,0.6622516556291391,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_reference,22,image_AUROC,0.5528301886792453,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_reference,22,native_pixel_AP,0.03694976762272251,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_reference,22,positive_image_Dice,0.06181371132436843,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_reference,22,positive_image_IoU,0.034028393962418906,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_reference,22,image_recall,0.4888888888888889,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_reference,22,review_fraction,0.44370860927152317,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_reference,33,image_AUROC,0.6584905660377358,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_reference,33,native_pixel_AP,0.049598432884569284,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_reference,33,positive_image_Dice,0.07705692820023177,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_reference,33,positive_image_IoU,0.04128034126346242,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_reference,33,image_recall,0.37777777777777777,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,0.2,dinov3_dense_reference,33,review_fraction,0.25165562913907286,51,65,registered acquisition-held-out development; source-frozen decisions,9d9bafdd9c746564bd62
+holdout_ARTS,1.0,deeplabv3plus_full,11,image_AUROC,0.4649895178197065,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,deeplabv3plus_full,11,native_pixel_AP,0.028291437025138543,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,deeplabv3plus_full,11,positive_image_Dice,0.10052626302872439,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,deeplabv3plus_full,11,positive_image_IoU,0.05498083363388741,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,deeplabv3plus_full,11,image_recall,0.9555555555555556,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,deeplabv3plus_full,11,review_fraction,0.9205298013245033,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,deeplabv3plus_full,22,image_AUROC,0.5777777777777777,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,deeplabv3plus_full,22,native_pixel_AP,0.05020262475482099,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,deeplabv3plus_full,22,positive_image_Dice,0.12190213896785727,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,deeplabv3plus_full,22,positive_image_IoU,0.0670816408596574,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,deeplabv3plus_full,22,image_recall,1.0,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,deeplabv3plus_full,22,review_fraction,0.9668874172185431,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,deeplabv3plus_full,33,image_AUROC,0.709853249475891,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,deeplabv3plus_full,33,native_pixel_AP,0.14413800968381998,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,deeplabv3plus_full,33,positive_image_Dice,0.17708979370601927,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,deeplabv3plus_full,33,positive_image_IoU,0.10005482243628944,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,deeplabv3plus_full,33,image_recall,0.9555555555555556,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,deeplabv3plus_full,33,review_fraction,0.8609271523178808,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_frozen,11,image_AUROC,0.7251572327044025,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_frozen,11,native_pixel_AP,0.06344008022280084,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_frozen,11,positive_image_Dice,0.06804059118757289,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_frozen,11,positive_image_IoU,0.03688123868346412,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_frozen,11,image_recall,0.9333333333333333,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_frozen,11,review_fraction,0.7880794701986755,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_frozen,22,image_AUROC,0.7429769392033543,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_frozen,22,native_pixel_AP,0.06817972870056009,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_frozen,22,positive_image_Dice,0.0892054277405832,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_frozen,22,positive_image_IoU,0.04905400485026606,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_frozen,22,image_recall,0.8888888888888888,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_frozen,22,review_fraction,0.7284768211920529,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_frozen,33,image_AUROC,0.7283018867924528,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_frozen,33,native_pixel_AP,0.06411066435199164,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_frozen,33,positive_image_Dice,0.08849058813972947,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_frozen,33,positive_image_IoU,0.04806243571115264,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_frozen,33,image_recall,0.8,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_frozen,33,review_fraction,0.5562913907284768,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_lora,11,image_AUROC,0.9062893081761006,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_lora,11,native_pixel_AP,0.07858887370696664,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_lora,11,positive_image_Dice,0.10157811265845904,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_lora,11,positive_image_IoU,0.05616347540410731,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_lora,11,image_recall,0.9777777777777777,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_lora,11,review_fraction,0.9006622516556292,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_lora,22,image_AUROC,0.8828092243186583,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_lora,22,native_pixel_AP,0.06675166335165032,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_lora,22,positive_image_Dice,0.0737650047179591,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_lora,22,positive_image_IoU,0.04026162392050549,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_lora,22,image_recall,1.0,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_lora,22,review_fraction,0.8145695364238411,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_lora,33,image_AUROC,0.8559748427672956,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_lora,33,native_pixel_AP,0.07037471223694942,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_lora,33,positive_image_Dice,0.10505426623286525,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_lora,33,positive_image_IoU,0.05833840208399995,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_lora,33,image_recall,0.9333333333333333,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_lora,33,review_fraction,0.6887417218543046,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_reference,11,image_AUROC,0.7285115303983228,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_reference,11,native_pixel_AP,0.062289170701244054,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_reference,11,positive_image_Dice,0.07792112346649135,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_reference,11,positive_image_IoU,0.04303904636483217,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_reference,11,image_recall,0.7777777777777778,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_reference,11,review_fraction,0.5827814569536424,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_reference,22,image_AUROC,0.7488469601677149,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_reference,22,native_pixel_AP,0.07630028974540301,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_reference,22,positive_image_Dice,0.10805052145405798,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_reference,22,positive_image_IoU,0.05905902928144984,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_reference,22,image_recall,0.9111111111111111,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_reference,22,review_fraction,0.7218543046357616,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_reference,33,image_AUROC,0.7268343815513626,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_reference,33,native_pixel_AP,0.06716445870296328,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_reference,33,positive_image_Dice,0.10526632419655874,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_reference,33,positive_image_IoU,0.05719834570826694,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_reference,33,image_recall,0.8888888888888888,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_ARTS,1.0,dinov3_dense_reference,33,review_fraction,0.6688741721854304,255,65,registered acquisition-held-out development; source-frozen decisions,10615dddc706e661a20a
+holdout_CFVS,0.2,deeplabv3plus_full,11,image_AUROC,0.5403184386235235,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,deeplabv3plus_full,11,native_pixel_AP,0.17920491262315766,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,deeplabv3plus_full,11,positive_image_Dice,0.16469285702709024,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,deeplabv3plus_full,11,positive_image_IoU,0.0945496150726724,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,deeplabv3plus_full,11,image_recall,1.0,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,deeplabv3plus_full,11,review_fraction,1.0,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,deeplabv3plus_full,22,image_AUROC,0.6825885978428352,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,deeplabv3plus_full,22,native_pixel_AP,0.27744262658077024,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,deeplabv3plus_full,22,positive_image_Dice,0.15269644153533765,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,deeplabv3plus_full,22,positive_image_IoU,0.09355192339460579,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,deeplabv3plus_full,22,image_recall,0.9797979797979798,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,deeplabv3plus_full,22,review_fraction,0.9620253164556962,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,deeplabv3plus_full,33,image_AUROC,0.6483478856360213,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,deeplabv3plus_full,33,native_pixel_AP,0.08198800694647564,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,deeplabv3plus_full,33,positive_image_Dice,0.0,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,deeplabv3plus_full,33,positive_image_IoU,0.0,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,deeplabv3plus_full,33,image_recall,1.0,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,deeplabv3plus_full,33,review_fraction,1.0,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_frozen,11,image_AUROC,0.7430234548878617,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_frozen,11,native_pixel_AP,0.166647120433216,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_frozen,11,positive_image_Dice,0.16624586757777718,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_frozen,11,positive_image_IoU,0.09448226994721322,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_frozen,11,image_recall,1.0,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_frozen,11,review_fraction,1.0,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_frozen,22,image_AUROC,0.9022427666495463,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_frozen,22,native_pixel_AP,0.17421358354748318,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_frozen,22,positive_image_Dice,0.19099221571604713,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_frozen,22,positive_image_IoU,0.10892540089744575,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_frozen,22,image_recall,0.9191919191919192,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_frozen,22,review_fraction,0.7974683544303798,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_frozen,33,image_AUROC,0.8959082348912857,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_frozen,33,native_pixel_AP,0.018644785484564996,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_frozen,33,positive_image_Dice,0.06045945421150859,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_frozen,33,positive_image_IoU,0.032346217881055815,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_frozen,33,image_recall,0.8686868686868687,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_frozen,33,review_fraction,0.6645569620253164,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_lora,11,image_AUROC,0.9878445471665811,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_lora,11,native_pixel_AP,0.16083747369905096,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_lora,11,positive_image_Dice,0.19407078851794352,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_lora,11,positive_image_IoU,0.11028436710459501,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_lora,11,image_recall,1.0,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_lora,11,review_fraction,0.9936708860759493,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_lora,22,image_AUROC,0.985105290190036,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_lora,22,native_pixel_AP,0.15384205719209568,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_lora,22,positive_image_Dice,0.19808958815444944,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_lora,22,positive_image_IoU,0.11303817377056732,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_lora,22,image_recall,1.0,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_lora,22,review_fraction,0.9113924050632911,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_lora,33,image_AUROC,0.9739770587228215,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_lora,33,native_pixel_AP,0.13233387402143582,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_lora,33,positive_image_Dice,0.15658393613611815,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_lora,33,positive_image_IoU,0.0874281352474356,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_lora,33,image_recall,0.98989898989899,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_lora,33,review_fraction,0.8227848101265823,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_reference,11,image_AUROC,0.5805512754665297,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_reference,11,native_pixel_AP,0.07651609681150506,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_reference,11,positive_image_Dice,0.06431099332508822,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_reference,11,positive_image_IoU,0.03497580447270394,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_reference,11,image_recall,1.0,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_reference,11,review_fraction,1.0,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_reference,22,image_AUROC,0.6007532956685498,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_reference,22,native_pixel_AP,0.14069024256555895,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_reference,22,positive_image_Dice,0.0,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_reference,22,positive_image_IoU,0.0,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_reference,22,image_recall,0.797979797979798,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_reference,22,review_fraction,0.7911392405063291,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_reference,33,image_AUROC,0.8995035096730012,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_reference,33,native_pixel_AP,0.08713670197278964,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_reference,33,positive_image_Dice,0.11877549159322341,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_reference,33,positive_image_IoU,0.0649080254225786,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_reference,33,image_recall,0.8383838383838383,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,0.2,dinov3_dense_reference,33,review_fraction,0.6392405063291139,50,64,registered acquisition-held-out development; source-frozen decisions,2ff3c232468275f42a1a
+holdout_CFVS,1.0,deeplabv3plus_full,11,image_AUROC,0.9609655880842322,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,deeplabv3plus_full,11,native_pixel_AP,0.17797127025032491,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,deeplabv3plus_full,11,positive_image_Dice,0.20866509700589025,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,deeplabv3plus_full,11,positive_image_IoU,0.11962484918632085,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,deeplabv3plus_full,11,image_recall,0.8888888888888888,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,deeplabv3plus_full,11,review_fraction,0.620253164556962,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,deeplabv3plus_full,22,image_AUROC,0.9412771785653142,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,deeplabv3plus_full,22,native_pixel_AP,0.21662320818053116,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,deeplabv3plus_full,22,positive_image_Dice,0.2493396193519274,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,deeplabv3plus_full,22,positive_image_IoU,0.14540588498046544,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,deeplabv3plus_full,22,image_recall,0.9090909090909091,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,deeplabv3plus_full,22,review_fraction,0.6139240506329114,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,deeplabv3plus_full,33,image_AUROC,0.9392227358329053,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,deeplabv3plus_full,33,native_pixel_AP,0.2367879755486237,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,deeplabv3plus_full,33,positive_image_Dice,0.25697402182486667,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,deeplabv3plus_full,33,positive_image_IoU,0.15100292734558282,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,deeplabv3plus_full,33,image_recall,0.9494949494949495,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,deeplabv3plus_full,33,review_fraction,0.8417721518987342,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_frozen,11,image_AUROC,0.9274096901215545,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_frozen,11,native_pixel_AP,0.04154147499492239,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_frozen,11,positive_image_Dice,0.05123177625738109,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_frozen,11,positive_image_IoU,0.027430872163811924,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_frozen,11,image_recall,0.8383838383838383,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_frozen,11,review_fraction,0.5886075949367089,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_frozen,22,image_AUROC,0.8252011641842151,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_frozen,22,native_pixel_AP,0.10409854311800913,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_frozen,22,positive_image_Dice,0.0,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_frozen,22,positive_image_IoU,0.0,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_frozen,22,image_recall,0.9090909090909091,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_frozen,22,review_fraction,0.7848101265822784,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_frozen,33,image_AUROC,0.9304913542201678,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_frozen,33,native_pixel_AP,0.10382883244997068,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_frozen,33,positive_image_Dice,0.1266765341781308,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_frozen,33,positive_image_IoU,0.06928637507956006,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_frozen,33,image_recall,0.8484848484848485,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_frozen,33,review_fraction,0.5822784810126582,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_lora,11,image_AUROC,0.9890429720938195,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_lora,11,native_pixel_AP,0.1372996666168038,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_lora,11,positive_image_Dice,0.1702183858095439,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_lora,11,positive_image_IoU,0.0964495362996406,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_lora,11,image_recall,0.9595959595959596,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_lora,11,review_fraction,0.6075949367088608,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_lora,22,image_AUROC,0.9885293614107173,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_lora,22,native_pixel_AP,0.1407504799165149,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_lora,22,positive_image_Dice,0.1894052667611026,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_lora,22,positive_image_IoU,0.10735333233242982,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_lora,22,image_recall,0.9696969696969697,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_lora,22,review_fraction,0.6139240506329114,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_lora,33,image_AUROC,0.9952063002910461,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_lora,33,native_pixel_AP,0.1270743955640228,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_lora,33,positive_image_Dice,0.1663541985592296,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_lora,33,positive_image_IoU,0.09285490494351265,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_lora,33,image_recall,0.9797979797979798,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_lora,33,review_fraction,0.620253164556962,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_reference,11,image_AUROC,0.9272384865605204,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_reference,11,native_pixel_AP,0.12107119690963179,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_reference,11,positive_image_Dice,0.09586647821804167,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_reference,11,positive_image_IoU,0.05420670124507813,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_reference,11,image_recall,0.9292929292929293,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_reference,11,review_fraction,0.7468354430379747,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_reference,22,image_AUROC,0.9084060948467729,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_reference,22,native_pixel_AP,0.017964092519217198,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_reference,22,positive_image_Dice,0.05286749805016254,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_reference,22,positive_image_IoU,0.02839207010614132,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_reference,22,image_recall,0.8181818181818182,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_reference,22,review_fraction,0.5822784810126582,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_reference,33,image_AUROC,0.8736517719568567,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_reference,33,native_pixel_AP,0.06382175738986182,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_reference,33,positive_image_Dice,0.0,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_reference,33,positive_image_IoU,0.0,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_reference,33,image_recall,0.9595959595959596,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CFVS,1.0,dinov3_dense_reference,33,review_fraction,0.8354430379746836,249,64,registered acquisition-held-out development; source-frozen decisions,bf7cdee0fd2f20c445df
+holdout_CSIR,0.2,deeplabv3plus_full,11,image_AUROC,0.7929292929292929,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,deeplabv3plus_full,11,native_pixel_AP,0.20181248761890627,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,deeplabv3plus_full,11,positive_image_Dice,0.1870033981064907,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,deeplabv3plus_full,11,positive_image_IoU,0.1237979169328785,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,deeplabv3plus_full,11,image_recall,0.8787878787878788,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,deeplabv3plus_full,11,review_fraction,0.7469135802469136,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,deeplabv3plus_full,22,image_AUROC,0.8708964646464646,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,deeplabv3plus_full,22,native_pixel_AP,0.16852848450386806,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,deeplabv3plus_full,22,positive_image_Dice,0.1420105381748061,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,deeplabv3plus_full,22,positive_image_IoU,0.08902464259168257,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,deeplabv3plus_full,22,image_recall,0.9545454545454546,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,deeplabv3plus_full,22,review_fraction,0.7160493827160493,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,deeplabv3plus_full,33,image_AUROC,0.8243371212121212,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,deeplabv3plus_full,33,native_pixel_AP,0.25057707481081604,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,deeplabv3plus_full,33,positive_image_Dice,0.23958635625193977,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,deeplabv3plus_full,33,positive_image_IoU,0.16209626026857746,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,deeplabv3plus_full,33,image_recall,0.7727272727272727,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,deeplabv3plus_full,33,review_fraction,0.48148148148148145,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_frozen,11,image_AUROC,0.5317234848484849,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_frozen,11,native_pixel_AP,0.07347831051584443,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_frozen,11,positive_image_Dice,0.1453428035666366,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_frozen,11,positive_image_IoU,0.08926755506324348,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_frozen,11,image_recall,0.9696969696969697,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_frozen,11,review_fraction,0.9444444444444444,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_frozen,22,image_AUROC,0.7339015151515151,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_frozen,22,native_pixel_AP,0.07887061307217945,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_frozen,22,positive_image_Dice,0.14047005740788274,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_frozen,22,positive_image_IoU,0.0863392934211534,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_frozen,22,image_recall,0.9848484848484849,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_frozen,22,review_fraction,0.9444444444444444,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_frozen,33,image_AUROC,0.5580808080808081,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_frozen,33,native_pixel_AP,0.09316025406910697,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_frozen,33,positive_image_Dice,0.14313281991616877,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_frozen,33,positive_image_IoU,0.08332514068562998,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_frozen,33,image_recall,1.0,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_frozen,33,review_fraction,0.9876543209876543,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_lora,11,image_AUROC,0.8478535353535354,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_lora,11,native_pixel_AP,0.09172079881711165,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_lora,11,positive_image_Dice,0.15976664483034808,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_lora,11,positive_image_IoU,0.09743749244473277,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_lora,11,image_recall,1.0,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_lora,11,review_fraction,0.7222222222222222,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_lora,22,image_AUROC,0.9209280303030303,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_lora,22,native_pixel_AP,0.08041015238904228,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_lora,22,positive_image_Dice,0.05710412458015018,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_lora,22,positive_image_IoU,0.032426382004526216,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_lora,22,image_recall,0.9848484848484849,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_lora,22,review_fraction,0.7222222222222222,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_lora,33,image_AUROC,0.9048295454545454,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_lora,33,native_pixel_AP,0.07348979369527897,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_lora,33,positive_image_Dice,0.15302067637051256,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_lora,33,positive_image_IoU,0.08999833954925186,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_lora,33,image_recall,1.0,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_lora,33,review_fraction,0.845679012345679,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_reference,11,image_AUROC,0.5337752525252525,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_reference,11,native_pixel_AP,0.0808345033085407,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_reference,11,positive_image_Dice,0.15550510461079287,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_reference,11,positive_image_IoU,0.09378667237204313,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_reference,11,image_recall,0.9696969696969697,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_reference,11,review_fraction,0.9444444444444444,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_reference,22,image_AUROC,0.6720328282828282,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_reference,22,native_pixel_AP,0.07357248225620269,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_reference,22,positive_image_Dice,0.13244712194047603,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_reference,22,positive_image_IoU,0.07717744788043628,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_reference,22,image_recall,0.9848484848484849,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_reference,22,review_fraction,0.9506172839506173,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_reference,33,image_AUROC,0.554135101010101,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_reference,33,native_pixel_AP,0.07703088179868366,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_reference,33,positive_image_Dice,0.13295649437721813,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_reference,33,positive_image_IoU,0.07622894171227866,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_reference,33,image_recall,1.0,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,0.2,dinov3_dense_reference,33,review_fraction,0.9876543209876543,49,62,registered acquisition-held-out development; source-frozen decisions,a1fed3a9fbed5cf80963
+holdout_CSIR,1.0,deeplabv3plus_full,11,image_AUROC,0.4842171717171717,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,deeplabv3plus_full,11,native_pixel_AP,0.0831751459795671,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,deeplabv3plus_full,11,positive_image_Dice,0.05613521567387903,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,deeplabv3plus_full,11,positive_image_IoU,0.03420823372163153,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,deeplabv3plus_full,11,image_recall,0.6363636363636364,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,deeplabv3plus_full,11,review_fraction,0.6975308641975309,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,deeplabv3plus_full,22,image_AUROC,0.41382575757575757,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,deeplabv3plus_full,22,native_pixel_AP,0.1157168259811648,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,deeplabv3plus_full,22,positive_image_Dice,0.0823789699596302,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,deeplabv3plus_full,22,positive_image_IoU,0.04837134861401233,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,deeplabv3plus_full,22,image_recall,0.6060606060606061,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,deeplabv3plus_full,22,review_fraction,0.6851851851851852,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,deeplabv3plus_full,33,image_AUROC,0.5629734848484849,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,deeplabv3plus_full,33,native_pixel_AP,0.10437182509047446,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,deeplabv3plus_full,33,positive_image_Dice,0.0915681242925002,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,deeplabv3plus_full,33,positive_image_IoU,0.05552235400363375,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,deeplabv3plus_full,33,image_recall,0.6212121212121212,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,deeplabv3plus_full,33,review_fraction,0.6111111111111112,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_frozen,11,image_AUROC,0.6485164141414141,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_frozen,11,native_pixel_AP,0.0892339814967289,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_frozen,11,positive_image_Dice,0.16141482904969914,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_frozen,11,positive_image_IoU,0.09577186579058083,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_frozen,11,image_recall,1.0,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_frozen,11,review_fraction,0.8641975308641975,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_frozen,22,image_AUROC,0.6688762626262627,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_frozen,22,native_pixel_AP,0.06510211743490278,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_frozen,22,positive_image_Dice,0.13780424702948105,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_frozen,22,positive_image_IoU,0.07652257104083465,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_frozen,22,image_recall,0.9696969696969697,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_frozen,22,review_fraction,0.8580246913580247,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_frozen,33,image_AUROC,0.6714015151515151,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_frozen,33,native_pixel_AP,0.08349272273621386,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_frozen,33,positive_image_Dice,0.1631470535084792,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_frozen,33,positive_image_IoU,0.09479372164662822,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_frozen,33,image_recall,1.0,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_frozen,33,review_fraction,0.8888888888888888,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_lora,11,image_AUROC,0.9198232323232324,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_lora,11,native_pixel_AP,0.0771009729719122,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_lora,11,positive_image_Dice,0.1676893342834426,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_lora,11,positive_image_IoU,0.09831011529547119,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_lora,11,image_recall,1.0,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_lora,11,review_fraction,0.7962962962962963,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_lora,22,image_AUROC,0.9221906565656566,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_lora,22,native_pixel_AP,0.07547447416579046,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_lora,22,positive_image_Dice,0.10958937040527629,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_lora,22,positive_image_IoU,0.060699526588134246,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_lora,22,image_recall,1.0,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_lora,22,review_fraction,0.7592592592592593,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_lora,33,image_AUROC,0.9228219696969696,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_lora,33,native_pixel_AP,0.0604072793513301,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_lora,33,positive_image_Dice,0.1491998172205114,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_lora,33,positive_image_IoU,0.0872698004210444,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_lora,33,image_recall,1.0,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_lora,33,review_fraction,0.7592592592592593,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_reference,11,image_AUROC,0.6354166666666667,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_reference,11,native_pixel_AP,0.07690378722270834,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_reference,11,positive_image_Dice,0.14752727241387611,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_reference,11,positive_image_IoU,0.08291604177288399,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_reference,11,image_recall,0.9848484848484849,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_reference,11,review_fraction,0.8580246913580247,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_reference,22,image_AUROC,0.6707702020202021,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_reference,22,native_pixel_AP,0.06324976214066601,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_reference,22,positive_image_Dice,0.12390334349428386,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_reference,22,positive_image_IoU,0.06917803297996514,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_reference,22,image_recall,0.9696969696969697,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_reference,22,review_fraction,0.8641975308641975,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_reference,33,image_AUROC,0.6373106060606061,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_reference,33,native_pixel_AP,0.062326401515758856,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_reference,33,positive_image_Dice,0.150926397738235,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_reference,33,positive_image_IoU,0.08865031122167392,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_reference,33,image_recall,1.0,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
+holdout_CSIR,1.0,dinov3_dense_reference,33,review_fraction,0.9506172839506173,247,62,registered acquisition-held-out development; source-frozen decisions,4d76b7f6003ca39e9afb
